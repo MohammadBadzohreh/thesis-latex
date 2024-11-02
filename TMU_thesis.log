@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  31 OCT 2024 12:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  2 NOV 2024 12:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1047,7 +1047,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
-[4])
+[4]
+Overfull \hbox (6.58104pt too wide) in paragraph at lines 59--60
+[]\TU/XBNiloofar.ttf(0)/b/n/12 یادگیری ماشین (Machine-Learning) شاخه‌ای از هوش 
+مصنوعی است که به مدل های محاسباتی[]
+ []
+
+
+Overfull \hbox (34.64407pt too wide) in paragraph at lines 62--66
+[]\TU/XBNiloofar.ttf(0)/b/n/12 یادگیری بدون نظارت (Unsupervised-Learning) یادگی
+ری تقویتی (Reinforcement-Learning) []
+ []
+
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1057,6 +1069,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [5]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[6]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
@@ -1067,7 +1088,7 @@ Overfull \hbox (20.0497pt too wide) in paragraph at lines 4--5
 ر تلاش است توزیع و الگوهای مجموعه‌داده‌های[]
  []
 
-) [6
+) [7
 
 
 
@@ -1077,7 +1098,7 @@ Overfull \hbox (20.0497pt too wide) in paragraph at lines 4--5
 
  (./chapter3.tex
 فصل 3.
-) [7
+) [8
 
 
 
@@ -1087,7 +1108,7 @@ Overfull \hbox (20.0497pt too wide) in paragraph at lines 4--5
 
  (./chapter4.tex
 فصل 4.
-) [8
+) [9
 
 
 
@@ -1123,7 +1144,7 @@ ine 46.
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [9
+) [10
 
 
 
@@ -1138,7 +1159,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
  (./appendix1.tex
 پیوست آ.
-) [10
+) [11
 
 
 ]
@@ -1148,13 +1169,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
 [][]
  []
 
-[11
+[12
 
 
 ]
 File: armtmu.eps Graphic file (type eps)
 <armtmu.eps>
- [12]) 
+ [13]) 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
@@ -1165,29 +1186,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-Package rerunfilecheck Warning: File `TMU_thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `TMU_thesis.out':
-(rerunfilecheck)             Before: 081EA334DA8B330885CA551BA5D7E9DD;2187
-(rerunfilecheck)             After:  152F298D173DCFF7086218A07DECA3F3;3437.
-
-Package rerunfilecheck Warning: File `TMU_thesis.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `TMU_thesis.brf':
-(rerunfilecheck)             Before: 7B45FFF69ED373455DCADFFFD97F61F1;138
-(rerunfilecheck)             After:  12D48D6EBB2322F5B70B0A735B42B0C6;149.
+Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 1A5E68B66A1D55A8625FFA494B0F3674;4769.
+Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 12D48D6EBB2322F5B70B0A735B42B0C6;149.
  ) 
 Here is how much of TeX's memory you used:
- 16307 strings out of 476683
- 323617 string characters out of 5807575
+ 16308 strings out of 476683
+ 323630 string characters out of 5807575
  1853012 words of memory out of 5000000
- 36121 multiletter control sequences out of 15000+600000
+ 36122 multiletter control sequences out of 15000+600000
  518281 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,11n,94p,1353b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (20 pages).
+Output written on TMU_thesis.pdf (21 pages).
