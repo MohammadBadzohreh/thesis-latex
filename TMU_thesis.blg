@@ -1,8 +1,12 @@
-This is BibTeX, Version 0.99d (TeX Live 2024)
+This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: TMU_thesis.aux
 A level-1 auxiliary file: Introduction.aux
 A level-1 auxiliary file: chapter1.aux
+White space in argument---line 14 of file chapter1.aux
+ : \citation{2004;
+ :                 Russell & Norvig}
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
@@ -10,11 +14,13 @@ A level-1 auxiliary file: chapter5.aux
 A level-1 auxiliary file: references.aux
 The style file: plain.bst
 A level-1 auxiliary file: appendix1.aux
-I found no \citation commands---while reading file TMU_thesis.aux
 Database file #1: reference.bib
+Warning--I didn't find a database entry for "russell2016artificial"
+Warning--I didn't find a database entry for "(McCorduck"
+Warning--I didn't find a database entry for "2016)."
 You've used 0 entries,
             2118 wiz_defined-function locations,
-            505 strings with 4105 characters,
+            509 strings with 4152 characters,
 and the built_in function-call counts, 18 in all, are:
 = -- 0
 > -- 0

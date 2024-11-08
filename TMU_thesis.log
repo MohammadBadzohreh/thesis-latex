@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  2 NOV 2024 12:14
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.19)  9 NOV 2024 00:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -816,9 +816,7 @@ ine 122.
 LaTeX Warning: Unused global option(s):
     [oneside,openany,12pt].
 
-(./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
-(./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
-(./appendix1.aux))
+(./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux))
 \openout1 = `TMU_thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -832,7 +830,8 @@ LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 2.
- (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 22.
@@ -959,45 +958,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--161
 [4]) (./TMU_thesis.toc
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
 (Font)              scaled to size 13.20007pt on input line 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
- (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
-
-(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-])
 \tf@toc=\write5
 \openout5 = `TMU_thesis.toc'.
 
+ [1
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[2] (./TMU_thesis.lot)
+] (./TMU_thesis.lot)
 \tf@lot=\write6
 \openout6 = `TMU_thesis.lot'.
 
- [3
+ [2
 
 ] (./TMU_thesis.lof)
 \tf@lof=\write7
 \openout7 = `TMU_thesis.lof'.
 
- [4
+ [3
 
 ]
 \openout2 = `Introduction.aux'.
 
- (./Introduction.tex) [1
+
+(./Introduction.tex) [1
 
 
 
@@ -1005,8 +988,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `chapter1.aux'.
 
-
-(./chapter1.tex
+ (./chapter1.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/BNazaninOutline.ttf(0)/m/n' will be
 (Font)              scaled to size 28.79999pt on input line 1.
@@ -1059,7 +1041,6 @@ Overfull \hbox (34.64407pt too wide) in paragraph at lines 62--66
 ری تقویتی (Reinforcement-Learning) []
  []
 
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1078,108 +1059,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [6]
-\openout2 = `chapter2.aux'.
 
- (./chapter2.tex
-فصل 2.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-Overfull \hbox (20.0497pt too wide) in paragraph at lines 4--5
-[]\TU/XBNiloofar.ttf(0)/b/n/12 خوشه‌بندی یک روش یادگیری غیر ساخت‌یافته است که د
-ر تلاش است توزیع و الگوهای مجموعه‌داده‌های[]
- []
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
-) [7
+[7]
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
+[8]
 
-]
-\openout2 = `chapter3.aux'.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
- (./chapter3.tex
-فصل 3.
-) [8
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
-
-
-
-]
-\openout2 = `chapter4.aux'.
-
- (./chapter4.tex
-فصل 4.
-) [9
-
-
-
-
-]
-\openout2 = `chapter5.aux'.
-
-
-No file chapter5.tex.
-\openout2 = `references.aux'.
-
-(./references.tex)
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 12.04506pt on input line 40.
-
-
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less.
-(fancyhdr)                Please consider using the `twoside' option on input l
-ine 44.
-
-
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less.
-(fancyhdr)                Please consider using the `twoside' option on input l
-ine 46.
-
-(./TMU_thesis.bbl (./TMU_thesis.brf)
-\tf@brf=\write8
-\openout8 = `TMU_thesis.brf'.
-
-
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [10
-
-
-
-
-
-
-
-
-
-]
-\openout2 = `appendix1.aux'.
-
- (./appendix1.tex
-پیوست آ.
-) [11
-
-
-]
-No file TMU_thesis.ind.
-(./en_title.tex
-Underfull \hbox (badness 10000) in paragraph at lines 40--44
-[][]
- []
-
-[12
-
-
-]
-File: armtmu.eps Graphic file (type eps)
-<armtmu.eps>
- [13]) 
+[9] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
-(./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
-(./appendix1.aux))
+(./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1187,17 +1095,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1A5E68B66A1D55A8625FFA494B0F3674;4769.
-Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 12D48D6EBB2322F5B70B0A735B42B0C6;149.
- ) 
-Here is how much of TeX's memory you used:
- 16308 strings out of 476683
- 323630 string characters out of 5807575
- 1853012 words of memory out of 5000000
- 36122 multiletter control sequences out of 15000+600000
- 518281 words of font info for 95 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 92i,11n,94p,1353b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
+(rerunfilecheck)             Checksum: B35DB0A500D1A89BFF689DC1B42B0738;4528.
+ ) )
+(\end occurred inside a group at level 1)
 
-Output written on TMU_thesis.pdf (21 pages).
+### simple group (level 1) entered at line 31 ({)
+### bottom level
+(\end occurred when \iftrue on line 34 was incomplete)
+(\end occurred when \ifx on line 34 was incomplete)
+(\end occurred when \ifnum on line 34 was incomplete) 
+Here is how much of TeX's memory you used:
+ 16030 strings out of 476683
+ 316746 string characters out of 5807575
+ 1853012 words of memory out of 5000000
+ 35922 multiletter control sequences out of 15000+600000
+ 513580 words of font info for 70 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 92i,11n,94p,1353b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on TMU_thesis.pdf (16 pages).
