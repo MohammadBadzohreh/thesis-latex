@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  17 NOV 2024 07:26
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  17 NOV 2024 08:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1125,7 +1125,73 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
-[11] 
+[11]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[12]
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 6.60004pt on input line 266.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[16]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[17]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[18] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux)
 Runaway argument?
@@ -1147,7 +1213,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 73B870E5E97B3AB66D5F002CB42F540B;5406.
+(rerunfilecheck)             Checksum: E8471A4B378071909E64ADF870F828BF;7242.
  ) )
 (\end occurred inside a group at level 1)
 
@@ -1157,12 +1223,12 @@ Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
 (\end occurred when \ifx on line 34 was incomplete)
 (\end occurred when \ifnum on line 34 was incomplete) 
 Here is how much of TeX's memory you used:
- 16080 strings out of 476683
- 317454 string characters out of 5807575
+ 16083 strings out of 476683
+ 317577 string characters out of 5807575
  1853012 words of memory out of 5000000
- 35952 multiletter control sequences out of 15000+600000
- 518225 words of font info for 88 fonts, out of 8000000 for 9000
+ 35954 multiletter control sequences out of 15000+600000
+ 518233 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,11n,94p,1353b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,12n,94p,1353b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (19 pages).
+Output written on TMU_thesis.pdf (26 pages).
