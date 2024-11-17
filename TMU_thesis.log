@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.19)  9 NOV 2024 00:00
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  17 NOV 2024 07:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -958,29 +958,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--161
 [4]) (./TMU_thesis.toc
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
 (Font)              scaled to size 13.20007pt on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+])
 \tf@toc=\write5
 \openout5 = `TMU_thesis.toc'.
 
- [1
 
-] (./TMU_thesis.lot)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2] (./TMU_thesis.lot)
 \tf@lot=\write6
 \openout6 = `TMU_thesis.lot'.
 
- [2
+ [3
 
 ] (./TMU_thesis.lof)
 \tf@lof=\write7
 \openout7 = `TMU_thesis.lof'.
 
- [3
+ [4
 
 ]
 \openout2 = `Introduction.aux'.
 
-
-(./Introduction.tex) [1
+ (./Introduction.tex) [1
 
 
 
@@ -988,7 +1004,8 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
 ]
 \openout2 = `chapter1.aux'.
 
- (./chapter1.tex
+
+(./chapter1.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/BNazaninOutline.ttf(0)/m/n' will be
 (Font)              scaled to size 28.79999pt on input line 1.
@@ -1077,6 +1094,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [8]
+Overfull \hbox (20.34917pt too wide) in paragraph at lines 145--145
+[][]\TU/XBNiloofar.ttf(0)/b/n/14.4 شبکه‌های عصبی بازگشتی (RNN) و شبکه‌های حافظه
+ بلند مدت کوتاه‌مدت[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1085,9 +1107,39 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
-[9] 
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[11] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux))
+(./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux)
+Runaway argument?
+! File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.22 \@input{chapter1.aux}
+                          
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1095,7 +1147,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B35DB0A500D1A89BFF689DC1B42B0738;4528.
+(rerunfilecheck)             Checksum: 73B870E5E97B3AB66D5F002CB42F540B;5406.
  ) )
 (\end occurred inside a group at level 1)
 
@@ -1105,12 +1157,12 @@ Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
 (\end occurred when \ifx on line 34 was incomplete)
 (\end occurred when \ifnum on line 34 was incomplete) 
 Here is how much of TeX's memory you used:
- 16030 strings out of 476683
- 316746 string characters out of 5807575
+ 16080 strings out of 476683
+ 317454 string characters out of 5807575
  1853012 words of memory out of 5000000
- 35922 multiletter control sequences out of 15000+600000
- 513580 words of font info for 70 fonts, out of 8000000 for 9000
+ 35952 multiletter control sequences out of 15000+600000
+ 518225 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,11n,94p,1353b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,11n,94p,1353b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (16 pages).
+Output written on TMU_thesis.pdf (19 pages).

@@ -1,3 +1,28 @@
-\contentsline {chapter}{فهرست جداول}{ب}{chapter*.2}%
-\contentsline {chapter}{فهرست تصاویر}{ج}{chapter*.3}%
+\contentsline {chapter}{فهرست جداول}{ج}{chapter*.2}%
+\contentsline {chapter}{فهرست تصاویر}{د}{chapter*.3}%
 \contentsline {chapter}{پیش‌گفتار}{1}{section*.5}%
+\contentsline {chapter}{\numberline {1}مفاهیم اولیه}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}مقدمه}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}آغاز هوش مصنوعی و هدف اصلی}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}دورهٔ طلایی و پیشرفت‌های اولیه}{3}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}انتظارات بیش از حد و ظهور عصر تاریک}{3}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}عوامل اصلی عصر تاریک هوش مصنوعی}{3}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}پایان عصر تاریک و بازگشت هوش مصنوعی}{4}{subsection.1.1.5}%
+\contentsline {section}{\numberline {1.2}انواع مدل یادگیری ماشین و شبکه های عصبی}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}یادگیری ماشین: مروری کلی}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}تقسیم‌بندی‌های اصلی در یادگیری ماشین}{5}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}یادگیری نظارت شده (Supervised-Learning)}{5}{subsection.1.2.3}%
+\contentsline {subsubsection}{طبقه‌بندی (Classification)}{6}{section*.6}%
+\contentsline {subsubsection}{رگرسیون (regression)}{6}{section*.7}%
+\contentsline {subsubsection}{یادگیری تقویتی (Reinforcement-Learning)}{6}{section*.8}%
+\contentsline {subsection}{\numberline {1.2.4}معرفی چند مدل از الگوریتم یادگیری کلاسیک }{7}{subsection.1.2.4}%
+\contentsline {subsubsection}{نزدیک ترین همسایه(k-nearest-Neighbors)}{7}{section*.9}%
+\contentsline {subsubsection}{مزایا:}{7}{section*.10}%
+\contentsline {subsubsection}{معایب:}{7}{section*.11}%
+\contentsline {subsection}{\numberline {1.2.5}ماشین بردار پشتیبان:(Support-Vector-Machine)}{8}{subsection.1.2.5}%
+\contentsline {subsubsection}{مزایا:}{8}{section*.12}%
+\contentsline {subsubsection}{معایب:}{8}{section*.13}%
+\contentsline {subsection}{\numberline {1.2.6} بیز ساده (Naive-Bayes):}{8}{subsection.1.2.6}%
+\contentsline {subsubsection}{مزایا:}{9}{section*.14}%
+\contentsline {subsection}{\numberline {1.2.7}معایب:}{9}{subsection.1.2.7}%
+\contentsline {subsection}{\numberline {1.2.8}شبکه‌های عصبی بازگشتی (RNN) و شبکه‌های حافظه بلند مدت کوتاه‌مدت (LSTM)}{9}{subsection.1.2.8}%
