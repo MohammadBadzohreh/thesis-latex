@@ -1,5 +1,5 @@
-\contentsline {chapter}{فهرست جداول}{ج}{chapter*.2}%
-\contentsline {chapter}{فهرست تصاویر}{د}{chapter*.3}%
+\contentsline {chapter}{فهرست جداول}{د}{chapter*.2}%
+\contentsline {chapter}{فهرست تصاویر}{ه}{chapter*.3}%
 \contentsline {chapter}{پیش‌گفتار}{1}{section*.5}%
 \contentsline {chapter}{\numberline {1}مفاهیم اولیه}{2}{chapter.1}%
 \contentsline {section}{\numberline {1.1}مقدمه}{2}{section.1.1}%
@@ -26,3 +26,35 @@
 \contentsline {subsubsection}{مزایا:}{9}{section*.14}%
 \contentsline {subsection}{\numberline {1.2.7}معایب:}{9}{subsection.1.2.7}%
 \contentsline {subsection}{\numberline {1.2.8}شبکه‌های عصبی بازگشتی (RNN) و شبکه‌های حافظه بلند مدت کوتاه‌مدت (LSTM)}{9}{subsection.1.2.8}%
+\contentsline {subsection}{\numberline {1.2.9}RNN:}{10}{subsection.1.2.9}%
+\contentsline {subsubsection}{ساختار و عملکرد RNN:}{10}{section*.15}%
+\contentsline {subsection}{\numberline {1.2.10}مزایا و معایب Rnn:}{10}{subsection.1.2.10}%
+\contentsline {subsubsection}{مزایا:}{11}{section*.16}%
+\contentsline {subsubsection}{معایب:}{11}{section*.17}%
+\contentsline {subsection}{\numberline {1.2.11}شبکه‌های حافظه بلندمدت-کوتاه‌مدت (LSTM):}{11}{subsection.1.2.11}%
+\contentsline {subsubsection}{علل پیدایش lstm:}{11}{section*.18}%
+\contentsline {subsubsection}{ Gradient Vanishing:}{12}{section*.19}%
+\contentsline {subsection}{\numberline {1.2.12}ظهور Lstm:}{12}{subsection.1.2.12}%
+\contentsline {subsubsection}{راه‌حل LSTM برای پایداری جریان گرادیان‌ها:}{13}{section*.20}%
+\contentsline {section}{\numberline {1.3}اختار LSTM: نوآوری در مقایسه با RNN}{13}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}وضعیت سلولی (Cell State):}{13}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}دروازه‌ها (Gates):}{13}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}به‌روزرسانی وضعیت سلولی:}{14}{subsection.1.3.3}%
+\contentsline {subsubsection}{علت پایداری گرادیان در Lstm:}{15}{section*.21}%
+\contentsline {subsection}{\numberline {1.3.4}مشکلات کلی rnn و lstm و ظهور ترانسفومرها}{15}{subsection.1.3.4}%
+\contentsline {subsubsection}{ مشکل وابستگی ترتیبی در RNNها و LSTMها}{15}{section*.22}%
+\contentsline {subsubsection}{ محدودیت در یادگیری وابستگی‌های بسیار طولانی}{16}{section*.23}%
+\contentsline {subsubsection}{پیچیدگی محاسباتی و حافظه}{16}{section*.24}%
+\contentsline {subsubsection}{مشکل پردازش وابستگی‌های غیرمتوالی}{17}{section*.25}%
+\contentsline {subsubsection}{گرادیان‌های ناپایدار و مشکلات بهینه‌سازی:}{17}{section*.26}%
+\contentsline {subsubsection}{نیاز به مدلی با ظرفیت بیشتر و سرعت بالاتر:}{17}{section*.27}%
+\contentsline {chapter}{\numberline {2}پیشینه پژوهش}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مقدمه}{19}{section.2.1}%
+\contentsline {section}{\numberline {2.2}مشکلات ترجمه ماشینی و ترانسفورمرها:}{19}{section.2.2}%
+\contentsline {section}{\numberline {2.3}ظهور ترانسفورمر ها:}{20}{section.2.3}%
+\contentsline {section}{\numberline {2.4}معماری ترانسفورمر ها:}{20}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Embedding:}{21}{subsection.2.4.1}%
+\contentsline {chapter}{\numberline {3}روش های پیشنهادی}{22}{chapter.3}%
+\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{23}{chapter.4}%
+\contentsline {chapter}{کتاب‌نامه}{24}{chapter*.28}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{25}{appendix.Alph1}%
