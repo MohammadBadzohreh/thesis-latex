@@ -48,13 +48,18 @@
 \contentsline {subsubsection}{مشکل پردازش وابستگی‌های غیرمتوالی}{17}{section*.25}%
 \contentsline {subsubsection}{گرادیان‌های ناپایدار و مشکلات بهینه‌سازی:}{17}{section*.26}%
 \contentsline {subsubsection}{نیاز به مدلی با ظرفیت بیشتر و سرعت بالاتر:}{17}{section*.27}%
-\contentsline {chapter}{\numberline {2}پیشینه پژوهش}{19}{chapter.2}%
-\contentsline {section}{\numberline {2.1}مقدمه}{19}{section.2.1}%
-\contentsline {section}{\numberline {2.2}مشکلات ترجمه ماشینی و ترانسفورمرها:}{19}{section.2.2}%
-\contentsline {section}{\numberline {2.3}ظهور ترانسفورمر ها:}{20}{section.2.3}%
-\contentsline {section}{\numberline {2.4}معماری ترانسفورمر ها:}{20}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Embedding:}{21}{subsection.2.4.1}%
-\contentsline {chapter}{\numberline {3}روش های پیشنهادی}{22}{chapter.3}%
-\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{23}{chapter.4}%
-\contentsline {chapter}{کتاب‌نامه}{24}{chapter*.28}%
-\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{25}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {2}پیشینه پژوهش}{20}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مقدمه}{20}{section.2.1}%
+\contentsline {section}{\numberline {2.2}مشکلات ترجمه ماشینی و ترانسفورمرها:}{20}{section.2.2}%
+\contentsline {section}{\numberline {2.3}ظهور ترانسفورمر ها:}{21}{section.2.3}%
+\contentsline {section}{\numberline {2.4}معماری ترانسفورمر ها:}{21}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Embedding:}{22}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}positional embedding:}{23}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}attention:}{25}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Residual Connection (Add):}{29}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}مزایای Residual Connection در ترانسفورمر}{29}{subsection.2.4.5}%
+\contentsline {section}{\numberline {2.5}Layer Normalization (Norm):}{30}{section.2.5}%
+\contentsline {chapter}{\numberline {3}روش های پیشنهادی}{34}{chapter.3}%
+\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{35}{chapter.4}%
+\contentsline {chapter}{کتاب‌نامه}{36}{chapter*.36}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{37}{appendix.Alph1}%
