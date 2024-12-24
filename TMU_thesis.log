@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  24 DEC 2024 13:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  24 DEC 2024 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1000,7 +1000,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  [4
 
-] (./TMU_thesis.lof)
+] (./TMU_thesis.lof
+Overfull \hbox (5.28258pt too wide) detected at line 12
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۰.‏۹.‏۲ 
+ []
+
+)
 \tf@lof=\write7
 \openout7 = `TMU_thesis.lof'.
 
@@ -1017,8 +1022,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `chapter1.aux'.
 
-
-(./chapter1.tex
+ (./chapter1.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/BNazaninOutline.ttf(0)/m/n' will be
 (Font)              scaled to size 28.79999pt on input line 1.
@@ -1450,7 +1454,6 @@ File: transformer_images/space_patch_iamge.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1468,12 +1471,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38]
+[38])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[39]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 فصل 3.
-) [39
+) [40
 
 
 
@@ -1483,7 +1495,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./chapter4.tex
 فصل 4.
-) [40
+) [41
 
 
 
@@ -1518,7 +1530,7 @@ ine 46.
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [41
+) [42
 
 
 
@@ -1533,7 +1545,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
  (./appendix1.tex
 پیوست آ.
-) [42
+) [43
 
 
 ]
@@ -1543,13 +1555,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
 [][]
  []
 
-[43
+[44
 
 
 ]
 File: armtmu.eps Graphic file (type eps)
 <armtmu.eps>
- [44]) 
+ [45]) 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
@@ -1563,8 +1575,14 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: F8161BF03A98ADDCB73A0C1365A3B81C;11175.
+
+Package rerunfilecheck Warning: File `TMU_thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `TMU_thesis.out':
+(rerunfilecheck)             Before: F8161BF03A98ADDCB73A0C1365A3B81C;11175
+(rerunfilecheck)             After:  38535F121FD3B940BC87558569D81CD1;11330.
 Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
 (rerunfilecheck)             Checksum: 12D48D6EBB2322F5B70B0A735B42B0C6;149.
  ) 
@@ -1577,4 +1595,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  92i,12n,94p,1353b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (53 pages).
+Output written on TMU_thesis.pdf (54 pages).
