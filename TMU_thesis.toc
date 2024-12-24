@@ -59,7 +59,13 @@
 \contentsline {subsection}{\numberline {2.4.4}Residual Connection (Add):}{29}{subsection.2.4.4}%
 \contentsline {subsection}{\numberline {2.4.5}مزایای Residual Connection در ترانسفورمر}{29}{subsection.2.4.5}%
 \contentsline {section}{\numberline {2.5}Layer Normalization (Norm):}{30}{section.2.5}%
-\contentsline {chapter}{\numberline {3}روش های پیشنهادی}{34}{chapter.3}%
-\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{35}{chapter.4}%
-\contentsline {chapter}{کتاب‌نامه}{36}{chapter*.36}%
-\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{37}{appendix.Alph1}%
+\contentsline {section}{\numberline {2.6}decoder:}{33}{section.2.6}%
+\contentsline {section}{\numberline {2.7}masked multi head attention}{33}{section.2.7}%
+\contentsline {section}{\numberline {2.8}مثال عددی mask attention:}{34}{section.2.8}%
+\contentsline {section}{\numberline {2.9}vision transformer:}{35}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}patch embedding in vision transformer:}{36}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}شکل پچ ها:}{36}{subsection.2.9.2}%
+\contentsline {chapter}{\numberline {3}روش های پیشنهادی}{39}{chapter.3}%
+\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{40}{chapter.4}%
+\contentsline {chapter}{کتاب‌نامه}{41}{chapter*.36}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{42}{appendix.Alph1}%
