@@ -11,7 +11,11 @@
 \contentsline {figure}{\numberline {9.9.2}{\ignorespaces original Image}}{37}{figure.2.9}%
 \contentsline {figure}{\numberline {10.9.2}{\ignorespaces patch Image}}{38}{figure.2.10}%
 \contentsline {figure}{\numberline {11.10.2}{\ignorespaces Embedding in Vision Transformer}}{40}{figure.2.11}%
-\contentsline {figure}{\numberline {12.10.2}{\ignorespaces Cls Token in Vision Transformer}}{42}{figure.2.12}%
+\contentsline {figure}{\numberline {12.10.2}{\ignorespaces Cls Token in Vision Transformer}}{43}{figure.2.12}%
+\contentsline {figure}{\numberline {13.11.2}{\ignorespaces Swin Transformer}}{44}{figure.2.13}%
+\contentsline {figure}{\numberline {14.11.2}{\ignorespaces Widow vs Shifted Window}}{49}{figure.2.14}%
+\contentsline {figure}{\numberline {15.11.2}{\ignorespaces cycle Shift}}{50}{figure.2.15}%
+\contentsline {figure}{\numberline {16.11.2}{\ignorespaces Patch Merging}}{54}{figure.2.16}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
