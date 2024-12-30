@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  30 DEC 2024 14:16
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  30 DEC 2024 14:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1186,7 +1186,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [13]
-Overfull \hbox (10.72153pt too wide) in paragraph at lines 264--267
+Overfull \hbox (10.72153pt too wide) in paragraph at lines 265--268
 []\TU/XBNiloofar.ttf(0)/b/n/12 در سال ۱۹۹۷، []\TU/lmroman10-regular(0)/m/n/12 S
 epp Hochreiter[] \TU/XBNiloofar.ttf(0)/b/n/12 و []\TU/lmroman10-regular(0)/m/n/
 12 Jürgen Schmidhuber[] \TU/XBNiloofar.ttf(0)/b/n/12 شبکه‌های حافظهٔ بلندمدت-کو
@@ -1203,7 +1203,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [14]
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 6.60004pt on input line 297.
+(Font)              scaled to size 6.60004pt on input line 298.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1214,7 +1214,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [15]
-Overfull \hbox (114.57555pt too wide) in paragraph at lines 352--360
+Overfull \hbox (114.57555pt too wide) in paragraph at lines 353--361
  [][][][] 
  []
 
@@ -1806,8 +1806,13 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 38FD132266794C6E332BD23CB00DF62C;13803.
-Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 2D00C865B8304E4789DF600CEF20C1FE;4230.
+
+Package rerunfilecheck Warning: File `TMU_thesis.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `TMU_thesis.brf':
+(rerunfilecheck)             Before: DBD6B2F8AC9F62044D7BA09ACC5C6889;4232
+(rerunfilecheck)             After:  2D00C865B8304E4789DF600CEF20C1FE;4230.
  ) 
 Here is how much of TeX's memory you used:
  16580 strings out of 476683
