@@ -1,3 +1,160 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{bahdanau2014neural}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock In {\em Proceedings of the 2015 International Conference on Learning
+  Representations (ICLR)}, San Diego, CA, 2015.
+
+\bibitem{bishop2006pattern}
+Christopher~M. Bishop.
+\newblock {\em Pattern Recognition and Machine Learning}.
+\newblock Springer, New York, 2006.
+
+\bibitem{cortes1995support}
+Corinna Cortes and Vladimir Vapnik.
+\newblock Support-vector networks.
+\newblock {\em Machine Learning}, 20(3):273--297, 1995.
+
+\bibitem{cover1967nearest}
+Thomas~M. Cover and Peter~E. Hart.
+\newblock Nearest neighbor pattern classification.
+\newblock {\em IEEE Transactions on Information Theory}, 13(1):21--27, 1967.
+
+\bibitem{crevier1993ai}
+Daniel Crevier.
+\newblock {\em AI: The Tumultuous History of the Search for Artificial
+  Intelligence}.
+\newblock Basic Books, New York, 1993.
+
+\bibitem{domingos1997optimal}
+Pedro Domingos and Michael Pazzani.
+\newblock On the optimality of the simple bayesian classifier under zero-one
+  loss.
+\newblock {\em Machine Learning}, 29(2--3):103--130, 1997.
+
+\bibitem{duda1973pattern}
+Richard~O. Duda and Peter~E. Hart.
+\newblock {\em Pattern Classification and Scene Analysis}.
+\newblock John Wiley \& Sons, New York, 1973.
+
+\bibitem{elman1990finding}
+Jeffrey~L. Elman.
+\newblock Finding structure in time.
+\newblock {\em Cognitive Science}, 14(2):179--211, 1990.
+
+\bibitem{feigenbaum1983handbook}
+Edward~A. Feigenbaum and Pamela McCorduck.
+\newblock {\em The Fifth Generation: Artificial Intelligence and Japan's
+  Computer Challenge to the World}.
+\newblock Addison-Wesley, Reading, MA, 1983.
+
+\bibitem{gers1999learning}
+Felix~A. Gers, J{\"u}rgen Schmidhuber, and Fred Cummins.
+\newblock Learning to forget: Continual prediction with lstm.
+\newblock In {\em Proceedings of the Ninth International Conference on
+  Artificial Neural Networks (ICANN-99)}, pages 850--855, Edinburgh, UK, 1999.
+
+\bibitem{goodfellow2016deep}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep Learning}.
+\newblock MIT Press, Cambridge, MA, 2016.
+
+\bibitem{hochreiter1998vanishing}
+Sepp Hochreiter.
+\newblock The vanishing gradient problem during learning recurrent neural nets
+  and problem solutions.
+\newblock {\em International Journal of Uncertainty, Fuzziness and
+  Knowledge-Based Systems}, 6(2):107--116, 1998.
+
+\bibitem{hochreiter1997long}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural Computation}, 9(8):1735--1780, 1997.
+
+\bibitem{james2013introduction}
+Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
+\newblock {\em An Introduction to Statistical Learning: with Applications in
+  R}.
+\newblock Springer, New York, 2013.
+
+\bibitem{lighthill1973artificial}
+James Lighthill.
+\newblock {\em Artificial Intelligence: A General Survey}.
+\newblock HM Stationery Office, London, 1973.
+\newblock Science Research Council Report.
+
+\bibitem{mccallum1998comparison}
+Andrew McCallum and Kamal Nigam.
+\newblock A comparison of event models for naive bayes text classification.
+\newblock In {\em AAAI-98 Workshop on Learning for Text Categorization}, pages
+  41--48, Madison, WI, 1998.
+
+\bibitem{mccarthy1956proposal}
+John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude~E. Shannon.
+\newblock A proposal for the dartmouth summer research project on artificial
+  intelligence.
+\newblock {\em Dartmouth College AI Archive}, 1956.
+
+\bibitem{mccorduck2004machines}
+Pamela McCorduck.
+\newblock {\em Machines Who Think: A Personal Inquiry into the History and
+  Prospects of Artificial Intelligence}.
+\newblock A. K. Peters, Ltd., Natick, MA, 2nd edition, 2004.
+
+\bibitem{mitchell1997machine}
+Tom~M. Mitchell.
+\newblock {\em Machine Learning}.
+\newblock McGraw-Hill, New York, 1997.
+
+\bibitem{montgomery2021introduction}
+Douglas~C. Montgomery, Elizabeth~A. Peck, and Geoffrey~G. Vining.
+\newblock {\em Introduction to Linear Regression Analysis}.
+\newblock John Wiley \& Sons, Hoboken, NJ, 6th edition, 2021.
+
+\bibitem{murphy2012machine}
+Kevin~P. Murphy.
+\newblock {\em Machine Learning: A Probabilistic Perspective}.
+\newblock MIT Press, Cambridge, MA, 2012.
+
+\bibitem{newell1959report}
+Allen Newell, J.~Clifford Shaw, and Herbert~A. Simon.
+\newblock Report on a general problem-solving program.
+\newblock In {\em Proceedings of the International Conference on Information
+  Processing}, pages 256--264, 1959.
+
+\bibitem{nilsson2010quest}
+Nils~J. Nilsson.
+\newblock {\em The Quest for Artificial Intelligence: A History of Ideas and
+  Achievements}.
+\newblock Cambridge University Press, Cambridge, 2010.
+
+\bibitem{rumelhart1986learning}
+David~E. Rumelhart, Geoffrey~E. Hinton, and Ronald~J. Williams.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em Nature}, 323(6088):533--536, 1986.
+
+\bibitem{russell2016artificial}
+Stuart~J. Russell and Peter Norvig.
+\newblock {\em Artificial Intelligence: A Modern Approach}.
+\newblock Pearson, London, 3rd edition, 2016.
+
+\bibitem{sutton2018reinforcement}
+Richard~S. Sutton and Andrew~G. Barto.
+\newblock {\em Reinforcement Learning: An Introduction}.
+\newblock MIT Press, Cambridge, MA, 2nd edition, 2018.
+
+\bibitem{vapnik1998statistical}
+Vladimir Vapnik.
+\newblock {\em Statistical Learning Theory}.
+\newblock Wiley, New York, 1998.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  5998--6008, 2017.
 
 \end{thebibliography}

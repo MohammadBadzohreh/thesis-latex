@@ -3,10 +3,6 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: TMU_thesis.aux
 A level-1 auxiliary file: Introduction.aux
 A level-1 auxiliary file: chapter1.aux
-White space in argument---line 14 of file chapter1.aux
- : \citation{2004;
- :                 Russell & Norvig}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
@@ -15,48 +11,121 @@ A level-1 auxiliary file: references.aux
 The style file: plain.bst
 A level-1 auxiliary file: appendix1.aux
 Database file #1: reference.bib
-Warning--I didn't find a database entry for "russell2016artificial"
-Warning--I didn't find a database entry for "(McCorduck"
-Warning--I didn't find a database entry for "2016)."
-You've used 0 entries,
+Repeated entry---line 285 of file reference.bib
+ : @book{mitchell1997machine
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 301 of file reference.bib
+ : @book{james2013introduction
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 317 of file reference.bib
+ : @book{murphy2012machine
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 371 of file reference.bib
+ : @book{murphy2012machine
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 387 of file reference.bib
+ : @book{bishop2006pattern
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 425 of file reference.bib
+ : @book{mitchell1997machine
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 459 of file reference.bib
+ : @book{bishop2006pattern
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 475 of file reference.bib
+ : @book{murphy2012machine
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 589 of file reference.bib
+ : @book{bishop2006pattern
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 605 of file reference.bib
+ : @book{goodfellow2016deep
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 619 of file reference.bib
+ : @article{rumelhart1986learning
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 639 of file reference.bib
+ : @article{hochreiter1997long
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 659 of file reference.bib
+ : @article{hochreiter1998vanishing
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 679 of file reference.bib
+ : @inproceedings{gers1999learning
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 697 of file reference.bib
+ : @book{goodfellow2016deep
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 713 of file reference.bib
+ : @article{rumelhart1986learning
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 733 of file reference.bib
+ : @article{hochreiter1997long
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 753 of file reference.bib
+ : @article{hochreiter1998vanishing
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 773 of file reference.bib
+ : @book{goodfellow2016deep
+ :                         ,
+I'm skipping whatever remains of this entry
+You've used 28 entries,
             2118 wiz_defined-function locations,
-            509 strings with 4152 characters,
-and the built_in function-call counts, 18 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            668 strings with 8218 characters,
+and the built_in function-call counts, 8692 in all, are:
+= -- 845
+> -- 384
+< -- 4
++ -- 158
+- -- 124
+* -- 544
+:= -- 1453
+add.period$ -- 85
+call.type$ -- 28
+change.case$ -- 135
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 28
+duplicate$ -- 373
+empty$ -- 723
+format.name$ -- 124
+if$ -- 1841
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 28
+missing$ -- 43
+newline$ -- 144
+num.names$ -- 56
+pop$ -- 188
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 118
 quote$ -- 0
-skip$ -- 1
+skip$ -- 235
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 449
+swap$ -- 66
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 82
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There was 1 error message)
+while$ -- 82
+width$ -- 30
+write$ -- 317
+(There were 19 error messages)

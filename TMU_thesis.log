@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  28 DEC 2024 20:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  30 DEC 2024 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -976,6 +976,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 ]
+Overfull \hbox (20.21878pt too wide) in paragraph at lines 30--30
+ [][][] []\TU/XBNiloofar.ttf(0)/b/n/12 شبکه‌های عصبی بازگشتی ([]\TU/lmroman10-r
+egular(0)/m/n/12 RNN[]\TU/XBNiloofar.ttf(0)/b/n/12 ) و شبکه‌های حافظه بلندمدت ک
+وتاه‌مدت[] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1013,38 +1019,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  [5
 
 ] (./TMU_thesis.lof
-Overfull \hbox (5.28258pt too wide) detected at line 12
-\TU/XBNiloofar.ttf(0)/b/n/12 ۱۰.‏۹.‏۲ 
- []
-
-
-Overfull \hbox (12.37245pt too wide) detected at line 13
-\TU/XBNiloofar.ttf(0)/b/n/12 ۱۱.‏۱۰.‏۲ 
+Overfull \hbox (5.28258pt too wide) detected at line 13
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۰.‏۹.‏۳ 
  []
 
 
 Overfull \hbox (12.37245pt too wide) detected at line 14
-\TU/XBNiloofar.ttf(0)/b/n/12 ۱۲.‏۱۰.‏۲ 
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۱.‏۱۰.‏۳ 
  []
 
 
 Overfull \hbox (12.37245pt too wide) detected at line 15
-\TU/XBNiloofar.ttf(0)/b/n/12 ۱۳.‏۱۱.‏۲ 
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۲.‏۱۰.‏۳ 
  []
 
 
 Overfull \hbox (12.37245pt too wide) detected at line 16
-\TU/XBNiloofar.ttf(0)/b/n/12 ۱۴.‏۱۱.‏۲ 
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۳.‏۱۱.‏۳ 
  []
 
 
 Overfull \hbox (12.37245pt too wide) detected at line 17
-\TU/XBNiloofar.ttf(0)/b/n/12 ۱۵.‏۱۱.‏۲ 
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۴.‏۱۱.‏۳ 
  []
 
 
 Overfull \hbox (12.37245pt too wide) detected at line 18
-\TU/XBNiloofar.ttf(0)/b/n/12 ۱۶.‏۱۱.‏۲ 
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۵.‏۱۱.‏۳ 
+ []
+
+
+Overfull \hbox (12.37245pt too wide) detected at line 19
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۶.‏۱۱.‏۳ 
  []
 
 )
@@ -1074,28 +1080,15 @@ LaTeX Font Info:    Font shape `TU/BNazaninOutline.ttf(0)/m/n' will be
 
 
 ]
+فصل 2.
+[3
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.91852pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.91852pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
-
-[3]
-
-LaTeX Warning: Citation `russell2016artificial' on page 4 undefined on input li
-ne 37.
-
-
-LaTeX Warning: Citation `(McCorduck' on page 4 undefined on input line 52.
-
-
-LaTeX Warning: Citation `2004; Russell & Norvig' on page 4 undefined on input l
-ine 52.
-
-
-LaTeX Warning: Citation `2016).' on page 4 undefined on input line 52.
+]
+Overfull \hbox (2.66502pt too wide) in paragraph at lines 29--30
+[]\TU/XBNiloofar.ttf(0)/b/n/12 با وجود پیشرفت‌های هوش مصنوعی، محدودیت‌های تکنول
+وژی (مثل عدم وجود []\TU/lmroman10-regular(0)/m/n/12 GPU[]\TU/XBNiloofar.ttf(0)/
+b/n/12 های پرقدرت[]
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1106,17 +1099,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [4]
-Overfull \hbox (6.58104pt too wide) in paragraph at lines 59--60
-[]\TU/XBNiloofar.ttf(0)/b/n/12 یادگیری ماشین (Machine-Learning) شاخه‌ای از هوش 
-مصنوعی است که به مدل های محاسباتی[]
- []
-
-
-Overfull \hbox (34.64407pt too wide) in paragraph at lines 62--66
-[]\TU/XBNiloofar.ttf(0)/b/n/12 یادگیری بدون نظارت (Unsupervised-Learning) یادگی
-ری تقویتی (Reinforcement-Learning) []
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1153,11 +1135,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [8]
-Overfull \hbox (20.34917pt too wide) in paragraph at lines 145--145
-[][]\TU/XBNiloofar.ttf(0)/b/n/14.4 شبکه‌های عصبی بازگشتی (RNN) و شبکه‌های حافظه
- بلند مدت کوتاه‌مدت[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1167,6 +1144,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [9]
+Overfull \hbox (14.59988pt too wide) in paragraph at lines 174--174
+[][]\TU/XBNiloofar.ttf(0)/b/n/14.4 شبکه‌های عصبی بازگشتی ([]\TU/lmroman10-regul
+ar(0)/b/n/14.4 RNN[]\TU/XBNiloofar.ttf(0)/b/n/14.4 ) و شبکه‌های حافظه بلندمدت ک
+وتاه‌مدت[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1194,9 +1177,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [12]
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 6.60004pt on input line 266.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1206,6 +1186,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [13]
+Overfull \hbox (10.72153pt too wide) in paragraph at lines 264--267
+[]\TU/XBNiloofar.ttf(0)/b/n/12 در سال ۱۹۹۷، []\TU/lmroman10-regular(0)/m/n/12 S
+epp Hochreiter[] \TU/XBNiloofar.ttf(0)/b/n/12 و []\TU/lmroman10-regular(0)/m/n/
+12 Jürgen Schmidhuber[] \TU/XBNiloofar.ttf(0)/b/n/12 شبکه‌های حافظهٔ بلندمدت-کو
+تاه‌مدت[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1215,6 +1202,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [14]
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 6.60004pt on input line 297.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1224,6 +1214,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [15]
+Overfull \hbox (114.57555pt too wide) in paragraph at lines 352--360
+ [][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1241,7 +1238,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
-[17])
+[17]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1250,25 +1247,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
-[18]
+[18])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[19]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.91852pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.91852pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
-
-[19
-
-
-
-]
-فصل 2.
+فصل 3.
 [20
+
+
+
 
 ]
 File: Transformer-model-architecture.png Graphic file (type bmp)
@@ -1417,7 +1413,7 @@ File: transformer_images/decoder.png Graphic file (type bmp)
 <transformer_images/decoder.png>
 
 Underfull \hbox (badness 10000) in paragraph at lines 375--375
-[][][]\TU/XBNiloofar.ttf(0)/m/it/12 شکل ۷.‏۶.‏۲:[][]
+[][][]\TU/XBNiloofar.ttf(0)/m/it/12 شکل ۷.‏۶.‏۳:[][]
  []
 
 
@@ -1694,11 +1690,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [54]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
-فصل 3.
-) [55
+فصل 4.
+) [56
 
 
 
@@ -1707,8 +1712,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
-فصل 4.
-) [56
+فصل 5.
+) [57
 
 
 
@@ -1739,11 +1744,7 @@ ine 46.
 \tf@brf=\write8
 \openout8 = `TMU_thesis.brf'.
 
-
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [57
+ [58
 
 
 
@@ -1754,11 +1755,29 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 
 ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[59])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[60]
 \openout2 = `appendix1.aux'.
 
  (./appendix1.tex
 پیوست آ.
-) [58
+) [61
 
 
 ]
@@ -1768,13 +1787,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
 [][]
  []
 
-[59
+[62
 
 
 ]
 File: armtmu.eps Graphic file (type eps)
 <armtmu.eps>
- [60]) 
+ [63]) 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
@@ -1783,23 +1802,20 @@ enddocument/afterlastpage: lastpage setting LastPage.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 5A213E07BB4805C4E32A478E59216783;13385.
+(rerunfilecheck)             Checksum: 38FD132266794C6E332BD23CB00DF62C;13803.
 Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 12D48D6EBB2322F5B70B0A735B42B0C6;149.
+(rerunfilecheck)             Checksum: 2D00C865B8304E4789DF600CEF20C1FE;4230.
  ) 
 Here is how much of TeX's memory you used:
- 16466 strings out of 476683
- 330064 string characters out of 5807575
- 1854012 words of memory out of 5000000
- 36257 multiletter control sequences out of 15000+600000
- 518297 words of font info for 97 fonts, out of 8000000 for 9000
+ 16580 strings out of 476683
+ 332744 string characters out of 5807575
+ 1856012 words of memory out of 5000000
+ 36369 multiletter control sequences out of 15000+600000
+ 518313 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,12n,94p,1353b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,12n,94p,1353b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (70 pages).
+Output written on TMU_thesis.pdf (73 pages).
