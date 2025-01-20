@@ -53,41 +53,56 @@
 \contentsline {chapter}{\numberline {3}پیشینه پژوهش}{20}{chapter.3}%
 \contentsline {section}{\numberline {3.1}مقدمه}{20}{section.3.1}%
 \contentsline {section}{\numberline {3.2}مشکلات ترجمه ماشینی و ترانسفورمرها:}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}ظهور ترانسفورمر ها:}{21}{section.3.3}%
-\contentsline {section}{\numberline {3.4}معماری ترانسفورمر ها:}{21}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Embedding:}{22}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}positional embedding:}{23}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}attention:}{25}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.4.4}Residual Connection (Add):}{29}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.4.5}مزایای Residual Connection در ترانسفورمر}{29}{subsection.3.4.5}%
-\contentsline {section}{\numberline {3.5}Layer Normalization (Norm):}{30}{section.3.5}%
-\contentsline {section}{\numberline {3.6}decoder:}{33}{section.3.6}%
-\contentsline {section}{\numberline {3.7}masked multi head attention}{33}{section.3.7}%
-\contentsline {section}{\numberline {3.8}مثال عددی mask attention:}{34}{section.3.8}%
-\contentsline {section}{\numberline {3.9}vision transformer:}{35}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}patch embedding in vision transformer:}{36}{subsection.3.9.1}%
-\contentsline {subsection}{\numberline {3.9.2}شکل پچ ها:}{36}{subsection.3.9.2}%
-\contentsline {subsection}{\numberline {3.9.3}تعداد پچ ها:}{38}{subsection.3.9.3}%
-\contentsline {subsection}{\numberline {3.9.4}بردار کردن هر پچ}{39}{subsection.3.9.4}%
-\contentsline {section}{\numberline {3.10}اعمال لایهٔ خطی (Projection):}{39}{section.3.10}%
-\contentsline {subsection}{\numberline {3.10.1}CLS Token:}{41}{subsection.3.10.1}%
-\contentsline {subsection}{\numberline {3.10.2}vision transformer encoder:}{42}{subsection.3.10.2}%
-\contentsline {section}{\numberline {3.11}Swin Transformer:}{43}{section.3.11}%
-\contentsline {subsection}{\numberline {3.11.1} قطعه‌بندی پچ (Patch Partition):}{45}{subsection.3.11.1}%
-\contentsline {subsection}{\numberline {3.11.2}Linear Embedding:}{45}{subsection.3.11.2}%
-\contentsline {subsection}{\numberline {3.11.3}Window Multi-Head Self-Attention:}{46}{subsection.3.11.3}%
-\contentsline {subsubsection}{ تعریف پنجره‌های محلی:}{46}{section*.36}%
-\contentsline {subsection}{\numberline {3.11.4}Attention:}{47}{subsection.3.11.4}%
-\contentsline {subsection}{\numberline {3.11.5}shifted Windows:}{48}{subsection.3.11.5}%
+\contentsline {section}{\numberline {3.3}مقدمه}{21}{section.3.3}%
+\contentsline {section}{\numberline {3.4}مشکلات ترجمه ماشینی و ترانسفورمرها}{21}{section.3.4}%
+\contentsline {section}{\numberline {3.5}ظهور ترانسفورمرها}{22}{section.3.5}%
+\contentsline {section}{\numberline {3.6}معماری ترانسفورمرها}{22}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Embedding}{23}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}positional embedding:}{24}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}attention:}{26}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Residual Connection (Add):}{30}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}مزایای Residual Connection در ترانسفورمر}{30}{subsection.3.6.5}%
+\contentsline {section}{\numberline {3.7}Layer Normalization (Norm):}{31}{section.3.7}%
+\contentsline {section}{\numberline {3.8}decoder:}{33}{section.3.8}%
+\contentsline {section}{\numberline {3.9}masked multi head attention}{35}{section.3.9}%
+\contentsline {section}{\numberline {3.10}مثال عددی mask attention:}{35}{section.3.10}%
+\contentsline {section}{\numberline {3.11}vision transformer:}{36}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}patch embedding in vision transformer:}{36}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}شکل پچ ها:}{37}{subsection.3.11.2}%
+\contentsline {subsection}{\numberline {3.11.3}تعداد پچ ها:}{37}{subsection.3.11.3}%
+\contentsline {subsection}{\numberline {3.11.4}بردار کردن هر پچ}{40}{subsection.3.11.4}%
+\contentsline {section}{\numberline {3.12}اعمال لایهٔ خطی (Projection):}{40}{section.3.12}%
+\contentsline {subsection}{\numberline {3.12.1}CLS Token:}{42}{subsection.3.12.1}%
+\contentsline {subsection}{\numberline {3.12.2}vision transformer encoder:}{43}{subsection.3.12.2}%
+\contentsline {section}{\numberline {3.13}Swin Transformer:}{44}{section.3.13}%
+\contentsline {subsection}{\numberline {3.13.1} قطعه‌بندی پچ (Patch Partition):}{45}{subsection.3.13.1}%
+\contentsline {subsection}{\numberline {3.13.2}Linear Embedding:}{46}{subsection.3.13.2}%
+\contentsline {subsection}{\numberline {3.13.3}Window Multi-Head Self-Attention:}{47}{subsection.3.13.3}%
+\contentsline {subsubsection}{ تعریف پنجره‌های محلی:}{47}{section*.36}%
+\contentsline {subsection}{\numberline {3.13.4}Attention:}{47}{subsection.3.13.4}%
+\contentsline {subsection}{\numberline {3.13.5}shifted Windows:}{49}{subsection.3.13.5}%
 \contentsline {subsubsection}{بلوک اول (W-MSA):}{49}{section*.37}%
-\contentsline {subsubsection}{بلوک دوم (SW-MSA):}{49}{section*.38}%
-\contentsline {subsection}{\numberline {3.11.6}Mlp:}{51}{subsection.3.11.6}%
-\contentsline {subsection}{\numberline {3.11.7}patch merging:}{52}{subsection.3.11.7}%
-\contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{52}{section*.39}%
+\contentsline {subsubsection}{بلوک دوم (SW-MSA):}{50}{section*.38}%
+\contentsline {subsection}{\numberline {3.13.6}Mlp:}{52}{subsection.3.13.6}%
+\contentsline {subsection}{\numberline {3.13.7}patch merging:}{52}{subsection.3.13.7}%
+\contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{53}{section*.39}%
 \contentsline {subsubsection}{2. ادغام (Concat) ویژگی‌های چهار پیکسل}{53}{section*.40}%
-\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{53}{section*.41}%
-\contentsline {subsubsection}{4. کاهش ابعاد مکانی}{53}{section*.42}%
-\contentsline {chapter}{\numberline {4}روش های پیشنهادی}{56}{chapter.4}%
-\contentsline {chapter}{\numberline {5}آزمایشات و نتایج}{57}{chapter.5}%
-\contentsline {chapter}{کتاب‌نامه}{58}{chapter*.43}%
-\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{61}{appendix.Alph1}%
+\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{54}{section*.41}%
+\contentsline {subsubsection}{4. کاهش ابعاد مکانی}{54}{section*.42}%
+\contentsline {chapter}{\numberline {4}پیشینه پژوهش}{56}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}ویژگی‌های محلی (\lr {Local Features})}{57}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}ویژگی‌های جهانی (\lr {Global Features})}{57}{subsection.4.0.2}%
+\contentsline {subsection}{\numberline {4.0.3}ترانسفورمرها و محدودیت‌های دید محلی}{58}{subsection.4.0.3}%
+\contentsline {subsection}{\numberline {4.0.4}روش اول:}{58}{subsection.4.0.4}%
+\contentsline {subsection}{\numberline {4.0.5}تبدیل تصاویر به دو پچ مجزا:}{58}{subsection.4.0.5}%
+\contentsline {subsection}{\numberline {4.0.6}هماهنگ سازی پچ ها:}{59}{subsection.4.0.6}%
+\contentsline {subsection}{\numberline {4.0.7}\lr {Positional Embedding}}{63}{subsection.4.0.7}%
+\contentsline {subsection}{\numberline {4.0.8}لایه های اول تا هشتم انکودر}{64}{subsection.4.0.8}%
+\contentsline {subsection}{\numberline {4.0.9}لایه نهم انکودر}{64}{subsection.4.0.9}%
+\contentsline {subsection}{\numberline {4.0.10}محاسبهٔ ماتریس شباهت (\(QK^T\)) و میانگین‌گیری}{65}{subsection.4.0.10}%
+\contentsline {subsection}{\numberline {4.0.11}اعمال مقیاس‌بندی \( \frac {1}{\sqrt {d_k}} \) و \textit {Softmax}}{66}{subsection.4.0.11}%
+\contentsline {subsection}{\numberline {4.0.12}ادغام وزنی}{68}{subsection.4.0.12}%
+\contentsline {section}{\numberline {4.1}روش دوم:}{68}{section.4.1}%
+\contentsline {chapter}{\numberline {5}آزمایشات و نتایج}{69}{chapter.5}%
+\contentsline {chapter}{کتاب‌نامه}{70}{chapter*.55}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{73}{appendix.Alph1}%

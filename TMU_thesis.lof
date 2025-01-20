@@ -1,22 +1,22 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.4.3}{\ignorespaces معماری ترانسفورمر ها}}{22}{figure.3.1}%
-\contentsline {figure}{\numberline {2.4.3}{\ignorespaces word embedding}}{23}{figure.3.2}%
-\contentsline {figure}{\numberline {3.4.3}{\ignorespaces word embedding}}{24}{figure.3.3}%
-\contentsline {figure}{\numberline {4.4.3}{\ignorespaces word embedding}}{25}{figure.3.4}%
-\contentsline {figure}{\numberline {5.4.3}{\ignorespaces Attention}}{27}{figure.3.5}%
-\contentsline {figure}{\numberline {6.4.3}{\ignorespaces multi head attention}}{28}{figure.3.6}%
-\contentsline {figure}{\numberline {7.6.3}{\ignorespaces Decoder}}{34}{figure.3.7}%
-\contentsline {figure}{\numberline {8.9.3}{\ignorespaces iamge to patch}}{36}{figure.3.8}%
-\contentsline {figure}{\numberline {9.9.3}{\ignorespaces original Image}}{37}{figure.3.9}%
-\contentsline {figure}{\numberline {10.9.3}{\ignorespaces patch Image}}{38}{figure.3.10}%
-\contentsline {figure}{\numberline {11.10.3}{\ignorespaces Embedding in Vision Transformer}}{40}{figure.3.11}%
-\contentsline {figure}{\numberline {12.10.3}{\ignorespaces Cls Token in Vision Transformer}}{43}{figure.3.12}%
-\contentsline {figure}{\numberline {13.11.3}{\ignorespaces Swin Transformer}}{44}{figure.3.13}%
-\contentsline {figure}{\numberline {14.11.3}{\ignorespaces Widow vs Shifted Window}}{49}{figure.3.14}%
-\contentsline {figure}{\numberline {15.11.3}{\ignorespaces cycle Shift}}{50}{figure.3.15}%
-\contentsline {figure}{\numberline {16.11.3}{\ignorespaces Patch Merging}}{54}{figure.3.16}%
+\contentsline {figure}{\numberline {1.6.3}{\ignorespaces معماری ترانسفورمر ها}}{23}{figure.3.1}%
+\contentsline {figure}{\numberline {2.6.3}{\ignorespaces word embedding}}{24}{figure.3.2}%
+\contentsline {figure}{\numberline {3.6.3}{\ignorespaces word embedding}}{25}{figure.3.3}%
+\contentsline {figure}{\numberline {4.6.3}{\ignorespaces word embedding}}{26}{figure.3.4}%
+\contentsline {figure}{\numberline {5.6.3}{\ignorespaces Attention}}{28}{figure.3.5}%
+\contentsline {figure}{\numberline {6.6.3}{\ignorespaces multi head attention}}{29}{figure.3.6}%
+\contentsline {figure}{\numberline {7.8.3}{\ignorespaces Decoder}}{34}{figure.3.7}%
+\contentsline {figure}{\numberline {8.11.3}{\ignorespaces iamge to patch}}{37}{figure.3.8}%
+\contentsline {figure}{\numberline {9.11.3}{\ignorespaces original Image}}{38}{figure.3.9}%
+\contentsline {figure}{\numberline {10.11.3}{\ignorespaces patch Image}}{39}{figure.3.10}%
+\contentsline {figure}{\numberline {11.12.3}{\ignorespaces Embedding in Vision Transformer}}{41}{figure.3.11}%
+\contentsline {figure}{\numberline {12.12.3}{\ignorespaces Cls Token in Vision Transformer}}{43}{figure.3.12}%
+\contentsline {figure}{\numberline {13.13.3}{\ignorespaces Swin Transformer}}{45}{figure.3.13}%
+\contentsline {figure}{\numberline {14.13.3}{\ignorespaces Widow vs Shifted Window}}{50}{figure.3.14}%
+\contentsline {figure}{\numberline {15.13.3}{\ignorespaces cycle Shift}}{51}{figure.3.15}%
+\contentsline {figure}{\numberline {16.13.3}{\ignorespaces Patch Merging}}{55}{figure.3.16}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
