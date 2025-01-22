@@ -58,10 +58,10 @@
 \contentsline {section}{\numberline {3.5}ظهور ترانسفورمرها}{22}{section.3.5}%
 \contentsline {section}{\numberline {3.6}معماری ترانسفورمرها}{22}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}Embedding}{23}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}positional embedding:}{24}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.2}\lr {positional embedding}}{24}{subsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.6.3}attention:}{26}{subsection.3.6.3}%
-\contentsline {subsection}{\numberline {3.6.4}Residual Connection (Add):}{30}{subsection.3.6.4}%
-\contentsline {subsection}{\numberline {3.6.5}مزایای Residual Connection در ترانسفورمر}{30}{subsection.3.6.5}%
+\contentsline {subsection}{\numberline {3.6.4}\lr {Residual Connection (Add)}}{30}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}مزایای \lr {Residual Connection} در ترانسفورمر}{30}{subsection.3.6.5}%
 \contentsline {section}{\numberline {3.7}Layer Normalization (Norm):}{31}{section.3.7}%
 \contentsline {section}{\numberline {3.8}decoder:}{33}{section.3.8}%
 \contentsline {section}{\numberline {3.9}masked multi head attention}{35}{section.3.9}%

@@ -6,7 +6,7 @@
 \contentsline {figure}{\numberline {3.6.3}{\ignorespaces word embedding}}{25}{figure.3.3}%
 \contentsline {figure}{\numberline {4.6.3}{\ignorespaces word embedding}}{26}{figure.3.4}%
 \contentsline {figure}{\numberline {5.6.3}{\ignorespaces Attention}}{28}{figure.3.5}%
-\contentsline {figure}{\numberline {6.6.3}{\ignorespaces multi head attention}}{29}{figure.3.6}%
+\contentsline {figure}{\numberline {6.6.3}{\ignorespaces \lr {multi head attention}}}{29}{figure.3.6}%
 \contentsline {figure}{\numberline {7.8.3}{\ignorespaces Decoder}}{34}{figure.3.7}%
 \contentsline {figure}{\numberline {8.11.3}{\ignorespaces iamge to patch}}{37}{figure.3.8}%
 \contentsline {figure}{\numberline {9.11.3}{\ignorespaces original Image}}{38}{figure.3.9}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  20 JAN 2025 04:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.5.20)  20 JAN 2025 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1283,9 +1283,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/it' will be
-(Font)              scaled to size 13.20007pt on input line 13.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1340,44 +1337,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: transformer_images/word_embedding.png Graphic file (type bmp)
 <transformer_images/word_embedding.png>
 
-Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ت (U+062A) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no س (U+0633) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ت (U+062A) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ت (U+062A) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1390,6 +1349,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: transformer_images/positional_embedding_formula .png Graphic file (type b
 mp)
 <transformer_images/positional_embedding_formula .png>
+
+Overfull \hbox (14.79707pt too wide) in paragraph at lines 117--121
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 همانطور که در شکل زیر مشاهده میکنید بعد از []\
+TU/lmroman10-regular(0)/m/n/12 embedding[] \TU/XBNiloofar.ttf(0)/b/n/12 کلمات ب
+ه آن []\TU/lmroman10-regular(0)/m/n/12 positional embedding[][]
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1457,6 +1422,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
+Missing character: There is no ، (U+060C) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1466,11 +1433,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [31]
-Overfull \hbox (1.73392pt too wide) in paragraph at lines 339--341
-[]\TU/XBNiloofar.ttf(0)/m/it/12 لایه‌های میانی ممکن است تغییر کند (پدیدهٔ Inter
-nal Covariate Shift). Layer Norm[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1492,14 +1454,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: transformer_images/decoder.png Graphic file (type bmp)
 <transformer_images/decoder.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--389
-[][][]\TU/XBNiloofar.ttf(0)/m/it/12 شکل ۷.‏۸.‏۳:[][]
+Underfull \hbox (badness 10000) in paragraph at lines 382--382
+[][][]\TU/XBNiloofar.ttf(0)/b/n/12 شکل ۷.‏۸.‏۳:[][]
  []
 
 
-Overfull \hbox (8.70374pt too wide) in paragraph at lines 401--403
-[]\TU/XBNiloofar.ttf(0)/m/it/12 در ترانسفورمر، مکانیزم Multi-Head Attention در 
-بخش دیکودر به‌صورت Masked پیاده‌سازی[]
+Overfull \hbox (8.70374pt too wide) in paragraph at lines 394--396
+[]\TU/XBNiloofar.ttf(0)/b/n/12 در ترانسفورمر، مکانیزم Multi-Head Attention در ب
+خش دیکودر به‌صورت Masked پیاده‌سازی[]
  []
 
 
@@ -1511,14 +1473,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
-Overfull \hbox (1.7403pt too wide) in paragraph at lines 407--408
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/it' will be
+(Font)              scaled to size 13.20007pt on input line 400.
+
+Overfull \hbox (1.7403pt too wide) in paragraph at lines 400--401
 [][]\TU/XBNiloofar.ttf(0)/m/it/12 در معماری‌های خودبازگشتی (Autoregressive)، مد
 ل در گام $\OML/cmm/m/it/12 i$ \TU/XBNiloofar.ttf(0)/m/it/12 از دیکودر تنها باید
  به توکن‌های[]
  []
 
 
-Overfull \hbox (5.93437pt too wide) in paragraph at lines 407--408
+Overfull \hbox (5.93437pt too wide) in paragraph at lines 400--401
 []\TU/XBNiloofar.ttf(0)/m/it/12 توکن‌های آینده را «نگاه» کند، پیش‌بینی توکن بعد
 ی آسان و غیرواقعی می‌شود (مشکل نشت اطلاعات). []
  []
@@ -1532,7 +1497,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [35]
-Overfull \hbox (23.90215pt too wide) in paragraph at lines 470--471
+Overfull \hbox (23.90215pt too wide) in paragraph at lines 463--464
 [][]\TU/XBNiloofar.ttf(0)/m/it/12 در Vision Transformer، به‌جای عملیات کانولوشن
 ، مستقیماً تصویر را به بلاک‌های غیرهم‌پوشان[]
  []
@@ -1675,7 +1640,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [47]
-Overfull \hbox (6.23409pt too wide) in paragraph at lines 847--849
+Overfull \hbox (6.23409pt too wide) in paragraph at lines 840--842
 [][]$\OML/cmm/m/it/12 Q; K; V$ \TU/XBNiloofar.ttf(0)/m/it/12 به‌ترتیب ماتریس‌ها
 یی هستند که از کنار هم قرار دادن $\OML/cmm/m/it/12 q[]; k[]; v[]$ \TU/XBNiloofa
 r.ttf(0)/m/it/12 (برای تمام پیکسل‌های[]
@@ -2027,7 +1992,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0000978D3DED048954206DFB70BAA95D;17278.
+(rerunfilecheck)             Checksum: B973D0E9D34B8D967454C0508D6AD759;17268.
 Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
 (rerunfilecheck)             Checksum: 2D00C865B8304E4789DF600CEF20C1FE;4230.
  ) 
