@@ -184,6 +184,27 @@
 در بسیاری از مباحث دنیای واقعی مانند تحلیل متن و صدا، داده‌ها به توالی خاصی وابسته هستند. به همین دلیل، شبکه‌های \lr{RNN} معرفی شدند تا بتوانند از اطلاعات پیشین در پردازش داده‌های بعدی استفاده کنند
 \cite{rumelhart1986learning}.
 
+
+
+ \begin{figure}[h]
+	\centering
+	\begin{minipage}[b]{0.7\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{transformer_images/rnn_image.png}
+		\caption{RNN}
+		\label{fig:RNN}
+	\end{minipage}
+	\hfill
+	
+\end{figure}
+
+
+
+
+
+
+
+
 \subsubsection{ساختار و عملکرد \lr{RNN}}
 شبکه‌های \lr{RNN} دارای حلقهٔ بازگشتی هستند که به مدل این امکان را می‌دهد اطلاعات را در توالی نگه دارد و در هر گام زمانی، ورودی فعلی \( x_t \) و وضعیت قبلی \( h_{t-1} \) را به‌عنوان ورودی دریافت کند
 \cite{goodfellow2016deep}:
@@ -280,9 +301,26 @@
 \section{اختار \lr{LSTM}: نوآوری در مقایسه با \lr{RNN}}
 \lr{LSTM} شامل اجزای جدیدی است که به آن امکان مدیریت بهتر اطلاعات را می‌دهد:
 
+
+
+
 \subsection{وضعیت سلولی (\lr{Cell State})}
 مسیر اصلی ذخیرهٔ اطلاعات در \lr{LSTM} است که می‌تواند اطلاعات مهم را در طول توالی حفظ کند. برخلاف \lr{RNN} که عمدتاً بر خروجی‌های بازگشتی \( h_t \) متکی است، \lr{LSTM} یک مسیر جداگانه برای عبور اطلاعات از وضعیت سلولی دارد که به حفظ گرادیان‌ها کمک شایانی می‌کند
 \cite{hochreiter1997long}.
+
+
+ \begin{figure}[h]
+	\centering
+	\begin{minipage}[b]{0.7\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{transformer_images/lstm.png}
+		\caption{LSTM}
+		\label{fig:LSTM}
+	\end{minipage}
+	\hfill
+	
+\end{figure}
+
 
 \subsection{دروازه‌ها (\lr{Gates})}
 دروازه‌ها نقش فیلترهای اطلاعاتی را دارند که جریان اطلاعات را در طول فرایند یادگیری کنترل می‌کنند:
@@ -350,14 +388,16 @@ C_t = f_t \cdot C_{t-1} + i_t \cdot \tilde{C}_t.
 
 \begin{table}[h!]
 	\centering
-	\begin{tabular}{|c|c|c|}
-		\hline
-		\textbf{ویژگی} & \textbf{RNN} & \textbf{LSTM} \\ \hline
-		\textbf{مشکل ناپدید شدن گرادیان} & وجود دارد & برطرف شده \\ \hline
-		\textbf{توانایی حفظ وابستگی‌های طولانی‌مدت} & محدود به وابستگی کوتاه‌مدت & بسیار خوب \\ \hline
-		\textbf{ساختار دروازه‌ها} & ندارد & دارای دروازه‌های فراموشی، ورودی و خروجی \\ \hline
-		\textbf{پایداری گرادیان} & ضعیف & پایدار \\ \hline
-	\end{tabular}
+	\resizebox{\columnwidth}{!}{%
+		\begin{tabular}{|c|c|c|}
+			\hline
+			\textbf{ویژگی} & \textbf{RNN} & \textbf{LSTM} \\ \hline
+			\textbf{مشکل ناپدید شدن گرادیان} & وجود دارد & برطرف شده \\ \hline
+			\textbf{توانایی حفظ وابستگی‌های طولانی‌مدت} & محدود به وابستگی کوتاه‌مدت & بسیار خوب \\ \hline
+			\textbf{ساختار دروازه‌ها} & ندارد & دارای دروازه‌های فراموشی، ورودی و خروجی \\ \hline
+			\textbf{پایداری گرادیان} & ضعیف & پایدار \\ \hline
+		\end{tabular}%
+	}
 	\caption{مقایسه ویژگی‌های RNN و LSTM}
 \end{table}
 

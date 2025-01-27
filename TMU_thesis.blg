@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2023)
+This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: TMU_thesis.aux
 A level-1 auxiliary file: Introduction.aux
@@ -87,45 +87,118 @@ Repeated entry---line 773 of file reference.bib
  : @book{goodfellow2016deep
  :                         ,
 I'm skipping whatever remains of this entry
-You've used 28 entries,
+Repeated entry---line 823 of file reference.bib
+ : @article{vaswani2017attention
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 839 of file reference.bib
+ : @inproceedings{bahdanau2014neural
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 901 of file reference.bib
+ : @article{elman1990finding
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1053 of file reference.bib
+ : @article{hochreiter1997long
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1105 of file reference.bib
+ : @inproceedings{vaswani2017attention
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1153 of file reference.bib
+ : @inproceedings{vaswani2017attention
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1187 of file reference.bib
+ : @misc{dosovitskiy2020image
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1243 of file reference.bib
+ : @inproceedings{he2016deep
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1259 of file reference.bib
+ : @inproceedings{vaswani2017attention
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1275 of file reference.bib
+ : @inproceedings{vaswani2017attention
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1291 of file reference.bib
+ : @misc{dosovitskiy2020image
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1309 of file reference.bib
+ : @article{devlin2018bert
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1323 of file reference.bib
+ : @inproceedings{vaswani2017attention
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1339 of file reference.bib
+ : @misc{dosovitskiy2020image
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1357 of file reference.bib
+ : @inproceedings{he2016deep
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1389 of file reference.bib
+ : @inproceedings{liu2021swintransformer
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1405 of file reference.bib
+ : @misc{dosovitskiy2020image
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1423 of file reference.bib
+ : @inproceedings{he2016deep
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "bengio2003neural"
+You've used 48 entries,
             2118 wiz_defined-function locations,
-            668 strings with 8218 characters,
-and the built_in function-call counts, 8692 in all, are:
-= -- 845
-> -- 384
-< -- 4
-+ -- 158
-- -- 124
-* -- 544
-:= -- 1453
-add.period$ -- 85
-call.type$ -- 28
-change.case$ -- 135
+            765 strings with 11615 characters,
+and the built_in function-call counts, 16824 in all, are:
+= -- 1642
+> -- 766
+< -- 14
++ -- 311
+- -- 254
+* -- 1054
+:= -- 2689
+add.period$ -- 144
+call.type$ -- 48
+change.case$ -- 255
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 373
-empty$ -- 723
-format.name$ -- 124
-if$ -- 1841
+cite$ -- 48
+duplicate$ -- 717
+empty$ -- 1368
+format.name$ -- 254
+if$ -- 3626
 int.to.chr$ -- 0
-int.to.str$ -- 28
-missing$ -- 43
-newline$ -- 144
-num.names$ -- 56
-pop$ -- 188
+int.to.str$ -- 48
+missing$ -- 64
+newline$ -- 243
+num.names$ -- 96
+pop$ -- 358
 preamble$ -- 1
-purify$ -- 118
+purify$ -- 221
 quote$ -- 0
-skip$ -- 235
+skip$ -- 526
 stack$ -- 0
-substring$ -- 449
-swap$ -- 66
-text.length$ -- 4
+substring$ -- 976
+swap$ -- 198
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 82
+type$ -- 156
 warning$ -- 0
-while$ -- 82
-width$ -- 30
-write$ -- 317
-(There were 19 error messages)
+while$ -- 156
+width$ -- 50
+write$ -- 527
+(There were 37 error messages)

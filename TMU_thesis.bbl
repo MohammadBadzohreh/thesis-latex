@@ -1,5 +1,10 @@
 \begin{thebibliography}{10}
 
+\bibitem{ba2016layer}
+Jimmy~Lei Ba, Jamie~Ryan Kiros, and Geoffrey~E Hinton.
+\newblock Layer normalization.
+\newblock {\em arXiv preprint arXiv:1607.06450}, 2016.
+
 \bibitem{bahdanau2014neural}
 Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
 \newblock Neural machine translation by jointly learning to align and
@@ -7,10 +12,23 @@ Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
 \newblock In {\em Proceedings of the 2015 International Conference on Learning
   Representations (ICLR)}, San Diego, CA, 2015.
 
+\bibitem{bengio1994learning}
+Yoshua Bengio et~al.
+\newblock {\em Learning long-term dependencies with gradient descent is
+  difficult}.
+\newblock IEEE Transactions on Neural Networks, 1994.
+
 \bibitem{bishop2006pattern}
 Christopher~M. Bishop.
 \newblock {\em Pattern Recognition and Machine Learning}.
 \newblock Springer, New York, 2006.
+
+\bibitem{brown1993mathematics}
+Peter~F Brown, Vincent J.~Della Pietra, Stephen A.~Della Pietra, and Robert~L
+  Mercer.
+\newblock The mathematics of statistical machine translation: Parameter
+  estimation.
+\newblock {\em Computational linguistics}, 19(2):263--311, 1993.
 
 \bibitem{cortes1995support}
 Corinna Cortes and Vladimir Vapnik.
@@ -28,11 +46,22 @@ Daniel Crevier.
   Intelligence}.
 \newblock Basic Books, New York, 1993.
 
+\bibitem{devlin2018bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}, 2018.
+
 \bibitem{domingos1997optimal}
 Pedro Domingos and Michael Pazzani.
 \newblock On the optimality of the simple bayesian classifier under zero-one
   loss.
 \newblock {\em Machine Learning}, 29(2--3):103--130, 1997.
+
+\bibitem{dosovitskiy2020image}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, et~al.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale, 2020.
 
 \bibitem{duda1973pattern}
 Richard~O. Duda and Peter~E. Hart.
@@ -61,6 +90,17 @@ Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 \newblock {\em Deep Learning}.
 \newblock MIT Press, Cambridge, MA, 2016.
 
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 770--778, 2016.
+
+\bibitem{hendrycks2016gelu}
+Dan Hendrycks and Kevin Gimpel.
+\newblock Gaussian error linear units (gelus).
+\newblock {\em arXiv preprint arXiv:1606.08415}, 2016.
+
 \bibitem{hochreiter1998vanishing}
 Sepp Hochreiter.
 \newblock The vanishing gradient problem during learning recurrent neural nets
@@ -73,17 +113,63 @@ Sepp Hochreiter and J{\"u}rgen Schmidhuber.
 \newblock Long short-term memory.
 \newblock {\em Neural Computation}, 9(8):1735--1780, 1997.
 
+\bibitem{hutchins1986machine}
+John Hutchins.
+\newblock {\em Machine translation: past, present, future}.
+\newblock Ellis Horwood Chichester, 1986.
+
+\bibitem{ioffe2015batch}
+Sergey Ioffe and Christian Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock In {\em International conference on machine learning}, pages
+  448--456, 2015.
+
 \bibitem{james2013introduction}
 Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 \newblock {\em An Introduction to Statistical Learning: with Applications in
   R}.
 \newblock Springer, New York, 2013.
 
+\bibitem{koehn2010statistical}
+Philipp Koehn.
+\newblock {\em Statistical Machine Translation}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem{koehn2003statistical}
+Philipp Koehn, Franz~Josef Och, and Daniel Marcu.
+\newblock Statistical phrase-based translation.
+\newblock In {\em Proc. of NAACL/HLT}, pages 48--54, 2003.
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{lecun1998gradient}
+Yann LeCun, L{\'e}on Bottou, Yoshua Bengio, and Patrick Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
 \bibitem{lighthill1973artificial}
 James Lighthill.
 \newblock {\em Artificial Intelligence: A General Survey}.
 \newblock HM Stationery Office, London, 1973.
 \newblock Science Research Council Report.
+
+\bibitem{liu2021swintransformer}
+Ze~Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, and
+  Baining Guo.
+\newblock Swin transformer: Hierarchical vision transformer using shifted
+  windows.
+\newblock In {\em Proc. of the IEEE/CVF International Conference on Computer
+  Vision (ICCV)}, pages 10012--10022, 2021.
+
+\bibitem{luong2015effective}
+Minh-Thang Luong, Hieu Pham, and Christopher~D Manning.
+\newblock Effective approaches to attention-based neural machine translation.
+\newblock In {\em Proc. of EMNLP}, pages 1412--1421, 2015.
 
 \bibitem{mccallum1998comparison}
 Andrew McCallum and Kamal Nigam.
@@ -103,6 +189,13 @@ Pamela McCorduck.
   Prospects of Artificial Intelligence}.
 \newblock A. K. Peters, Ltd., Natick, MA, 2nd edition, 2004.
 
+\bibitem{mikolov2013distributed}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg~S Corrado, and Jeffrey Dean.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em Advances in neural information processing systems}, pages
+  3111--3119, 2013.
+
 \bibitem{mitchell1997machine}
 Tom~M. Mitchell.
 \newblock {\em Machine Learning}.
@@ -118,6 +211,13 @@ Kevin~P. Murphy.
 \newblock {\em Machine Learning: A Probabilistic Perspective}.
 \newblock MIT Press, Cambridge, MA, 2012.
 
+\bibitem{nagao1984framework}
+Makoto Nagao.
+\newblock A framework of a mechanical translation between japanese and english
+  by analogy principle.
+\newblock In {\em Proc. of the international NATO symposium on artificial and
+  human intelligence}, pages 173--180, 1984.
+
 \bibitem{newell1959report}
 Allen Newell, J.~Clifford Shaw, and Herbert~A. Simon.
 \newblock Report on a general problem-solving program.
@@ -130,6 +230,16 @@ Nils~J. Nilsson.
   Achievements}.
 \newblock Cambridge University Press, Cambridge, 2010.
 
+\bibitem{pennington2014glove}
+Jeffrey Pennington, Richard Socher, and Christopher~D Manning.
+\newblock Glove: Global vectors for word representation.
+\newblock In {\em Proc. of EMNLP}, pages 1532--1543, 2014.
+
+\bibitem{radford2018improving}
+Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever.
+\newblock Improving language understanding by generative pre-training.
+\newblock OpenAI report, 2018.
+
 \bibitem{rumelhart1986learning}
 David~E. Rumelhart, Geoffrey~E. Hinton, and Ronald~J. Williams.
 \newblock Learning representations by back-propagating errors.
@@ -139,6 +249,12 @@ David~E. Rumelhart, Geoffrey~E. Hinton, and Ronald~J. Williams.
 Stuart~J. Russell and Peter Norvig.
 \newblock {\em Artificial Intelligence: A Modern Approach}.
 \newblock Pearson, London, 3rd edition, 2016.
+
+\bibitem{sutskever2014sequence}
+Ilya Sutskever, Oriol Vinyals, and Quoc~V Le.
+\newblock Sequence to sequence learning with neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  3104--3112, 2014.
 
 \bibitem{sutton2018reinforcement}
 Richard~S. Sutton and Andrew~G. Barto.
