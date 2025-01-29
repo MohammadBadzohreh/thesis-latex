@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  28 JAN 2025 01:01
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  30 JAN 2025 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1137,6 +1137,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5]
 
+LaTeX Warning: Reference `footdir@1' on page 6 undefined on input line 65.
+
+
+LaTeX Warning: Reference `footdir@2' on page 6 undefined on input line 65.
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 65.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 65.
+
+LaTeX Warning: Reference `footdir@3' on page 6 undefined on input line 66.
+
+
+LaTeX Warning: Reference `footdir@4' on page 6 undefined on input line 66.
+
+
+LaTeX Warning: Reference `footdir@5' on page 6 undefined on input line 67.
+
+
+LaTeX Warning: Reference `footdir@6' on page 6 undefined on input line 67.
+
+
+LaTeX Warning: Reference `footdir@7' on page 6 undefined on input line 68.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
 (fancyhdr)                \setlength{\headheight}{15.91852pt}.
@@ -1145,6 +1170,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [6]
+
+LaTeX Warning: Reference `footdir@8' on page 7 undefined on input line 90.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1907,7 +1935,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[67])
+[67]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1917,11 +1945,60 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [68]
+Overfull \hbox (7.29857pt too wide) in paragraph at lines 318--319
+[][]\TU/XBNiloofar.ttf(0)/m/it/12 بنابراین، پس از بلوک سوم که همچنان ورودی $\OT
+1/cmr/m/n/12 (\OML/cmm/m/it/12 B; \OT1/cmr/m/n/12 785\OML/cmm/m/it/12 ; \OT1/cm
+r/m/n/12 768)$ \TU/XBNiloofar.ttf(0)/m/it/12 دارد و خروجی همان $\OT1/cmr/m/n/12
+ (\OML/cmm/m/it/12 B; \OT1/cmr/m/n/12 785\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 768
+)$[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[69]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[70]
+Overfull \hbox (1.23354pt too wide) in paragraph at lines 355--356
+[] []\TU/XBNiloofar.ttf(0)/m/it/12 لایه‌های تعبیه‌ساز و موقعیتی (Positional Emb
+edding)[] ابتدا در این بخش، پارامترها به‌صورت[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[71])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 فصل 5.
-) [69
+) [73
 
 
 
@@ -1952,7 +2029,7 @@ ine 46.
 \tf@brf=\write8
 \openout8 = `TMU_thesis.brf'.
 
- [70
+ [74
 
 
 
@@ -1971,7 +2048,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[71]
+[75]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1980,7 +2057,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[72]
+[76]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1989,7 +2066,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[73])
+[77])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1998,12 +2075,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[74]
+[78]
 \openout2 = `appendix1.aux'.
 
  (./appendix1.tex
 پیوست آ.
-) [75
+) [79
 
 
 ]
@@ -2013,13 +2090,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
 [][]
  []
 
-[76
+[80
 
 
 ]
 File: armtmu.eps Graphic file (type eps)
 <armtmu.eps>
- [77]) 
+ [81]) 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
@@ -2039,22 +2116,17 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: FE137341403B527B9B4027960329411E;16758.
-
-Package rerunfilecheck Warning: File `TMU_thesis.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `TMU_thesis.brf':
-(rerunfilecheck)             Before: BB5779095A12F6DDB2E46F5BC76C1D96;9353
-(rerunfilecheck)             After:  5F81E8624B5D9FD096486B9E6BA90E42;9353.
+(rerunfilecheck)             Checksum: C096CC101A4F81F61756C87A09D56D3B;17430.
+Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 5F81E8624B5D9FD096486B9E6BA90E42;9353.
  ) 
 Here is how much of TeX's memory you used:
- 16924 strings out of 474773
- 333571 string characters out of 5761289
+ 16942 strings out of 474773
+ 333955 string characters out of 5761289
  1931842 words of memory out of 5000000
- 38636 multiletter control sequences out of 15000+600000
- 568248 words of font info for 121 fonts, out of 8000000 for 9000
+ 38650 multiletter control sequences out of 15000+600000
+ 568909 words of font info for 126 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,12n,110p,1353b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (87 pages).
+Output written on TMU_thesis.pdf (91 pages).

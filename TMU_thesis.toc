@@ -102,7 +102,12 @@
 \contentsline {subsection}{\numberline {4.0.10}محاسبهٔ ماتریس شباهت (\(QK^T\)) و میانگین‌گیری}{65}{subsection.4.0.10}%
 \contentsline {subsection}{\numberline {4.0.11}اعمال مقیاس‌بندی \( \frac {1}{\sqrt {d_k}} \) و \textit {Softmax}}{66}{subsection.4.0.11}%
 \contentsline {subsection}{\numberline {4.0.12}ادغام وزنی}{68}{subsection.4.0.12}%
-\contentsline {section}{\numberline {4.1}روش دوم:}{68}{section.4.1}%
-\contentsline {chapter}{\numberline {5}آزمایشات و نتایج}{69}{chapter.5}%
-\contentsline {chapter}{کتاب‌نامه}{70}{chapter*.57}%
-\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{75}{appendix.Alph1}%
+\contentsline {section}{\numberline {4.1}روش دوم down sampling: }{68}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}حرکت تدریجی از جزئیات به کلیت}{70}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}کم نشدن پارامتر ها در این مدل}{71}{subsection.4.1.2}%
+\contentsline {paragraph}{لایه‌های تعبیه‌ساز و موقعیتی (Positional Embedding)}{71}{section*.57}%
+\contentsline {paragraph}{توجه چندسری (Multi-Head Attention)}{71}{section*.58}%
+\contentsline {paragraph}{شبکه‌های MLP داخل هر بلوک ترنسفورمر}{71}{section*.59}%
+\contentsline {chapter}{\numberline {5}آزمایشات و نتایج}{73}{chapter.5}%
+\contentsline {chapter}{کتاب‌نامه}{74}{chapter*.60}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{79}{appendix.Alph1}%
