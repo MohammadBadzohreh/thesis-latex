@@ -1,21 +1,21 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.2.2}{\ignorespaces RNN}}{11}{figure.2.1}%
-\contentsline {figure}{\numberline {2.3.2}{\ignorespaces LSTM}}{15}{figure.2.2}%
+\contentsline {figure}{\numberline {1.2.2}{\ignorespaces RNN}}{12}{figure.2.1}%
+\contentsline {figure}{\numberline {2.3.2}{\ignorespaces LSTM}}{17}{figure.2.2}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.4.3}{\ignorespaces معماری ترانسفورمرها}}{23}{figure.3.1}%
-\contentsline {figure}{\numberline {2.4.3}{\ignorespaces \lr {word embedding}}}{24}{figure.3.2}%
-\contentsline {figure}{\numberline {3.4.3}{\ignorespaces \lr {word embedding + positional embedding}}}{26}{figure.3.3}%
-\contentsline {figure}{\numberline {4.4.3}{\ignorespaces Attention}}{28}{figure.3.4}%
-\contentsline {figure}{\numberline {5.4.3}{\ignorespaces \lr {multi head attention}}}{29}{figure.3.5}%
-\contentsline {figure}{\numberline {6.6.3}{\ignorespaces Decoder}}{35}{figure.3.6}%
-\contentsline {figure}{\numberline {7.9.3}{\ignorespaces image to patch}}{38}{figure.3.7}%
-\contentsline {figure}{\numberline {8.9.3}{\ignorespaces original Image}}{39}{figure.3.8}%
-\contentsline {figure}{\numberline {9.9.3}{\ignorespaces \lr {paches of image}}}{40}{figure.3.9}%
-\contentsline {figure}{\numberline {10.10.3}{\ignorespaces \lr {Embedding in Vision Transformer}}}{41}{figure.3.10}%
-\contentsline {figure}{\numberline {11.10.3}{\ignorespaces \lr {Cls Token in Vision Transformer}}}{44}{figure.3.11}%
-\contentsline {figure}{\numberline {12.11.3}{\ignorespaces \lr {Swin Transformer}}}{45}{figure.3.12}%
-\contentsline {figure}{\numberline {13.11.3}{\ignorespaces Patch Merging}}{54}{figure.3.13}%
+\contentsline {figure}{\numberline {1.4.3}{\ignorespaces معماری ترانسفورمرها}}{24}{figure.3.1}%
+\contentsline {figure}{\numberline {2.4.3}{\ignorespaces \lr {word embedding}}}{25}{figure.3.2}%
+\contentsline {figure}{\numberline {3.4.3}{\ignorespaces \lr {word embedding + positional embedding}}}{27}{figure.3.3}%
+\contentsline {figure}{\numberline {4.4.3}{\ignorespaces Attention}}{29}{figure.3.4}%
+\contentsline {figure}{\numberline {5.4.3}{\ignorespaces \lr {multi head attention}}}{30}{figure.3.5}%
+\contentsline {figure}{\numberline {6.6.3}{\ignorespaces Decoder}}{36}{figure.3.6}%
+\contentsline {figure}{\numberline {7.9.3}{\ignorespaces image to patch}}{39}{figure.3.7}%
+\contentsline {figure}{\numberline {8.9.3}{\ignorespaces original Image}}{40}{figure.3.8}%
+\contentsline {figure}{\numberline {9.9.3}{\ignorespaces \lr {paches of image}}}{41}{figure.3.9}%
+\contentsline {figure}{\numberline {10.10.3}{\ignorespaces \lr {Embedding in Vision Transformer}}}{42}{figure.3.10}%
+\contentsline {figure}{\numberline {11.10.3}{\ignorespaces \lr {Cls Token in Vision Transformer}}}{45}{figure.3.11}%
+\contentsline {figure}{\numberline {12.11.3}{\ignorespaces \lr {Swin Transformer}}}{46}{figure.3.12}%
+\contentsline {figure}{\numberline {13.11.3}{\ignorespaces Patch Merging}}{55}{figure.3.13}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
