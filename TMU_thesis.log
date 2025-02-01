@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  1 FEB 2025 01:40
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  1 FEB 2025 04:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1022,6 +1022,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
+Missing character: There is no ج (U+062C) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ز (U+0632) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no چ (U+0686) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.95074pt, for example:
@@ -1209,8 +1259,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [13]
-Missing character: There is no ش (U+0634) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (9.05608pt too wide) in paragraph at lines 264--269
+[]\TU/XBNiloofar.ttf(0)/b/n/12 شبکه‌های حافظه بلندمدت-کوتاه‌مدت به عنوان یک راه
+‌حل برای یکی از بزرگ‌ترین مشکلات شبکه‌های[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1220,13 +1273,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [14]
-Overfull \hbox (10.72153pt too wide) in paragraph at lines 295--298
-[]\TU/XBNiloofar.ttf(0)/b/n/12 در سال ۱۹۹۷، []\TU/lmroman10-regular(0)/m/n/12 S
-epp Hochreiter[] \TU/XBNiloofar.ttf(0)/b/n/12 و []\TU/lmroman10-regular(0)/m/n/
-12 Jürgen Schmidhuber[] \TU/XBNiloofar.ttf(0)/b/n/12 شبکه‌های حافظهٔ بلندمدت-کو
-تاه‌مدت[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1242,8 +1288,6 @@ File: transformer_images/lstm.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 6.60004pt on input line 345.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1253,6 +1297,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [16]
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 6.60004pt on input line 349.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1262,6 +1309,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
 [17]
+Overfull \hbox (5.47147pt too wide) in paragraph at lines 389--392
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 حذف ضرب‌های مکرر: برخلاف شبکه های بازگشتی که ب
+ه ضرب‌های مکرر وزن‌ها و گرادیان‌ها[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1288,7 +1340,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
-[20])
+[20]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.91852pt, for example:
@@ -1297,75 +1349,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
 
-[21]
+[21])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.91852pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.91852pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.91852pt}.
+
+[22]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
 فصل 3.
-[22
+[23
 
 
 
 
 ]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[23]
-File: Transformer-model-architecture.png Graphic file (type bmp)
-<Transformer-model-architecture.png>
-
-Missing character: There is no ک (U+06A9) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ت (U+062A) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ب (U+0628) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ش (U+0634) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-
-LaTeX Warning: Citation `bengio2003neural' on page 24 undefined on input line 3
-5.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[24]
-File: transformer_images/word_embedding.png Graphic file (type bmp)
-<transformer_images/word_embedding.png>
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[25]
-Overfull \hbox (9.97205pt too wide) in paragraph at lines 64--66
-[][]\TU/XBNiloofar.ttf(0)/b/n/12 این روش قابل یادگیری نیست و صرفاً از یک سری فر
-مول‌های ساده برای []\TU/lmroman10-regular(0)/m/n/12 Positional Embedding[][]
+Overfull \hbox (5.02342pt too wide) in paragraph at lines 13--14
+[]\TU/XBNiloofar.ttf(0)/b/n/12 مدل‌های آماری استفاده می‌کردند که احتمال ترجمهٔ 
+صحیح را براساس شواهد آماری محاسبه می‌کردند.[]
  []
 
 
@@ -1376,9 +1382,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[24]
+File: Transformer-model-architecture.png Graphic file (type bmp)
+<Transformer-model-architecture.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `bengio2003neural' on page 25 undefined on input line 4
+6.
+
+File: transformer_images/word_embedding.png Graphic file (type bmp)
+<transformer_images/word_embedding.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [26]
-File: transformer_images/positional_embedding.png Graphic file (type bmp)
-<transformer_images/positional_embedding.png>
+Overfull \hbox (1.83154pt too wide) in paragraph at lines 73--75
+[]\TU/XBNiloofar.ttf(0)/b/n/12 اضافی بدهیم به‌طوری‌که مدل توالی کلمات را یاد بگ
+یرد. روش‌های مختلفی برای اضافه‌کردن جاسازی[]
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1389,11 +1430,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [27]
-File: transformer_images/attention.png Graphic file (type bmp)
-<transformer_images/attention.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+File: transformer_images/positional_embedding.png Graphic file (type bmp)
+<transformer_images/positional_embedding.png>
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1413,8 +1451,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-File: transformer_images/multi_head_attention.png Graphic file (type bmp)
-<transformer_images/multi_head_attention.png>
+File: transformer_images/attention.png Graphic file (type bmp)
+<transformer_images/attention.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1425,6 +1466,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
+File: transformer_images/multi_head_attention.png Graphic file (type bmp)
+<transformer_images/multi_head_attention.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1461,22 +1508,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
-File: transformer_images/decoder.png Graphic file (type bmp)
-<transformer_images/decoder.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 356--356
-[][][]\TU/XBNiloofar.ttf(0)/b/n/12 شکل ۶.‏۶.‏۳:[][]
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (2.29276pt too wide) in paragraph at lines 368--369
-[]\TU/XBNiloofar.ttf(0)/b/n/12 توکن‌های آینده را «نگاه» کند، پیش‌بینی توکن بعدی
- آسان و غیرواقعی می‌شود (مشکل نشت اطلاعات)[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1486,6 +1517,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [35]
+Overfull \hbox (17.79669pt too wide) in paragraph at lines 330--331
+[] []\TU/XBNiloofar.ttf(0)/b/n/12 اتصال باقی مانده[] ابتدا ورودی همان زیرماژول 
+(مثلاً بردار $\OML/cmm/m/it/12 x$\TU/XBNiloofar.ttf(0)/b/n/12 ) را با خروجی زیر
+ماژول ($[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )$\TU/XBNiloofar.t
+tf(0)/b/n/12 )[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1495,6 +1533,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [36]
+File: transformer_images/decoder.png Graphic file (type bmp)
+<transformer_images/decoder.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
+[][][]\TU/XBNiloofar.ttf(0)/b/n/12 شکل ۶.‏۶.‏۳:[][]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1504,17 +1549,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37]
-Overfull \hbox (0.11044pt too wide) in paragraph at lines 423--424
-[]\TU/XBNiloofar.ttf(0)/b/n/12 در []\TU/lmroman10-regular(0)/m/n/12 Vision Tran
-sformer[]\TU/XBNiloofar.ttf(0)/b/n/12 ، به‌جای استفاده از عملیات کانولوشن‌های م
-توالی که در شبکه‌های CNN[]
- []
-
-File: transformer_images/image_patch_embedding.png Graphic file (type bmp)
-<transformer_images/image_patch_embedding.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1524,17 +1558,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [38]
-File: transformer_images/space_original_image.png Graphic file (type bmp)
-<transformer_images/space_original_image.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: transformer_images/space_patch_iamge.png Graphic file (type bmp)
-<transformer_images/space_patch_iamge.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1544,6 +1567,63 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
+Missing character: There is no ج (U+062C) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ز (U+0632) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no چ (U+0686) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
+tn;language=dflt;mapping=tex-text;!
+File: transformer_images/image_patch_embedding.png Graphic file (type bmp)
+<transformer_images/image_patch_embedding.png>
+File: transformer_images/space_original_image.png Graphic file (type bmp)
+<transformer_images/space_original_image.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1553,6 +1633,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [40]
+File: transformer_images/space_patch_iamge.png Graphic file (type bmp)
+<transformer_images/space_patch_iamge.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1562,10 +1648,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [41]
-File: transformer_images/vision_transformer_embedding.png Graphic file (type bm
-p)
-<transformer_images/vision_transformer_embedding.png>
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1575,6 +1657,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [42]
+File: transformer_images/vision_transformer_embedding.png Graphic file (type bm
+p)
+<transformer_images/vision_transformer_embedding.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1584,31 +1673,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [43]
-Overfull \hbox (1.0366pt too wide) in paragraph at lines 548--549
-[]\TU/XBNiloofar.ttf(0)/b/n/12 ایفا می‌کند. این توکن به‌صورت پارامتر قابل یادگی
-ری تعریف شده و در طول فرآیند آموزش به‌روزرسانی[]
- []
-
-
-Overfull \hbox (21.69376pt too wide) in paragraph at lines 552--554
-[]\TU/XBNiloofar.ttf(0)/b/n/12 انکودر در ترانسفورمرها همانند ترانسفورمر اصلی اس
-ت [[]][]، با این تفاوت که در []\TU/lmroman10-regular(0)/m/n/12 Vision Transform
-er[][]
- []
-
-File: transformer_images/vision_transformer_after_embedding.png Graphic file (t
-ype bmp)
-<transformer_images/vision_transformer_after_embedding.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (6.33875pt too wide) in paragraph at lines 571--573
-[]\TU/XBNiloofar.ttf(0)/b/n/12 ایدهٔ []\TU/lmroman10-regular(0)/m/n/12 Swin Tra
-nsformer[] \TU/XBNiloofar.ttf(0)/b/n/12 از ترکیب چند مفهوم کلیدی در مدل‌های ترا
-نسفورمر و شبکه‌های کانولوشنی[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1618,12 +1682,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [44]
-File: transformer_images/swin_transformer.png Graphic file (type bmp)
-<transformer_images/swin_transformer.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1633,6 +1691,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [45]
+File: transformer_images/vision_transformer_after_embedding.png Graphic file (t
+ype bmp)
+<transformer_images/vision_transformer_after_embedding.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1642,6 +1704,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [46]
+File: transformer_images/swin_transformer.png Graphic file (type bmp)
+<transformer_images/swin_transformer.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1660,12 +1728,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [48]
-Overfull \hbox (6.23409pt too wide) in paragraph at lines 711--713
-[][]$\OML/cmm/m/it/12 Q; K; V$ \TU/XBNiloofar.ttf(0)/b/n/12 به‌ترتیب ماتریس‌های
-ی هستند که از کنار هم قرار دادن $\OML/cmm/m/it/12 q[]; k[]; v[]$ \TU/XBNiloofar
-.ttf(0)/b/n/12 (برای تمام پیکسل‌های[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1675,9 +1737,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [49]
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/it' will be
-(Font)              scaled to size 13.20007pt on input line 742.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1687,13 +1746,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [50]
-
-LaTeX Warning: Reference `fig:window vs Shifted Window in Swin Transformer' on 
-page 51 undefined on input line 763.
-
-
-LaTeX Warning: Reference `fig:Cycle Shift in Swin Tranformer' on page 51 undefi
-ned on input line 774.
+Overfull \hbox (6.23409pt too wide) in paragraph at lines 738--740
+[][]$\OML/cmm/m/it/12 Q; K; V$ \TU/XBNiloofar.ttf(0)/b/n/12 به‌ترتیب ماتریس‌های
+ی هستند که از کنار هم قرار دادن $\OML/cmm/m/it/12 q[]; k[]; v[]$ \TU/XBNiloofar
+.ttf(0)/b/n/12 (برای تمام پیکسل‌های[]
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1714,6 +1771,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [52]
 
+LaTeX Warning: Reference `fig:window vs Shifted Window in Swin Transformer' on 
+page 53 undefined on input line 790.
+
+
+LaTeX Warning: Reference `fig:Cycle Shift in Swin Tranformer' on page 53 undefi
+ned on input line 801.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1722,6 +1787,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [53]
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/it' will be
+(Font)              scaled to size 13.20007pt on input line 812.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1731,10 +1799,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [54]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[56]
 File: transformer_images/patch_merging.png Graphic file (type bmp)
 <transformer_images/patch_merging.png>
 
-Overfull \hbox (15.21811pt too wide) in paragraph at lines 885--890
+Overfull \hbox (15.21811pt too wide) in paragraph at lines 912--917
 [][]\TU/XBNiloofar.ttf(0)/m/it/12 در شبکه‌های کانولوشنی، مرتبا از لایه‌های Pool
 ing یا Stride-Convolution برای کوچک‌کردن[]
  []
@@ -1747,7 +1833,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[55])
+[57])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1756,7 +1842,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[56]
+[58]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -1767,7 +1853,7 @@ Overfull \hbox (0.27321pt too wide) in paragraph at lines 8--9
  طبیعی در داخل تصویر حرکت کرده و ویژگی‌های[]
  []
 
-[57
+[59
 
 
 
@@ -1777,24 +1863,6 @@ Overfull \hbox (0.27321pt too wide) in paragraph at lines 8--9
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 16.
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[58]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[59]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1850,6 +1918,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [65]
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[67]
+
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 183.
 
@@ -1894,24 +1980,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[66]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[67]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [68]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1922,14 +1990,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [69]
-Overfull \hbox (7.29857pt too wide) in paragraph at lines 318--319
-[][]\TU/XBNiloofar.ttf(0)/m/it/12 بنابراین، پس از بلوک سوم که همچنان ورودی $\OT
-1/cmr/m/n/12 (\OML/cmm/m/it/12 B; \OT1/cmr/m/n/12 785\OML/cmm/m/it/12 ; \OT1/cm
-r/m/n/12 768)$ \TU/XBNiloofar.ttf(0)/m/it/12 دارد و خروجی همان $\OT1/cmr/m/n/12
- (\OML/cmm/m/it/12 B; \OT1/cmr/m/n/12 785\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 768
-)$[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1948,6 +2008,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [71]
+Overfull \hbox (7.29857pt too wide) in paragraph at lines 318--319
+[][]\TU/XBNiloofar.ttf(0)/m/it/12 بنابراین، پس از بلوک سوم که همچنان ورودی $\OT
+1/cmr/m/n/12 (\OML/cmm/m/it/12 B; \OT1/cmr/m/n/12 785\OML/cmm/m/it/12 ; \OT1/cm
+r/m/n/12 768)$ \TU/XBNiloofar.ttf(0)/m/it/12 دارد و خروجی همان $\OT1/cmr/m/n/12
+ (\OML/cmm/m/it/12 B; \OT1/cmr/m/n/12 785\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 768
+)$[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73]
 Overfull \hbox (1.23354pt too wide) in paragraph at lines 355--356
 [] []\TU/XBNiloofar.ttf(0)/m/it/12 لایه‌های تعبیه‌ساز و موقعیتی (Positional Emb
 edding)[] ابتدا در این بخش، پارامترها به‌صورت[]
@@ -1961,7 +2047,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[72])
+[74])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1970,12 +2056,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[73]
+[75]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 فصل 5.
-) [74
+) [76
 
 
 
@@ -2006,7 +2092,7 @@ ine 46.
 \tf@brf=\write8
 \openout8 = `TMU_thesis.brf'.
 
- [75
+ [77
 
 
 
@@ -2025,25 +2111,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[76]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[77]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[78])
+[78]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2053,11 +2121,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [79]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[81]
 \openout2 = `appendix1.aux'.
 
  (./appendix1.tex
 پیوست آ.
-) [80
+) [82
 
 
 ]
@@ -2067,13 +2153,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
 [][]
  []
 
-[81
+[83
 
 
 ]
 File: armtmu.eps Graphic file (type eps)
 <armtmu.eps>
- [82]) 
+ [84]) 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
@@ -2092,24 +2178,18 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `TMU_thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `TMU_thesis.out':
-(rerunfilecheck)             Before: 166042B4A2909B9A23D9047801135E2D;17144
-(rerunfilecheck)             After:  2CFA50CA87A0EDBA6F9A373E57AA58B6;17100.
+Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 1E22B77A7EC612E6C7CB67CEB62B98BE;17387.
 Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: EDF33E2684AC7722202305CE39BBF915;9357.
+(rerunfilecheck)             Checksum: 591A659C351F6D56C31ECBE774BC1F48;9358.
  ) 
 Here is how much of TeX's memory you used:
- 17018 strings out of 474773
- 335046 string characters out of 5761289
+ 17224 strings out of 474773
+ 337969 string characters out of 5761289
  1931842 words of memory out of 5000000
- 38725 multiletter control sequences out of 15000+600000
+ 38931 multiletter control sequences out of 15000+600000
  568917 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,1353b,862s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,1353b,883s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (92 pages).
+Output written on TMU_thesis.pdf (94 pages).
