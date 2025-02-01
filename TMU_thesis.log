@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  1 FEB 2025 04:49
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  1 FEB 2025 05:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1125,6 +1125,11 @@ Overfull \hbox (12.37245pt too wide) detected at line 18
 \TU/XBNiloofar.ttf(0)/b/n/12 ۱۳.‏۱۱.‏۳ 
  []
 
+
+Overfull \hbox (12.37245pt too wide) detected at line 19
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۴.‏۱۱.‏۳ 
+ []
+
 )
 \tf@lof=\write7
 \openout7 = `TMU_thesis.lof'.
@@ -1451,8 +1456,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-File: transformer_images/attention.png Graphic file (type bmp)
-<transformer_images/attention.png>
+File: transformer_images/multi_head_attention_new.png Graphic file (type bmp)
+<transformer_images/multi_head_attention_new.png>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1774,10 +1779,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Reference `fig:window vs Shifted Window in Swin Transformer' on 
 page 53 undefined on input line 790.
 
-
-LaTeX Warning: Reference `fig:Cycle Shift in Swin Tranformer' on page 53 undefi
-ned on input line 801.
-
+File: transformer_images/cycle_shift.png Graphic file (type bmp)
+<transformer_images/cycle_shift.png>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1788,7 +1791,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [53]
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/it' will be
-(Font)              scaled to size 13.20007pt on input line 812.
+(Font)              scaled to size 13.20007pt on input line 823.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1817,13 +1820,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [56]
-File: transformer_images/patch_merging.png Graphic file (type bmp)
-<transformer_images/patch_merging.png>
+File: transformer_images/Patch_merging_new.png Graphic file (type bmp)
+<transformer_images/Patch_merging_new.png>
 
-Overfull \hbox (15.21811pt too wide) in paragraph at lines 912--917
-[][]\TU/XBNiloofar.ttf(0)/m/it/12 در شبکه‌های کانولوشنی، مرتبا از لایه‌های Pool
-ing یا Stride-Convolution برای کوچک‌کردن[]
- []
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1847,12 +1848,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./chapter3.tex
 فصل 4.
-
-Overfull \hbox (0.27321pt too wide) in paragraph at lines 8--9
-[]\TU/XBNiloofar.ttf(0)/m/it/12 می‌توانند به راحتی شناسایی شوند چون شبکه به طور
- طبیعی در داخل تصویر حرکت کرده و ویژگی‌های[]
- []
-
 [59
 
 
@@ -1861,7 +1856,34 @@ Overfull \hbox (0.27321pt too wide) in paragraph at lines 8--9
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 16.
+(hyperref)                than one, level fixed on input line 18.
+
+
+LaTeX Warning: Reference `footdir@272' on page 60 undefined on input line 19.
+
+
+LaTeX Warning: Reference `footdir@273' on page 60 undefined on input line 19.
+
+
+LaTeX Warning: Reference `footdir@274' on page 60 undefined on input line 19.
+
+
+LaTeX Warning: Reference `footdir@275' on page 60 undefined on input line 19.
+
+
+LaTeX Warning: Reference `footdir@276' on page 60 undefined on input line 19.
+
+
+LaTeX Warning: Reference `footdir@277' on page 60 undefined on input line 19.
+
+
+LaTeX Warning: Reference `footdir@278' on page 60 undefined on input line 19.
+
+
+LaTeX Warning: Reference `footdir@279' on page 60 undefined on input line 19.
+
+
+LaTeX Warning: Reference `footdir@280' on page 60 undefined on input line 24.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1937,40 +1959,40 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [67]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 183.
+(hyperref)                removing `math shift' on input line 186.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 183.
+(hyperref)                removing `superscript' on input line 186.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/it' undefined
-(Font)              using `TU/XBNiloofar.ttf(0)/b/n' instead on input line 205.
+(Font)              using `TU/XBNiloofar.ttf(0)/b/n' instead on input line 208.
 
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 205.
+(hyperref)                removing `math shift' on input line 208.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 205.
+(hyperref)                removing `\begingroup' on input line 208.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\endgroup' on input line 205.
+(hyperref)                removing `\endgroup' on input line 208.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@over' on input line 205.
+(hyperref)                removing `\@@over' on input line 208.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 205.
+(hyperref)                removing `\@ifnextchar' on input line 208.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 205.
+(hyperref)                removing `subscript' on input line 208.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2008,7 +2030,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [71]
-Overfull \hbox (7.29857pt too wide) in paragraph at lines 318--319
+Overfull \hbox (7.29857pt too wide) in paragraph at lines 321--322
 [][]\TU/XBNiloofar.ttf(0)/m/it/12 بنابراین، پس از بلوک سوم که همچنان ورودی $\OT
 1/cmr/m/n/12 (\OML/cmm/m/it/12 B; \OT1/cmr/m/n/12 785\OML/cmm/m/it/12 ; \OT1/cm
 r/m/n/12 768)$ \TU/XBNiloofar.ttf(0)/m/it/12 دارد و خروجی همان $\OT1/cmr/m/n/12
@@ -2034,7 +2056,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [73]
-Overfull \hbox (1.23354pt too wide) in paragraph at lines 355--356
+Overfull \hbox (1.23354pt too wide) in paragraph at lines 358--359
 [] []\TU/XBNiloofar.ttf(0)/m/it/12 لایه‌های تعبیه‌ساز و موقعیتی (Positional Emb
 edding)[] ابتدا در این بخش، پارامترها به‌صورت[]
  []
@@ -2178,18 +2200,24 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1E22B77A7EC612E6C7CB67CEB62B98BE;17387.
+
+Package rerunfilecheck Warning: File `TMU_thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `TMU_thesis.out':
+(rerunfilecheck)             Before: 6AC860514120F1C6354C488E60CC6DCD;17536
+(rerunfilecheck)             After:  1DEE8037A3B8623F70415B8890BAACE6;17297.
 Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 591A659C351F6D56C31ECBE774BC1F48;9358.
+(rerunfilecheck)             Checksum: D0F3A1DC921D01E4A1BBE1003B7C88D1;9358.
  ) 
 Here is how much of TeX's memory you used:
- 17224 strings out of 474773
- 337969 string characters out of 5761289
+ 17268 strings out of 474773
+ 338975 string characters out of 5761289
  1931842 words of memory out of 5000000
- 38931 multiletter control sequences out of 15000+600000
+ 38974 multiletter control sequences out of 15000+600000
  568917 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,1353b,883s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,1353b,887s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on TMU_thesis.pdf (94 pages).

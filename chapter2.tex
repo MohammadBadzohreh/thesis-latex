@@ -176,7 +176,7 @@ V \in \mathbb{R}^{n \times d_v} \quad \text{ماتریس مقدار  }
 	\centering
 	\begin{minipage}[b]{0.7\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{transformer_images/attention.png}
+		\includegraphics[width=\textwidth]{transformer_images/multi_head_attention_new.png}
 		\caption{توجه}
 		\label{fig:attention}
 	\end{minipage}
@@ -601,7 +601,7 @@ H = 224, \quad W = 224, \quad P = 16:
 	\begin{minipage}[b]{1\textwidth}
 		\centering
 		\includegraphics[width=\textwidth]{transformer_images/swin_transformer.png}
-		\caption{\lr{Swin Transformer}}
+		\caption{مبدل پنجره متحرک}
 		\label{fig: swin transformer}
 	\end{minipage}
 	\hfill
@@ -795,10 +795,21 @@ W_O \in \mathbb{R}^{C \times C}
 
 \begin{itemize}
 	\item پیکسل‌هایی که پیش از این در دو پنجرهٔ جداگانه قرار داشتند، ممکن است حالا به دلیل جابه‌جایی وارد یک پنجرهٔ مشترک شوند.
-	\item مدل حالا می‌تواند بین این پیکسل‌های «مرزی» نیز  برقرار کند و اطلاعات را بهتر مبادله کند.
+	\item مدل حالا می‌تواند بین این پیکسل‌های «مرزی» نیز  توجه برقرار کند و اطلاعات را بهتر مبادله کند.
 \end{itemize}
 
-با این جابه‌جایی، بخشی از پیکسل‌ها در نقشهٔ ویژگی از یک طرف «خارج» می‌شوند. برای اینکه این پیکسل‌ها را از دست ندهیم، از ترفندی به نام \lr{\lr{Cyclic Shift}} استفاده می‌شود. در \lr{\lr{Cyclic Shift}}، پیکسل‌هایی که از سمت راست بیرون می‌روند دوباره از سمت چپ وارد می‌شوند و بالعکس؛ درست شبیه وقتی که یک تصویر را به‌صورت حلقه‌ای اسکرول می‌کنیم (\lr{\lr{Wrap around}}). مثالی از \lr{\lr{Cycle Shift}} در شکل \ref{fig:Cycle Shift in Swin Tranformer} آمده است.
+با این جابه‌جایی، بخشی از پیکسل‌ها در نقشهٔ ویژگی از یک طرف «خارج» می‌شوند. برای اینکه این پیکسل‌ها را از دست ندهیم، از ترفندی به نام  جابجایی چرخه‌ای \footnote{\lr{Cyclic Shift}} استفاده می‌شود. در جا به جایی چرخه ای ، پیکسل‌هایی که از سمت راست بیرون می‌روند دوباره از سمت چپ وارد می‌شوند و بالعکس؛ درست شبیه وقتی که یک تصویر را به‌صورت حلقه‌ای اسکرول می‌کنیم \footnote{\lr{Wrap around}}. مثالی از جا به جایی چرخه ای  در شکل \ref{fig:Cycle Shift in Swin Tranformer} آمده است.
+
+\begin{figure}[h]
+	\centering
+	\begin{minipage}[b]{1\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{transformer_images/cycle_shift.png}
+		\caption{جا به جایی چرخه ای}
+		\label{fig:Cycle Shift in Swin Tranformer}
+	\end{minipage}
+	\hfill
+\end{figure}
 
 در بلوک اول (بدون جابه‌جایی)، پنجره‌ها ثابت‌اند و پیکسل‌های مرزی در هر پنجره ممکن است فرصت کافی برای تبادل اطلاعات با پیکسل‌های مرزیِ پنجرهٔ کناری را نداشته باشند.
 
@@ -812,16 +823,16 @@ W_O \in \mathbb{R}^{C \times C}
 سپس به‌طور دوره‌ای (\textit{\lr{Cyclic}})، گوشه‌های اضافی را به آن سمت دیگر تابلوی شطرنجی می‌آوریم
 تا هیچ چیز از دست نرود.
 
-به این شکل، سِری اول و دوم بلوک‌های \textbf{\lr{Swin Transformer}} (\textbf{\lr{W-MSA}} و \textbf{\lr{SW-MSA}})
+به این شکل، سِری اول و دوم بلوک‌های مبدل های پنجره متحرک 
 تکمیل‌کنندهٔ یکدیگر می‌شوند \cite{liu2021swintransformer}:
 \begin{itemize}
-	\item \textbf{بلوک اول:} محاسبهٔ \lr{\lr{Attention}} در چهارچوب پنجره‌های ثابت.
-	\item \textbf{بلوک دوم:} محاسبهٔ \lr{\lr{Attention}} در پنجره‌های جابه‌جاشده که منجر به تعامل بیشتر بین مرزهای مختلف می‌شود.
+	\item \textbf{بلوک اول:} محاسبهٔ توجه در چهارچوب پنجره‌های ثابت.
+	\item \textbf{بلوک دوم:} محاسبهٔ  توجه در پنجره‌های جابه‌جاشده که منجر به تعامل بیشتر بین مرزهای مختلف می‌شود.
 \end{itemize}
 
 
-\subsection{Mlp}
-پس از انجام \textit{\lr{Shifted Window Multi-Head Self-Attention}}، 
+\subsection{پرسپتروون چند لایه}
+پس از انجام توجه چند سری پنجره ای جا  به جا شده 
 خروجی به یک مسیر \textbf{\lr{MLP}} می‌رود \cite{liu2021swintransformer}. ساختار این \lr{MLP} به‌صورت زیر است:
 
 \begin{equation}
@@ -839,8 +850,8 @@ W_2 \in \mathbb{R}^{(rC) \times C}
 
 تابع فعال‌ساز \lr{GELU} (یا \lr{ReLU} و سایر توابع) نیز در این‌جا قابل استفاده است \cite{hendrycks2016gelu}.
 
-\subsection{\lr{patch merging}}
-در مدل \lr{Swin Transformer}، ساختار سلسله‌مراتبی به این معناست که ما در چند مرحله (\lr{Stage}) مختلف، نقشهٔ ویژگی (\lr{Feature Map}) را کوچک‌تر می‌کنیم و در عین حال، عمق (تعداد کانال‌های ویژگی) را افزایش می‌دهیم. هدف اصلی از این کار عبارت است از:
+\subsection{ترکیب پچ ها}
+در مدل مبدل های پنجره متحرک، ساختار سلسله‌مراتبی به این معناست که ما در چند مرحله (\lr{Stage}) مختلف، نقشهٔ ویژگی را کوچک‌تر می‌کنیم و در عین حال، عمق (تعداد کانال‌های ویژگی) را افزایش می‌دهیم. هدف اصلی از این کار عبارت است از:
 
 \begin{itemize}
 	\item \textbf{استخراج ویژگی‌های سطح بالاتر:}
@@ -852,9 +863,9 @@ W_2 \in \mathbb{R}^{(rC) \times C}
 	(چون مثلاً به‌جای \((H \times W)\) پیکسل، تعداد کمتری پیکسل داریم) \cite{liu2021swintransformer}.
 \end{itemize}
 
-این فرایند کوچک‌سازی در \lr{Swin Transformer} با نام 
-\lr{Patch Merging} شناخته می‌شود 
-که شبیه به \textit{Downsampling} در شبکه‌های کانولوشنی (مثل \textit{Pooling} یا \textit{Stride-Convolution}) عمل می‌کند \cite{liu2021swintransformer}.
+این فرایند کوچک‌سازی در این مبدل با نام \footnote{\lr{Patch Merging}} شناخته می‌شود که شبیه به \textit{} در شبکه‌های کانولوشنی (مثل \textit{Pooling} یا \textit{Stride-Convolution}) عمل می‌کند.
+
+\cite{liu2021swintransformer}.
 
 پس از چندین بلوک پردازشی، نقشهٔ ویژگی، ابعادی به شکل \((\tfrac{H}{P}, \tfrac{W}{P})\) با تعداد کانال \(\displaystyle C\) دارد. 
 این یعنی پس از برش‌دادن تصویر به پچ‌ها و گذر از چند لایه، اکنون یک نقشهٔ ویژگی داریم که کوچک‌تر از تصویر اصلی است، 
@@ -863,7 +874,9 @@ W_2 \in \mathbb{R}^{(rC) \times C}
 در مرحلهٔ بعد (\lr{Stage} بعدی)، می‌خواهیم این نقشه را نصف کنیم 
 (یعنی طول و عرض را دو برابر کوچک کنیم) و در عوض عمق کانال را دو برابر کنیم 
 (تا ظرفیت مدل در استخراج ویژگی‌های پیچیده‌تر بیشتر شود). برای انجام این کار از فرایندی به نام 
-\lr{Patch Merging} استفاده می‌کنیم \cite{liu2021swintransformer}:
+ترکیب پچ‌ها استفاده می‌کنیم.
+
+ \cite{liu2021swintransformer}:
 
 \subsubsection{1. انتخاب بلوک‌های \((2 \times 2)\)}
 ابتدا نقشهٔ ویژگی را در بُعد مکانی به بلوک‌های \((2 \times 2)\) تقسیم می‌کنیم.  
@@ -873,14 +886,14 @@ W_2 \in \mathbb{R}^{(rC) \times C}
 Z_{2i, 2j}, \quad Z_{2i, 2j+1}, \quad Z_{2i+1, 2j}, \quad Z_{2i+1, 2j+1}.
 \]
 
-\subsubsection{2. ادغام (Concat) ویژگی‌های چهار پیکسل}
-برای هر بلوک \((2 \times 2)\)، این چهار پیکسل را در بُعد کانال به هم می‌چسبانیم (\lr{Concat}).  
+\subsubsection{2. ادغام ویژگی‌های چهار پیکسل}
+برای هر بلوک \((2 \times 2)\)، این چهار پیکسل را در بُعد کانال به هم می‌چسبانیم.  
 اگر هر پیکسل یک بردار از بعد \(\displaystyle C\) باشد، اکنون بعدِ حاصل از کنار هم گذاشتن این چهار پیکسل می‌شود \(\displaystyle 4C\).  
 نام این بردار ادغام‌شده را \(\displaystyle Z'\) می‌گذاریم.
 
 \subsubsection{3. لایهٔ خطی برای تغییر بعد}
 وقتی چهار بردار \(\displaystyle C\)-بعدی را کنار هم می‌گذاریم، یک بردار \(\displaystyle 4C\)-بعدی شکل می‌گیرد.  
-حال با یک لایهٔ خطی (\textit{Fully Connected})، بعدِ \(\displaystyle 4C\) را به بعد جدیدی تبدیل می‌کنیم.  
+حال با یک لایهٔ خطی، بعدِ \(\displaystyle 4C\) را به بعد جدیدی تبدیل می‌کنیم.  
 معمولاً این بعد جدید برابر \(\displaystyle 2C\) در نظر گرفته می‌شود؛ 
 یعنی دو برابر بزرگ‌تر از قبل اما نه چهار برابر:
 \begin{equation}
@@ -902,23 +915,22 @@ Z_{2i, 2j}, \quad Z_{2i, 2j+1}, \quad Z_{2i+1, 2j}, \quad Z_{2i+1, 2j+1}.
 	\centering
 	\begin{minipage}[b]{1\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{transformer_images/patch_merging.png}
-		\caption{Patch Merging}
+		\includegraphics[width=\textwidth]{transformer_images/Patch_merging_new.png}
+		\caption{ادغام پچ ها}
 		\label{fig:patch merging in Swin Transformer}
 	\end{minipage}
 	\hfill
 \end{figure}
 
-در شبکه‌های کانولوشنی، مرتبا از لایه‌های \textit{Pooling} یا \textit{Stride-Convolution} 
-برای کوچک‌کردن (\lr{Downsampling}) ابعاد استفاده می‌شود تا اطلاعات سطح بالاتر (مثل ساختار کلی اشیا) راحت‌تر استخراج شود \cite{he2016deep}.  
-\lr{Swin Transformer} هم همین ایدهٔ سلسله‌مراتب را به دنیای ترانسفورمرها آورده است \cite{liu2021swintransformer}.  
-همچنین اگر ابعاد فضایی را کم نکنیم، هزینهٔ \lr{Attention} به‌شدت زیاد می‌شود 
-(چون باید در هر لایه برای همهٔ پیکسل‌ها \lr{Attention} محاسبه گردد).
+در شبکه‌های کانولوشنی، مرتبا از لایه‌های ادغام \footnote{\lr{Pooling}} یا کانولوشن با گام \footnote{\lr{Stride-Convolution}} 
+برای کوچک‌کردن ابعاد استفاده می‌شود تا اطلاعات سطح بالاتر (مثل ساختار کلی اشیا) راحت‌تر استخراج شود \cite{he2016deep}.  در مبدل پنجره متحرک هم همین ایدهٔ سلسله‌مراتب را به دنیای مبدل ها آورده است \cite{liu2021swintransformer}.  
+همچنین اگر ابعاد فضایی را کم نکنیم، هزینهٔ توجه به‌شدت زیاد می‌شود 
+(چون باید در هر لایه برای همهٔ پیکسل‌ها توجه محاسبه گردد).
 
-در معماری کلی \lr{Swin Transformer}، پس از \lr{Stage 1} و عبور از بلوک‌های \textbf{W-MSA} و \textbf{SW-MSA}، عملیات \lr{Patch Merging} انجام می‌شود. سپس در \lr{Stage 2}، ویژگی‌های کوچک‌تری داریم، اما تعداد کانال‌ها افزایش یافته است \cite{liu2021swintransformer}.  
-مشابه معماری‌های کانولوشنی، با افزایش \lr{Depth}، ابعاد فضایی کاهش و تعداد کانال‌ها افزایش پیدا می‌کند.
+در معماری کلی کبدل های پنجره متحرک، پس از \lr{Stage 1} و عبور از بلوک‌های \textbf{W-MSA} و \textbf{SW-MSA}، عملیات  ادغام پچ ها انجام می‌شود. سپس در \lr{Stage 2}، ویژگی‌های کوچک‌تری داریم، اما تعداد کانال‌ها افزایش یافته است \cite{liu2021swintransformer}.  
+مشابه معماری‌های کانولوشنی، با افزایش عمق \footnote{\lr{Depth}}، ابعاد فضایی کاهش و تعداد کانال‌ها افزایش پیدا می‌کند.
 
-در انتهای \lr{Stage} آخر، خروجی به یک لایهٔ \lr{FC} داده می‌شود تا تعداد کلاس‌ها (\( \mathrm{num\_classes} \)) را پیش‌بینی کند.  
+در انتهای \lr{Stage} آخر، خروجی به یک لایهٔ \lr{FC} داده می‌شود تا تعداد کلاس‌ها را پیش‌بینی کند.  
 پس از گذر از \lr{Softmax}، احتمال هر کلاس به‌دست می‌آید و مدل در نهایت کلاس نهایی را برمی‌گزیند.
 
 

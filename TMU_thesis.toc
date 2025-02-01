@@ -83,19 +83,19 @@
 \contentsline {subsection}{\numberline {3.11.5}پنجره متحرک}{52}{subsection.3.11.5}%
 \contentsline {subsubsection}{توجه چند سری پنجره ای}{53}{section*.39}%
 \contentsline {subsubsection}{توجه چند سری پنجره ای جا به جا شده}{53}{section*.40}%
-\contentsline {subsection}{\numberline {3.11.6}Mlp}{54}{subsection.3.11.6}%
-\contentsline {subsection}{\numberline {3.11.7}\lr {patch merging}}{55}{subsection.3.11.7}%
+\contentsline {subsection}{\numberline {3.11.6}پرسپتروون چند لایه}{55}{subsection.3.11.6}%
+\contentsline {subsection}{\numberline {3.11.7}ترکیب پچ ها}{55}{subsection.3.11.7}%
 \contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{56}{section*.41}%
-\contentsline {subsubsection}{2. ادغام (Concat) ویژگی‌های چهار پیکسل}{56}{section*.42}%
-\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{56}{section*.43}%
+\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{57}{section*.42}%
+\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{57}{section*.43}%
 \contentsline {subsubsection}{4. کاهش ابعاد مکانی}{57}{section*.44}%
 \contentsline {chapter}{\numberline {4}پیشینه پژوهش}{59}{chapter.4}%
-\contentsline {subsection}{\numberline {4.0.1}ویژگی‌های محلی (\lr {Local Features})}{60}{subsection.4.0.1}%
-\contentsline {subsection}{\numberline {4.0.2}ویژگی‌های جهانی (\lr {Global Features})}{60}{subsection.4.0.2}%
-\contentsline {subsection}{\numberline {4.0.3}ترانسفورمرها و محدودیت‌های دید محلی}{61}{subsection.4.0.3}%
+\contentsline {subsection}{\numberline {4.0.1}ویژگی‌های محلی}{60}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}ویژگی‌های جهانی}{61}{subsection.4.0.2}%
+\contentsline {subsection}{\numberline {4.0.3}مبدل ها و محدودیت‌های دید محلی}{61}{subsection.4.0.3}%
 \contentsline {subsection}{\numberline {4.0.4}روش اول:}{61}{subsection.4.0.4}%
 \contentsline {subsection}{\numberline {4.0.5}تبدیل تصاویر به دو پچ مجزا:}{61}{subsection.4.0.5}%
-\contentsline {subsection}{\numberline {4.0.6}هماهنگ سازی پچ ها:}{62}{subsection.4.0.6}%
+\contentsline {subsection}{\numberline {4.0.6}هماهنگ سازی پچ ها:}{63}{subsection.4.0.6}%
 \contentsline {subsection}{\numberline {4.0.7}\lr {Positional Embedding}}{66}{subsection.4.0.7}%
 \contentsline {subsection}{\numberline {4.0.8}لایه های اول تا هشتم انکودر}{67}{subsection.4.0.8}%
 \contentsline {subsection}{\numberline {4.0.9}لایه نهم انکودر}{67}{subsection.4.0.9}%
