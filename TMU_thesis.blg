@@ -11,194 +11,46 @@ A level-1 auxiliary file: references.aux
 The style file: plain.bst
 A level-1 auxiliary file: appendix1.aux
 Database file #1: reference.bib
-Repeated entry---line 285 of file reference.bib
- : @book{mitchell1997machine
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 301 of file reference.bib
- : @book{james2013introduction
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 317 of file reference.bib
- : @book{murphy2012machine
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 371 of file reference.bib
- : @book{murphy2012machine
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 387 of file reference.bib
- : @book{bishop2006pattern
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 425 of file reference.bib
- : @book{mitchell1997machine
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 459 of file reference.bib
- : @book{bishop2006pattern
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 475 of file reference.bib
- : @book{murphy2012machine
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 589 of file reference.bib
- : @book{bishop2006pattern
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 605 of file reference.bib
- : @book{goodfellow2016deep
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 619 of file reference.bib
- : @article{rumelhart1986learning
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 639 of file reference.bib
- : @article{hochreiter1997long
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 659 of file reference.bib
- : @article{hochreiter1998vanishing
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 679 of file reference.bib
- : @inproceedings{gers1999learning
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 697 of file reference.bib
- : @book{goodfellow2016deep
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 713 of file reference.bib
- : @article{rumelhart1986learning
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 733 of file reference.bib
- : @article{hochreiter1997long
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 753 of file reference.bib
- : @article{hochreiter1998vanishing
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 773 of file reference.bib
- : @book{goodfellow2016deep
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 823 of file reference.bib
- : @article{vaswani2017attention
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 839 of file reference.bib
- : @inproceedings{bahdanau2014neural
- :                                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 901 of file reference.bib
- : @article{elman1990finding
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1053 of file reference.bib
- : @article{hochreiter1997long
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1105 of file reference.bib
- : @inproceedings{vaswani2017attention
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1153 of file reference.bib
- : @inproceedings{vaswani2017attention
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1187 of file reference.bib
- : @misc{dosovitskiy2020image
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1243 of file reference.bib
- : @inproceedings{he2016deep
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1259 of file reference.bib
- : @inproceedings{vaswani2017attention
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1275 of file reference.bib
- : @inproceedings{vaswani2017attention
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1291 of file reference.bib
- : @misc{dosovitskiy2020image
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1309 of file reference.bib
- : @article{devlin2018bert
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1323 of file reference.bib
- : @inproceedings{vaswani2017attention
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1339 of file reference.bib
- : @misc{dosovitskiy2020image
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1357 of file reference.bib
- : @inproceedings{he2016deep
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1389 of file reference.bib
- : @inproceedings{liu2021swintransformer
- :                                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1405 of file reference.bib
- : @misc{dosovitskiy2020image
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1423 of file reference.bib
- : @inproceedings{he2016deep
- :                          ,
-I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "bengio2003neural"
 You've used 48 entries,
             2118 wiz_defined-function locations,
-            765 strings with 11615 characters,
-and the built_in function-call counts, 16824 in all, are:
-= -- 1642
+            764 strings with 11554 characters,
+and the built_in function-call counts, 16579 in all, are:
+= -- 1614
 > -- 766
-< -- 14
+< -- 13
 + -- 311
 - -- 254
-* -- 1054
-:= -- 2689
+* -- 1041
+:= -- 2671
 add.period$ -- 144
 call.type$ -- 48
 change.case$ -- 255
 chr.to.int$ -- 0
 cite$ -- 48
-duplicate$ -- 717
-empty$ -- 1368
+duplicate$ -- 702
+empty$ -- 1341
 format.name$ -- 254
-if$ -- 3626
+if$ -- 3559
 int.to.chr$ -- 0
 int.to.str$ -- 48
 missing$ -- 64
 newline$ -- 243
 num.names$ -- 96
-pop$ -- 358
+pop$ -- 353
 preamble$ -- 1
 purify$ -- 221
 quote$ -- 0
-skip$ -- 526
+skip$ -- 511
 stack$ -- 0
-substring$ -- 976
-swap$ -- 198
-text.length$ -- 14
+substring$ -- 936
+swap$ -- 186
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 156
 warning$ -- 0
-while$ -- 156
+while$ -- 153
 width$ -- 50
 write$ -- 527
-(There were 37 error messages)
+(There was 1 warning)
