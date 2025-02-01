@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  1 FEB 2025 05:35
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  1 FEB 2025 09:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1859,33 +1859,6 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 18.
 
 
-LaTeX Warning: Reference `footdir@272' on page 60 undefined on input line 19.
-
-
-LaTeX Warning: Reference `footdir@273' on page 60 undefined on input line 19.
-
-
-LaTeX Warning: Reference `footdir@274' on page 60 undefined on input line 19.
-
-
-LaTeX Warning: Reference `footdir@275' on page 60 undefined on input line 19.
-
-
-LaTeX Warning: Reference `footdir@276' on page 60 undefined on input line 19.
-
-
-LaTeX Warning: Reference `footdir@277' on page 60 undefined on input line 19.
-
-
-LaTeX Warning: Reference `footdir@278' on page 60 undefined on input line 19.
-
-
-LaTeX Warning: Reference `footdir@279' on page 60 undefined on input line 19.
-
-
-LaTeX Warning: Reference `footdir@280' on page 60 undefined on input line 24.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1959,40 +1932,40 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [67]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 186.
+(hyperref)                removing `math shift' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 186.
+(hyperref)                removing `superscript' on input line 189.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/it' undefined
-(Font)              using `TU/XBNiloofar.ttf(0)/b/n' instead on input line 208.
+(Font)              using `TU/XBNiloofar.ttf(0)/b/n' instead on input line 212.
 
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 208.
+(hyperref)                removing `math shift' on input line 212.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 208.
+(hyperref)                removing `\begingroup' on input line 212.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\endgroup' on input line 208.
+(hyperref)                removing `\endgroup' on input line 212.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@over' on input line 208.
+(hyperref)                removing `\@@over' on input line 212.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 208.
+(hyperref)                removing `\@ifnextchar' on input line 212.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 208.
+(hyperref)                removing `subscript' on input line 212.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2021,6 +1994,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [70]
+Missing character: There is no ِ (U+0650) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2030,7 +2005,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [71]
-Overfull \hbox (7.29857pt too wide) in paragraph at lines 321--322
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72]
+Overfull \hbox (7.29857pt too wide) in paragraph at lines 335--336
 [][]\TU/XBNiloofar.ttf(0)/m/it/12 بنابراین، پس از بلوک سوم که همچنان ورودی $\OT
 1/cmr/m/n/12 (\OML/cmm/m/it/12 B; \OT1/cmr/m/n/12 785\OML/cmm/m/it/12 ; \OT1/cm
 r/m/n/12 768)$ \TU/XBNiloofar.ttf(0)/m/it/12 دارد و خروجی همان $\OT1/cmr/m/n/12
@@ -2046,21 +2030,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[72]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [73]
-Overfull \hbox (1.23354pt too wide) in paragraph at lines 358--359
-[] []\TU/XBNiloofar.ttf(0)/m/it/12 لایه‌های تعبیه‌ساز و موقعیتی (Positional Emb
-edding)[] ابتدا در این بخش، پارامترها به‌صورت[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2200,24 +2170,18 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `TMU_thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `TMU_thesis.out':
-(rerunfilecheck)             Before: 6AC860514120F1C6354C488E60CC6DCD;17536
-(rerunfilecheck)             After:  1DEE8037A3B8623F70415B8890BAACE6;17297.
+Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 643022508FB9A842BD357E29FC02E150;17407.
 Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
 (rerunfilecheck)             Checksum: D0F3A1DC921D01E4A1BBE1003B7C88D1;9358.
  ) 
 Here is how much of TeX's memory you used:
- 17268 strings out of 474773
- 338975 string characters out of 5761289
+ 17305 strings out of 474773
+ 339490 string characters out of 5761289
  1931842 words of memory out of 5000000
- 38974 multiletter control sequences out of 15000+600000
+ 39011 multiletter control sequences out of 15000+600000
  568917 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,1353b,887s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,1353b,894s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on TMU_thesis.pdf (94 pages).

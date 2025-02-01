@@ -92,22 +92,23 @@
 \contentsline {chapter}{\numberline {4}پیشینه پژوهش}{59}{chapter.4}%
 \contentsline {subsection}{\numberline {4.0.1}ویژگی‌های محلی}{60}{subsection.4.0.1}%
 \contentsline {subsection}{\numberline {4.0.2}ویژگی‌های جهانی}{61}{subsection.4.0.2}%
-\contentsline {subsection}{\numberline {4.0.3}مبدل ها و محدودیت‌های دید محلی}{61}{subsection.4.0.3}%
+\contentsline {subsection}{\numberline {4.0.3}ترانسفورمرها و محدودیت‌های دید محلی}{61}{subsection.4.0.3}%
 \contentsline {subsection}{\numberline {4.0.4}روش اول:}{61}{subsection.4.0.4}%
 \contentsline {subsection}{\numberline {4.0.5}تبدیل تصاویر به دو پچ مجزا:}{61}{subsection.4.0.5}%
 \contentsline {subsection}{\numberline {4.0.6}هماهنگ سازی پچ ها:}{63}{subsection.4.0.6}%
-\contentsline {subsection}{\numberline {4.0.7}\lr {Positional Embedding}}{66}{subsection.4.0.7}%
+\contentsline {subsection}{\numberline {4.0.7}جا ساز موقعیتی}{66}{subsection.4.0.7}%
 \contentsline {subsection}{\numberline {4.0.8}لایه های اول تا هشتم انکودر}{67}{subsection.4.0.8}%
 \contentsline {subsection}{\numberline {4.0.9}لایه نهم انکودر}{67}{subsection.4.0.9}%
 \contentsline {subsection}{\numberline {4.0.10}محاسبهٔ ماتریس شباهت (\(QK^T\)) و میانگین‌گیری}{68}{subsection.4.0.10}%
 \contentsline {subsection}{\numberline {4.0.11}اعمال مقیاس‌بندی \( \frac {1}{\sqrt {d_k}} \) و \textit {Softmax}}{69}{subsection.4.0.11}%
 \contentsline {subsection}{\numberline {4.0.12}ادغام وزنی}{71}{subsection.4.0.12}%
-\contentsline {section}{\numberline {4.1}روش دوم down sampling: }{71}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}حرکت تدریجی از جزئیات به کلیت}{73}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}کم نشدن پارامتر ها در این مدل}{74}{subsection.4.1.2}%
-\contentsline {paragraph}{لایه‌های تعبیه‌ساز و موقعیتی (Positional Embedding)}{74}{section*.57}%
-\contentsline {paragraph}{توجه چندسری (Multi-Head Attention)}{74}{section*.58}%
-\contentsline {paragraph}{شبکه‌های MLP داخل هر بلوک ترنسفورمر}{74}{section*.59}%
+\contentsline {section}{\numberline {4.1}روش دوم}{72}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}کاهش تدریجی}{72}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}حرکت تدریجی از جزئیات به کلیت}{73}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}کم نشدن پارامتر ها در این مدل}{74}{subsection.4.1.3}%
+\contentsline {paragraph}{لایه‌های تعبیه‌ساز و موقعیتی}{74}{section*.57}%
+\contentsline {paragraph}{توجه چندسری}{74}{section*.58}%
+\contentsline {paragraph}{شبکه‌های MLP داخل هر بلوک ترنسفورمر}{75}{section*.59}%
 \contentsline {chapter}{\numberline {5}آزمایشات و نتایج}{76}{chapter.5}%
 \contentsline {chapter}{کتاب‌نامه}{77}{chapter*.60}%
 \contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{82}{appendix.Alph1}%
