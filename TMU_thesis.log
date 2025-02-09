@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  1 FEB 2025 09:56
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.22)  1 FEB 2025 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1572,60 +1572,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
-Missing character: There is no ج (U+062C) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no س (U+0633) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ز (U+0632) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no پ (U+067E) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no چ (U+0686) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ه (U+0647) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no د (U+062F) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ر (U+0631) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no م (U+0645) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ب (U+0628) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no د (U+062F) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ل (U+0644) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ه (U+0647) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ب (U+0628) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ن (U+0646) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-bold]/OT:script=la
-tn;language=dflt;mapping=tex-text;!
 File: transformer_images/image_patch_embedding.png Graphic file (type bmp)
 <transformer_images/image_patch_embedding.png>
 File: transformer_images/space_original_image.png Graphic file (type bmp)
 <transformer_images/space_original_image.png>
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 

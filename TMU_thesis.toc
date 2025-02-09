@@ -67,7 +67,7 @@
 \contentsline {section}{\numberline {3.7}توجه چند سری ماسک شده}{38}{section.3.7}%
 \contentsline {section}{\numberline {3.8}مثال عددی توجه ماسک شده}{38}{section.3.8}%
 \contentsline {section}{\numberline {3.9}مبدل های بینایی}{39}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}\lr {جاسازی پچ ها در مبدل های بینایی}}{40}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.1}جاسازی پچ ها در مبدل های بینایی}{40}{subsection.3.9.1}%
 \contentsline {subsection}{\numberline {3.9.2}شکل پچ‌ها:}{40}{subsection.3.9.2}%
 \contentsline {subsection}{\numberline {3.9.3}تعداد پچ‌ها:}{41}{subsection.3.9.3}%
 \contentsline {subsection}{\numberline {3.9.4}بردارکردن هر پچ}{43}{subsection.3.9.4}%
