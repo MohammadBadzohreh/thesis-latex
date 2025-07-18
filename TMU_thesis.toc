@@ -1,89 +1,88 @@
 \contentsline {chapter}{فهرست جداول}{و}{chapter*.2}%
 \contentsline {chapter}{فهرست تصاویر}{ز}{chapter*.3}%
 \contentsline {chapter}{پیش‌گفتار}{1}{section*.5}%
-\contentsline {chapter}{\numberline {1}مفاهیم اولیه}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}مقدمه}{2}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}آغاز هوش مصنوعی و هدف اصلی}{2}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}دورهٔ طلایی و پیشرفت‌های اولیه}{3}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}انتظارات بیش از حد و ظهور عصر تاریک}{3}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {1.1.4}عوامل اصلی عصر تاریک هوش مصنوعی}{4}{subsection.1.1.4}%
-\contentsline {subsection}{\numberline {1.1.5}پایان عصر تاریک و بازگشت هوش مصنوعی}{4}{subsection.1.1.5}%
-\contentsline {section}{\numberline {1.2}انواع مدل یادگیری ماشین و شبکه‌های عصبی}{5}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}یادگیری ماشین: مروری کلی}{6}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}تقسیم‌بندی‌های اصلی در یادگیری ماشین}{6}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}یادگیری نظارت‌شده}{6}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}طبقه‌بندی}{7}{subsection.1.2.4}%
-\contentsline {subsection}{\numberline {1.2.5}رگرسیون}{7}{subsection.1.2.5}%
-\contentsline {subsection}{\numberline {1.2.6}یادگیری تقویتی}{7}{subsection.1.2.6}%
-\contentsline {subsection}{\numberline {1.2.7}معرفی چند مدل از الگوریتم یادگیری کلاسیک}{8}{subsection.1.2.7}%
-\contentsline {subsection}{\numberline {1.2.8}نزدیک‌ترین همسایه }{8}{subsection.1.2.8}%
-\contentsline {subsubsection}{مزایا:}{8}{section*.6}%
-\contentsline {subsubsection}{معایب:}{9}{section*.7}%
-\contentsline {subsection}{\numberline {1.2.9}ماشین بردار پشتیبان}{9}{subsection.1.2.9}%
-\contentsline {subsubsection}{مزایا:}{9}{section*.8}%
-\contentsline {subsubsection}{معایب:}{10}{section*.9}%
-\contentsline {subsection}{\numberline {1.2.10}بیز ساده}{10}{subsection.1.2.10}%
-\contentsline {subsubsection}{مزایا:}{10}{section*.10}%
-\contentsline {subsubsection}{معایب:}{11}{section*.11}%
-\contentsline {subsection}{\numberline {1.2.11}شبکه‌های عصبی بازگشتی و شبکه‌های حافظه بلندمدت کوتاه‌مدت}{11}{subsection.1.2.11}%
-\contentsline {subsection}{\numberline {1.2.12}شبکه‌های عصبی بازگشتی}{11}{subsection.1.2.12}%
-\contentsline {subsection}{\numberline {1.2.13}ساختار و عملکرد شبکه‌های عصبی بازگشتی}{11}{subsection.1.2.13}%
-\contentsline {subsection}{\numberline {1.2.14}مزایا و معایب شبکه‌های عصبی بازگشتی}{12}{subsection.1.2.14}%
+\contentsline {chapter}{\numberline {1}مقدمه}{2}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}آغاز هوش مصنوعی و هدف اصلی}{3}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.2}دورهٔ طلایی و پیشرفت‌های اولیه}{3}{subsection.1.0.2}%
+\contentsline {subsection}{\numberline {1.0.3}انتظارات بیش از حد و ظهور عصر تاریک}{4}{subsection.1.0.3}%
+\contentsline {subsection}{\numberline {1.0.4}عوامل اصلی عصر تاریک هوش مصنوعی}{4}{subsection.1.0.4}%
+\contentsline {subsection}{\numberline {1.0.5}پایان عصر تاریک و بازگشت هوش مصنوعی}{5}{subsection.1.0.5}%
+\contentsline {section}{\numberline {1.1}انواع مدل یادگیری ماشین و شبکه‌های عصبی}{6}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}یادگیری ماشین: مروری کلی}{6}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}تقسیم‌بندی‌های اصلی در یادگیری ماشین}{6}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}یادگیری نظارت‌شده}{7}{subsection.1.1.3}%
+\contentsline {subsubsection}{کلاس‌بندی}{7}{section*.6}%
+\contentsline {subsubsection}{رگرسیون}{7}{section*.7}%
+\contentsline {subsection}{\numberline {1.1.4}یادگیری بدون نظارت}{8}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}یادگیری تقویتی}{9}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {1.1.6}معرفی چند مدل از الگوریتم یادگیری کلاسیک}{10}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.7}نزدیک‌ترین همسایه }{11}{subsection.1.1.7}%
+\contentsline {subsubsection}{مزایا:}{11}{section*.8}%
+\contentsline {subsubsection}{معایب:}{11}{section*.9}%
+\contentsline {subsection}{\numberline {1.1.8}ماشین بردار پشتیبان}{12}{subsection.1.1.8}%
+\contentsline {subsubsection}{مزایا:}{12}{section*.10}%
+\contentsline {subsubsection}{معایب:}{12}{section*.11}%
+\contentsline {subsection}{\numberline {1.1.9}بیز ساده}{12}{subsection.1.1.9}%
 \contentsline {subsubsection}{مزایا:}{13}{section*.12}%
 \contentsline {subsubsection}{معایب:}{13}{section*.13}%
-\contentsline {subsection}{\numberline {1.2.15}شبکه‌های حافظه بلندمدت-کوتاه‌مدت}{13}{subsection.1.2.15}%
-\contentsline {subsection}{\numberline {1.2.16}ناپدید شدن گرادیان در شبکه های بازگشتی}{14}{subsection.1.2.16}%
-\contentsline {subsection}{\numberline {1.2.17}ظهور شبکه‌های حافظهٔ بلندمدت-کوتاه‌مدت}{15}{subsection.1.2.17}%
-\contentsline {subsection}{\numberline {1.2.18}راه‌حل شبکه‌های حافظه بلندمدت-کوتاه‌مدت برای پایداری جریان گرادیان‌ها}{15}{subsection.1.2.18}%
-\contentsline {section}{\numberline {1.3}ساختار شبکه های حافظه بلند-مدت کوتاه-مدت}{15}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}وضعیت سلولی}{16}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}دروازه‌ها}{16}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}به‌روزرسانی وضعیت سلولی}{17}{subsection.1.3.3}%
-\contentsline {subsubsection}{ علت پایداری گرادیان در شبکه های حافظه بلند-مدت کوتاه مدت}{18}{section*.14}%
-\contentsline {subsection}{\numberline {1.3.4}مشکلات کلی شبکه های بازگشتی و ظهور مبدل ها}{18}{subsection.1.3.4}%
-\contentsline {subsection}{\numberline {1.3.5}مشکل وابستگی ترتیبی در شبکه های بازگشتی}{19}{subsection.1.3.5}%
-\contentsline {subsubsection}{محدودیت در یادگیری وابستگی‌های بسیار طولانی}{19}{section*.15}%
-\contentsline {subsection}{\numberline {1.3.6} پیچیدگی محاسباتی و حافظه در شبکه های بلند مدت کوتاه مدت}{19}{subsection.1.3.6}%
-\contentsline {subsection}{\numberline {1.3.7}مشکل پردازش وابستگی‌های غیرمتوالی}{20}{subsection.1.3.7}%
-\contentsline {subsection}{\numberline {1.3.8}گرادیان‌های ناپایدار و مشکلات بهینه‌سازی}{20}{subsection.1.3.8}%
-\contentsline {chapter}{\numberline {2}پیشینه پژوهش}{22}{chapter.2}%
-\contentsline {section}{\numberline {2.1}مقدمه}{22}{section.2.1}%
-\contentsline {section}{\numberline {2.2}مشکلات ترجمه ماشینی و مبدل ها}{22}{section.2.2}%
-\contentsline {section}{\numberline {2.3}ظهور ترانسفورمرها}{23}{section.2.3}%
-\contentsline {section}{\numberline {2.4}معماری ترانسفورمرها}{24}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}جاسازی}{24}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}جاسازی موقعیتی}{25}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}توجه}{28}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}توجه چند سر}{29}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}اتصال باقی مانده}{32}{subsection.2.4.5}%
-\contentsline {section}{\numberline {2.5}نرمال سازی لایه ها}{33}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}اتصال باقی مانده}{35}{subsection.2.5.1}%
-\contentsline {paragraph}{نرمال سازی لایه}{35}{section*.23}%
-\contentsline {section}{\numberline {2.6}رمزگشا}{36}{section.2.6}%
-\contentsline {section}{\numberline {2.7}توجه چند سری ماسک شده}{37}{section.2.7}%
-\contentsline {section}{\numberline {2.8}مثال عددی توجه ماسک شده}{38}{section.2.8}%
-\contentsline {section}{\numberline {2.9}مبدل های بینایی}{39}{section.2.9}%
-\contentsline {subsection}{\numberline {2.9.1}جاسازی پچ ها در مبدل های بینایی}{39}{subsection.2.9.1}%
-\contentsline {subsection}{\numberline {2.9.2}شکل پچ‌ها:}{40}{subsection.2.9.2}%
-\contentsline {subsection}{\numberline {2.9.3}تعداد پچ‌ها:}{40}{subsection.2.9.3}%
-\contentsline {subsection}{\numberline {2.9.4}بردارکردن هر پچ}{42}{subsection.2.9.4}%
-\contentsline {section}{\numberline {2.10}اعمال لایهٔ خطی}{43}{section.2.10}%
-\contentsline {subsection}{\numberline {2.10.1}توکن کلاس بندی}{44}{subsection.2.10.1}%
-\contentsline {subsection}{\numberline {2.10.2}رمزگذار در مبدل های بینایی}{45}{subsection.2.10.2}%
-\contentsline {section}{\numberline {2.11}مبدل پنجره‌ای متحرک}{46}{section.2.11}%
-\contentsline {subsection}{\numberline {2.11.1}قطعه‌بندی پچ در مبدل پنجره متحرک}{48}{subsection.2.11.1}%
-\contentsline {subsection}{\numberline {2.11.2}توجه چند سر پنجره ای}{49}{subsection.2.11.2}%
-\contentsline {subsubsection}{تعریف پنجره‌های محلی}{49}{section*.24}%
-\contentsline {subsection}{\numberline {2.11.3}توجه}{50}{subsection.2.11.3}%
-\contentsline {subsection}{\numberline {2.11.4}پنجره متحرک جا به جا شده}{52}{subsection.2.11.4}%
-\contentsline {subsubsection}{توجه چند سری پنجره ای}{52}{section*.25}%
-\contentsline {subsubsection}{توجه چند سری پنجره ای جا به جا شده}{53}{section*.26}%
-\contentsline {subsection}{\numberline {2.11.5}پرسپتروون چند لایه}{54}{subsection.2.11.5}%
-\contentsline {subsection}{\numberline {2.11.6}ترکیب پچ ها}{55}{subsection.2.11.6}%
-\contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{56}{section*.27}%
-\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{56}{section*.28}%
-\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{56}{section*.29}%
-\contentsline {subsubsection}{4. کاهش ابعاد مکانی}{56}{section*.30}%
+\contentsline {subsection}{\numberline {1.1.10}شبکه‌های عصبی بازگشتی و شبکه‌های حافظه بلندمدت کوتاه‌مدت}{13}{subsection.1.1.10}%
+\contentsline {subsection}{\numberline {1.1.11}شبکه‌های عصبی بازگشتی}{14}{subsection.1.1.11}%
+\contentsline {subsection}{\numberline {1.1.12}ساختار و عملکرد شبکه‌های عصبی بازگشتی}{14}{subsection.1.1.12}%
+\contentsline {subsection}{\numberline {1.1.13}مزایا و معایب شبکه‌های عصبی بازگشتی}{15}{subsection.1.1.13}%
+\contentsline {subsubsection}{مزایا:}{15}{section*.14}%
+\contentsline {subsubsection}{معایب:}{15}{section*.15}%
+\contentsline {subsection}{\numberline {1.1.14}شبکه‌های حافظه بلندمدت-کوتاه‌مدت}{16}{subsection.1.1.14}%
+\contentsline {subsection}{\numberline {1.1.15}ناپدید شدن گرادیان در شبکه های بازگشتی}{16}{subsection.1.1.15}%
+\contentsline {subsection}{\numberline {1.1.16}ظهور شبکه‌های حافظه بلندمدت-کوتاه‌مدت}{17}{subsection.1.1.16}%
+\contentsline {subsection}{\numberline {1.1.17}راه‌حل شبکه‌های حافظه بلندمدت-کوتاه‌مدت برای پایداری جریان گرادیان‌ها}{17}{subsection.1.1.17}%
+\contentsline {section}{\numberline {1.2}ساختار شبکه های حافظه بلند-مدت کوتاه-مدت}{18}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}وضعیت سلولی}{18}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}دروازه‌ها}{18}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}به‌روزرسانی وضعیت سلولی}{20}{subsection.1.2.3}%
+\contentsline {subsubsection}{ علت پایداری گرادیان در شبکه های حافظه بلند-مدت کوتاه مدت}{20}{section*.16}%
+\contentsline {subsection}{\numberline {1.2.4}مشکلات کلی شبکه های بازگشتی و ظهور مبدل ها}{21}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}مشکل وابستگی ترتیبی در شبکه های بازگشتی}{21}{subsection.1.2.5}%
+\contentsline {subsubsection}{محدودیت در یادگیری وابستگی‌های بسیار طولانی}{21}{section*.17}%
+\contentsline {subsection}{\numberline {1.2.6} پیچیدگی محاسباتی و حافظه در شبکه های بلند مدت کوتاه مدت}{22}{subsection.1.2.6}%
+\contentsline {subsection}{\numberline {1.2.7}مشکل پردازش وابستگی‌های غیرمتوالی}{22}{subsection.1.2.7}%
+\contentsline {subsection}{\numberline {1.2.8}گرادیان‌های ناپایدار و مشکلات بهینه‌سازی}{22}{subsection.1.2.8}%
+\contentsline {chapter}{\numberline {2}پیشینه پژوهش}{24}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مشکلات ترجمه ماشینی و مبدل ها}{24}{section.2.1}%
+\contentsline {section}{\numberline {2.2}ظهور ترانسفورمرها}{25}{section.2.2}%
+\contentsline {section}{\numberline {2.3}معماری مبدل ها}{26}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}جاسازی}{26}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}جاسازی موقعیتی}{27}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}توجه}{30}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}توجه چند سر}{32}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}اتصال باقی مانده}{34}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2.4}نرمال سازی لایه ها}{35}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}اتصال باقی مانده}{37}{subsection.2.4.1}%
+\contentsline {paragraph}{نرمال سازی لایه}{38}{section*.25}%
+\contentsline {section}{\numberline {2.5}رمزگشا}{38}{section.2.5}%
+\contentsline {section}{\numberline {2.6}توجه چند سری ماسک شده}{39}{section.2.6}%
+\contentsline {section}{\numberline {2.7}مثال عددی توجه ماسک شده}{40}{section.2.7}%
+\contentsline {section}{\numberline {2.8}مبدل های بینایی}{41}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}جاسازی پچ ها در مبدل های بینایی}{41}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}شکل پچ‌ها:}{42}{subsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.8.3}تعداد پچ‌ها:}{42}{subsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.8.4}بردارکردن هر پچ}{43}{subsection.2.8.4}%
+\contentsline {section}{\numberline {2.9}اعمال لایهٔ خطی}{44}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}توکن کلاس بندی}{45}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}رمزگذار در مبدل های بینایی}{46}{subsection.2.9.2}%
+\contentsline {section}{\numberline {2.10}مبدل پنجره‌ای متحرک}{47}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}قطعه‌بندی پچ در مبدل پنجره متحرک}{49}{subsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.10.2}توجه چند سر پنجره ای}{50}{subsection.2.10.2}%
+\contentsline {subsubsection}{تعریف پنجره‌های محلی}{50}{section*.26}%
+\contentsline {subsection}{\numberline {2.10.3}توجه}{51}{subsection.2.10.3}%
+\contentsline {subsection}{\numberline {2.10.4}پنجره متحرک جا به جا شده}{52}{subsection.2.10.4}%
+\contentsline {subsubsection}{توجه چند سری پنجره ای}{53}{section*.27}%
+\contentsline {subsubsection}{توجه چند سری پنجره ای جا به جا شده}{53}{section*.28}%
+\contentsline {subsection}{\numberline {2.10.5}پرسپتروون چند لایه}{55}{subsection.2.10.5}%
+\contentsline {subsection}{\numberline {2.10.6}ترکیب پچ ها}{56}{subsection.2.10.6}%
+\contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{56}{section*.29}%
+\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{57}{section*.30}%
+\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{57}{section*.31}%
+\contentsline {subsubsection}{4. کاهش ابعاد مکانی}{57}{section*.32}%
 \contentsline {chapter}{\numberline {3}پیشینه پژوهش}{59}{chapter.3}%
 \contentsline {subsection}{\numberline {3.0.1}ویژگی‌های محلی}{60}{subsection.3.0.1}%
 \contentsline {subsection}{\numberline {3.0.2}ویژگی‌های جهانی}{61}{subsection.3.0.2}%
@@ -101,9 +100,9 @@
 \contentsline {subsection}{\numberline {3.1.1}کاهش تدریجی}{72}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}حرکت تدریجی از جزئیات به کلیت}{73}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {3.1.3}کم نشدن پارامتر ها در این مدل}{74}{subsection.3.1.3}%
-\contentsline {paragraph}{لایه‌های تعبیه‌ساز و موقعیتی}{74}{section*.43}%
-\contentsline {paragraph}{توجه چندسری}{74}{section*.44}%
-\contentsline {paragraph}{شبکه‌های MLP داخل هر بلوک ترنسفورمر}{75}{section*.45}%
+\contentsline {paragraph}{لایه‌های تعبیه‌ساز و موقعیتی}{74}{section*.45}%
+\contentsline {paragraph}{توجه چندسری}{74}{section*.46}%
+\contentsline {paragraph}{شبکه‌های MLP داخل هر بلوک ترنسفورمر}{75}{section*.47}%
 \contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{76}{chapter.4}%
-\contentsline {chapter}{کتاب‌نامه}{77}{chapter*.46}%
+\contentsline {chapter}{کتاب‌نامه}{77}{chapter*.48}%
 \contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{82}{appendix.Alph1}%
