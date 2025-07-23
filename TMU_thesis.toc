@@ -88,6 +88,14 @@
 \contentsline {subsection}{\numberline {3.0.2}لایه رگرسیون تانسوری (\lr {Tensor Regression Layer})}{64}{subsection.3.0.2}%
 \contentsline {subsection}{\numberline {3.0.3}چرا در مبدل های بینایی از تانسور استفاده میکنیم؟}{66}{subsection.3.0.3}%
 \contentsline {subsection}{\numberline {3.0.4}روش تانسوری مبدل پنجره متحرک:}{68}{subsection.3.0.4}%
-\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{69}{chapter.4}%
-\contentsline {chapter}{کتاب‌نامه}{70}{chapter*.43}%
-\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{75}{appendix.Alph1}%
+\contentsline {subsection}{\numberline {3.0.5}پیاده‌سازی مرحله‌ی تعبیه پچ با استفاده از فشرده‌سازی تانسوری}{68}{subsection.3.0.5}%
+\contentsline {subsection}{\numberline {3.0.6}ماژول توجه سلف چندسری مبتنی بر پنجره به‌صورت تانسوری}{70}{subsection.3.0.6}%
+\contentsline {subsection}{\numberline {3.0.7}توجه علامت‌دار}{74}{subsection.3.0.7}%
+\contentsline {paragraph}{محاسبه امتیاز توجه}{75}{section*.49}%
+\contentsline {paragraph}{الف) توجه معمولی:}{75}{section*.50}%
+\contentsline {paragraph}{ب) توجه علامت‌دار:}{75}{section*.51}%
+\contentsline {subsection}{\numberline {3.0.8}توجه مبتنی بر پنجره‌های جابه‌جا‌شده به صورت تانسوری}{76}{subsection.3.0.8}%
+\contentsline {subsection}{\numberline {3.0.9}ادغام پچ‌ها به‌صورت تانسوری}{79}{subsection.3.0.9}%
+\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{83}{chapter.4}%
+\contentsline {chapter}{کتاب‌نامه}{84}{chapter*.60}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{89}{appendix.Alph1}%
