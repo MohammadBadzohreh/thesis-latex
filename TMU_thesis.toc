@@ -95,7 +95,7 @@
 \contentsline {paragraph}{الف) توجه معمولی:}{75}{section*.50}%
 \contentsline {paragraph}{ب) توجه علامت‌دار:}{75}{section*.51}%
 \contentsline {subsection}{\numberline {3.0.8}توجه مبتنی بر پنجره‌های جابه‌جا‌شده به صورت تانسوری}{76}{subsection.3.0.8}%
-\contentsline {subsection}{\numberline {3.0.9}ادغام پچ‌ها به‌صورت تانسوری}{79}{subsection.3.0.9}%
-\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{83}{chapter.4}%
-\contentsline {chapter}{کتاب‌نامه}{84}{chapter*.60}%
-\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{89}{appendix.Alph1}%
+\contentsline {subsection}{\numberline {3.0.9}ادغام پچ‌ها به‌صورت تانسوری}{77}{subsection.3.0.9}%
+\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{80}{chapter.4}%
+\contentsline {chapter}{کتاب‌نامه}{81}{chapter*.56}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{86}{appendix.Alph1}%
