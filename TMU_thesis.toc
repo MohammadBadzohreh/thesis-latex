@@ -2,31 +2,31 @@
 \contentsline {chapter}{فهرست تصاویر}{و}{chapter*.3}%
 \contentsline {chapter}{پیش‌گفتار}{1}{section*.5}%
 \contentsline {chapter}{\numberline {1}مقدمه}{2}{chapter.1}%
-\contentsline {subsection}{\numberline {1.0.1}آغاز هوش مصنوعی و هدف اصلی}{3}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.1}آغاز هوش مصنوعی و هدف اصلی}{2}{subsection.1.0.1}%
 \contentsline {subsection}{\numberline {1.0.2}دورهٔ طلایی و پیشرفت‌های اولیه}{3}{subsection.1.0.2}%
-\contentsline {subsection}{\numberline {1.0.3}انتظارات بیش از حد و ظهور عصر تاریک}{4}{subsection.1.0.3}%
+\contentsline {subsection}{\numberline {1.0.3}انتظارات بیش از حد و ظهور عصر تاریک}{3}{subsection.1.0.3}%
 \contentsline {subsection}{\numberline {1.0.4}عوامل اصلی عصر تاریک هوش مصنوعی}{4}{subsection.1.0.4}%
-\contentsline {subsection}{\numberline {1.0.5}پایان عصر تاریک و بازگشت هوش مصنوعی}{5}{subsection.1.0.5}%
-\contentsline {section}{\numberline {1.1}انواع مدل یادگیری ماشین و شبکه‌های عصبی}{6}{section.1.1}%
+\contentsline {subsection}{\numberline {1.0.5}پایان عصر تاریک و بازگشت هوش مصنوعی}{4}{subsection.1.0.5}%
+\contentsline {section}{\numberline {1.1}انواع مدل یادگیری ماشین و شبکه‌های عصبی}{5}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}یادگیری ماشین: مروری کلی}{6}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.1.2}تقسیم‌بندی‌های اصلی در یادگیری ماشین}{6}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}یادگیری نظارت‌شده}{7}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.3}یادگیری نظارت‌شده}{6}{subsection.1.1.3}%
 \contentsline {subsubsection}{کلاس‌بندی}{7}{section*.6}%
 \contentsline {subsubsection}{رگرسیون}{7}{section*.7}%
 \contentsline {subsection}{\numberline {1.1.4}یادگیری بدون نظارت}{8}{subsection.1.1.4}%
 \contentsline {subsection}{\numberline {1.1.5}یادگیری تقویتی}{9}{subsection.1.1.5}%
-\contentsline {subsection}{\numberline {1.1.6}معرفی چند مدل از الگوریتم یادگیری کلاسیک}{10}{subsection.1.1.6}%
-\contentsline {subsection}{\numberline {1.1.7}نزدیک‌ترین همسایه }{11}{subsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.1.6}معرفی چند مدل از الگوریتم یادگیری کلاسیک}{9}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.7}نزدیک‌ترین همسایه }{10}{subsection.1.1.7}%
 \contentsline {subsubsection}{مزایا:}{11}{section*.8}%
 \contentsline {subsubsection}{معایب:}{11}{section*.9}%
-\contentsline {subsection}{\numberline {1.1.8}ماشین بردار پشتیبان}{12}{subsection.1.1.8}%
-\contentsline {subsubsection}{مزایا:}{12}{section*.10}%
+\contentsline {subsection}{\numberline {1.1.8}ماشین بردار پشتیبان}{11}{subsection.1.1.8}%
+\contentsline {subsubsection}{مزایا:}{11}{section*.10}%
 \contentsline {subsubsection}{معایب:}{12}{section*.11}%
 \contentsline {subsection}{\numberline {1.1.9}بیز ساده}{12}{subsection.1.1.9}%
-\contentsline {subsubsection}{مزایا:}{13}{section*.12}%
+\contentsline {subsubsection}{مزایا:}{12}{section*.12}%
 \contentsline {subsubsection}{معایب:}{13}{section*.13}%
 \contentsline {subsection}{\numberline {1.1.10}شبکه‌های عصبی بازگشتی و شبکه‌های حافظه بلندمدت کوتاه‌مدت}{13}{subsection.1.1.10}%
-\contentsline {subsection}{\numberline {1.1.11}شبکه‌های عصبی بازگشتی}{14}{subsection.1.1.11}%
+\contentsline {subsection}{\numberline {1.1.11}شبکه‌های عصبی بازگشتی}{13}{subsection.1.1.11}%
 \contentsline {subsection}{\numberline {1.1.12}ساختار و عملکرد شبکه‌های عصبی بازگشتی}{14}{subsection.1.1.12}%
 \contentsline {subsection}{\numberline {1.1.13}مزایا و معایب شبکه‌های عصبی بازگشتی}{15}{subsection.1.1.13}%
 \contentsline {subsubsection}{مزایا:}{15}{section*.14}%
@@ -49,10 +49,10 @@
 \contentsline {chapter}{\numberline {2}پیشینه پژوهش}{24}{chapter.2}%
 \contentsline {section}{\numberline {2.1}مشکلات ترجمه ماشینی و مبدل ها}{24}{section.2.1}%
 \contentsline {section}{\numberline {2.2}ظهور ترانسفورمرها}{25}{section.2.2}%
-\contentsline {section}{\numberline {2.3}معماری مبدل ها}{26}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}جاسازی}{26}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}جاسازی موقعیتی}{27}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}توجه}{30}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.3}معماری مبدل ها}{25}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}جاسازی}{27}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}جاسازی موقعیتی}{28}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}توجه}{29}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}توجه چند سر}{32}{subsection.2.3.4}%
 \contentsline {subsection}{\numberline {2.3.5}اتصال باقی مانده}{34}{subsection.2.3.5}%
 \contentsline {section}{\numberline {2.4}نرمال سازی لایه ها}{35}{section.2.4}%
@@ -66,7 +66,7 @@
 \contentsline {subsection}{\numberline {2.8.2}شکل پچ‌ها:}{42}{subsection.2.8.2}%
 \contentsline {subsection}{\numberline {2.8.3}تعداد پچ‌ها:}{42}{subsection.2.8.3}%
 \contentsline {subsection}{\numberline {2.8.4}بردارکردن هر پچ}{43}{subsection.2.8.4}%
-\contentsline {section}{\numberline {2.9}اعمال لایهٔ خطی}{44}{section.2.9}%
+\contentsline {section}{\numberline {2.9}اعمال لایهٔ خطی}{43}{section.2.9}%
 \contentsline {subsection}{\numberline {2.9.1}توکن کلاس بندی}{45}{subsection.2.9.1}%
 \contentsline {subsection}{\numberline {2.9.2}رمزگذار در مبدل های بینایی}{46}{subsection.2.9.2}%
 \contentsline {section}{\numberline {2.10}مبدل پنجره‌ای متحرک}{47}{section.2.10}%
@@ -78,24 +78,24 @@
 \contentsline {subsubsection}{توجه چند سری پنجره ای}{53}{section*.27}%
 \contentsline {subsubsection}{توجه چند سری پنجره ای جا به جا شده}{53}{section*.28}%
 \contentsline {subsection}{\numberline {2.10.5}پرسپتروون چند لایه}{55}{subsection.2.10.5}%
-\contentsline {subsection}{\numberline {2.10.6}ترکیب پچ ها}{56}{subsection.2.10.6}%
+\contentsline {subsection}{\numberline {2.10.6}ترکیب پچ ها}{55}{subsection.2.10.6}%
 \contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{56}{section*.29}%
-\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{57}{section*.30}%
+\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{56}{section*.30}%
 \contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{57}{section*.31}%
 \contentsline {subsubsection}{4. کاهش ابعاد مکانی}{57}{section*.32}%
 \contentsline {chapter}{\numberline {3}پیشینه پژوهش}{59}{chapter.3}%
-\contentsline {subsection}{\numberline {3.0.1}لایه فشرده‌سازی تانسوری (\lr {Tensor Contraction Layer})}{62}{subsection.3.0.1}%
-\contentsline {subsection}{\numberline {3.0.2}لایه رگرسیون تانسوری (\lr {Tensor Regression Layer})}{64}{subsection.3.0.2}%
-\contentsline {subsection}{\numberline {3.0.3}چرا در مبدل های بینایی از تانسور استفاده میکنیم؟}{66}{subsection.3.0.3}%
+\contentsline {subsection}{\numberline {3.0.1}لایه فشرده‌سازی تانسوری}{62}{subsection.3.0.1}%
+\contentsline {subsection}{\numberline {3.0.2}لایه رگرسیون تانسوری}{64}{subsection.3.0.2}%
+\contentsline {subsection}{\numberline {3.0.3}چرا در مبدل های بینایی از تانسور استفاده میکنیم؟}{67}{subsection.3.0.3}%
 \contentsline {subsection}{\numberline {3.0.4}روش تانسوری مبدل پنجره متحرک:}{68}{subsection.3.0.4}%
 \contentsline {subsection}{\numberline {3.0.5}پیاده‌سازی مرحله‌ی تعبیه پچ با استفاده از فشرده‌سازی تانسوری}{68}{subsection.3.0.5}%
 \contentsline {subsection}{\numberline {3.0.6}ماژول توجه سلف چندسری مبتنی بر پنجره به‌صورت تانسوری}{70}{subsection.3.0.6}%
 \contentsline {subsection}{\numberline {3.0.7}توجه علامت‌دار}{74}{subsection.3.0.7}%
 \contentsline {paragraph}{محاسبه امتیاز توجه}{75}{section*.49}%
-\contentsline {paragraph}{الف) توجه معمولی:}{75}{section*.50}%
-\contentsline {paragraph}{ب) توجه علامت‌دار:}{75}{section*.51}%
-\contentsline {subsection}{\numberline {3.0.8}توجه مبتنی بر پنجره‌های جابه‌جا‌شده به صورت تانسوری}{76}{subsection.3.0.8}%
-\contentsline {subsection}{\numberline {3.0.9}ادغام پچ‌ها به‌صورت تانسوری}{77}{subsection.3.0.9}%
-\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{80}{chapter.4}%
-\contentsline {chapter}{کتاب‌نامه}{81}{chapter*.56}%
-\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{86}{appendix.Alph1}%
+\contentsline {paragraph}{الف) توجه معمولی:}{76}{section*.50}%
+\contentsline {paragraph}{ب) توجه علامت‌دار:}{76}{section*.51}%
+\contentsline {subsection}{\numberline {3.0.8}توجه مبتنی بر پنجره‌های جابه‌جا‌شده به صورت تانسوری}{77}{subsection.3.0.8}%
+\contentsline {subsection}{\numberline {3.0.9}ادغام پچ‌ها به‌صورت تانسوری}{78}{subsection.3.0.9}%
+\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{81}{chapter.4}%
+\contentsline {chapter}{کتاب‌نامه}{82}{chapter*.56}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{87}{appendix.Alph1}%
