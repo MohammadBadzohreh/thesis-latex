@@ -23,9 +23,10 @@
 
 در مقابل، در روش‌های تانسوری، وزن‌ها به‌صورت یک تانسور مرتبه بالاتر مدل‌سازی می‌شوند و نگاشت ورودی به خروجی با استفاده از ضرب‌های چندحالته (ضرب تانسوری در ابعاد مختلف) صورت می‌پذیرد:
 
-\[
-\mathbf{y} = \mathcal{W} \times_1 \mathbf{x}_1 \times_2 \mathbf{x}_2 \times_3 \cdots + \mathbf{b}
-\]
+\begin{equation}
+	\mathbf{y} = \mathcal{W} \times_1 \mathbf{x}_1 \times_2 \mathbf{x}_2 \times_3 \cdots + \mathbf{b}
+\end{equation}
+
 
 در این رابطه، \lr{$\mathcal{W}$} یک تانسور وزن است و عملگر \lr{$\times_n$} نشان‌دهنده ضرب تانسوری در بعد $n$‌ام می‌باشد.
 
@@ -87,9 +88,12 @@
 \mathcal{X} \in \mathbb{R}^{S \times I_0 \times I_1 \times \cdots \times I_N}
 \]
 باشد (که \(S\) اندازهٔ دسته‌بندی و \(I_k\)ها ابعاد کانال/فضایی را نشان می‌دهند). هدف لایه TCL، نگاشت:
-\[
-\mathcal{X}' = \mathcal{X} \times_1 V^{(0)} \times_2 V^{(1)} \cdots \times_{N+1} V^{(N)}
-\]
+
+\begin{equation}
+	\mathcal{X}' = \mathcal{X} \times_1 V^{(0)} \times_2 V^{(1)} \cdots \times_{N+1} V^{(N)}
+\end{equation}
+
+
 است، که در آن:
 \[
 V^{(k)} \in \mathbb{R}^{R_k \times I_k}, \quad \forall k = 0,\dots,N.
@@ -105,13 +109,22 @@ V^{(k)} \in \mathbb{R}^{R_k \times I_k}, \quad \forall k = 0,\dots,N.
 \subsubsection*{تحلیل تعداد پارامترها}
 
 در TCL، کل پارامترهای قابل آموزش برابر است با:
-\[
-\text{پارامترهای TCL} = \sum_{k=0}^{N} I_k \cdot R_k
-\]
+
+\begin{equation}
+	\text{پارامترهای TCL} = \sum_{k=0}^{N} I_k \cdot R_k
+\end{equation}
+
+
+
+
 در حالی‌که در لایه متصل سنتی (پس از مسطح‌سازی):
-\[
-\text{پارامترهای FC} = \left(\prod_{k=0}^{N} I_k\right) \cdot O
-\]
+
+
+\begin{equation}
+	\text{پارامترهای FC} = \left(\prod_{k=0}^{N} I_k\right) \cdot O
+\end{equation}
+
+
 که \(O\) تعداد نورون‌های خروجی لایه است. نمایش ریاضی بالا به‌وضوح نشان می‌دهد که TCL با جایگزینی ضرب با جمع ساده، به‌صرفه‌سازی قابل‌توجهی در حافظه و محاسبات مدل منجر می‌شود \cite{kossaifi2017tensorcontraction,kossaifi2020tensorregression}.
 
 \subsection{لایهٔ رگرسیون تانسوری (\lr{TRL})}
@@ -129,29 +142,40 @@ V^{(k)} \in \mathbb{R}^{R_k \times I_k}, \quad \forall k = 0,\dots,N.
 \mathcal{W} \in \mathbb{R}^{I_0 \times I_1 \times \cdots \times I_N \times O}.
 \]
 نگاشت خروجی:
-\[
-\mathbf{Y} = \langle \mathcal{X}, \mathcal{W} \rangle_N + \mathbf{b}
-\]
+\begin{equation}
+	\mathbf{Y} = \langle \mathcal{X}, \mathcal{W} \rangle_N + \mathbf{b}
+\end{equation}
+
 در اینجا عملگر \(\langle \cdot,\cdot \rangle_N\) ضرب داخلی روی \(N\) بعد اول \(\mathcal{W}\) و \(N\) بعد اول \(\mathcal{X}\) را نشان می‌دهد \cite{kossaifi2020tensorregression}.
 
 برای کاهش پارامترها، \(\mathcal{W}\)‌ با کمک تجزیۀ توکر به شکل زیر نوشته می‌شود:
-\[
-\mathcal{W} = \mathcal{G} \times_0 U^{(0)} \times_1 U^{(1)} \cdots \times_N U^{(N)} \times_{N+1} U^{(N+1)},
-\]
+
+\begin{equation}
+	\mathcal{W} = \mathcal{G} \times_0 U^{(0)} \times_1 U^{(1)} \cdots \times_N U^{(N)} \times_{N+1} U^{(N+1)},
+\end{equation}
+
+
 که \(\mathcal{G}\) هستهٔ کم‌مرتبه (core tensor) و \(U^{(k)}\) ماتریس‌های فشرده‌سازی هستند \cite{kossaifi2020tensorregression}.
 
 فرمول نهایی:
-\[
-\mathbf{Y} = \left\langle \mathcal{X} \times_0 (U^{(0)})^\top \cdots \times_N (U^{(N)})^\top, \mathcal{G} \times_{N+1} U^{(N+1)} \right\rangle_N + \mathbf{b}
-\]
+\begin{equation}
+	\mathbf{Y} = \left\langle 
+	\mathcal{X} \times_0 (U^{(0)})^\top \cdots \times_N (U^{(N)})^\top,\ 
+	\mathcal{G} \times_{N+1} U^{(N+1)} 
+	\right\rangle_N + \mathbf{b}
+\end{equation}
+
 که به‌صورت محاسباتی بهینه‌تر عمل می‌کند \cite{kossaifi2020tensorregression}.
 
 \subsubsection*{تحلیل تعداد پارامترها}
 
 در لایه TRL با تجزیۀ \(\text{Tucker}\)، تعداد پارامترها برابر است با:
-\[
-\text{پارامترهای TRL} = \left(\prod_{k=0}^{N+1} R_k\right) + \left(\sum_{k=0}^{N} I_k R_k\right) + R_{N+1} \cdot O,
-\]
+\begin{equation}
+	\text{پارامترهای TRL} = \left(\prod_{k=0}^{N+1} R_k\right) 
+	+ \left(\sum_{k=0}^{N} I_k R_k\right) 
+	+ R_{N+1} \cdot O,
+\end{equation}
+
 که معمولاً بسیار کمتر از تعداد پارامترهای لایه FC است، به‌ویژه هنگامی که \(R_k \ll I_k\) انتخاب شوند \cite{kossaifi2020tensorregression}.
 
 
@@ -231,9 +255,10 @@ V^{(2)} \in \mathbb{R}^{D_3 \times C_3}
 
 عملیات فشرده‌سازی با استفاده از ضرب‌های چندحالته \footnote{\lr{n-mode product}} صورت می‌گیرد:
 
-\[
-\mathcal{X}_{emb} = \mathcal{X}_{patch} \times_0 V^{(0)} \times_1 V^{(1)} \times_2 V^{(2)}
-\]
+\begin{equation}
+	\mathcal{X}_{emb} = \mathcal{X}_{patch} \times_0 V^{(0)} \times_1 V^{(1)} \times_2 V^{(2)}
+\end{equation}
+
 
 که در آن $\mathcal{X}_{emb} \in \mathbb{R}^{D_1 \times D_2 \times D_3}$ نگاشت نهفته‌ی تانسوری برای آن پچ خواهد بود.
 
@@ -285,15 +310,18 @@ V^{(2)} \in \mathbb{R}^{D_3 \times C_3}
 
 باشد. با اعمال سه عملیات ضرب n-مد به‌ترتیب در ابعاد تانسوری، نگاشت‌های Q، K و V به‌صورت زیر حاصل می‌شوند:
 
-\[
-\mathcal{Q} = \mathcal{X}_{patch} \times_2 V_Q^{(1)} \times_3 V_Q^{(2)} \times_4 V_Q^{(3)}
-\]
-\[
-\mathcal{K} = \mathcal{X}_{patch} \times_2 V_K^{(1)} \times_3 V_K^{(2)} \times_4 V_K^{(3)}
-\]
-\[
-\mathcal{V} = \mathcal{X}_{patch} \times_2 V_V^{(1)} \times_3 V_V^{(2)} \times_4 V_V^{(3)}
-\]
+\begin{equation}
+	\mathcal{Q} = \mathcal{X}_{patch} \times_2 V_Q^{(1)} \times_3 V_Q^{(2)} \times_4 V_Q^{(3)}
+\end{equation}
+
+\begin{equation}
+	\mathcal{K} = \mathcal{X}_{patch} \times_2 V_K^{(1)} \times_3 V_K^{(2)} \times_4 V_K^{(3)}
+\end{equation}
+
+\begin{equation}
+	\mathcal{V} = \mathcal{X}_{patch} \times_2 V_V^{(1)} \times_3 V_V^{(2)} \times_4 V_V^{(3)}
+\end{equation}
+
 
 که در آن هر $V^{(i)}$ ماتریس فشرده‌سازی با ابعاد $\mathbb{R}^{D_i \times D_i}$ است. بنابراین، خروجی هر لایه به فضای تانسوری مشابه با ورودی بازمی‌گردد:
 
@@ -327,9 +355,11 @@ D_1 = h_1 \cdot d_1, \quad D_2 = h_2 \cdot d_2, \quad D_3 = h_3 \cdot d_3
 
 عملیات ضرب داخلی تعمیم‌یافته بین تانسورهای Q و K برای محاسبه‌ی ماتریس توجه انجام می‌شود. برای هر سر $(a,b,c)$ و برای موقعیت‌های $(i,j)$ و $(k,l)$ در پنجره، مقدار توجه به‌صورت زیر محاسبه می‌شود:
 
-\[
-\text{Attention}_{ijkl}^{abc} = \sum_{x=1}^{d_1} \sum_{y=1}^{d_2} \sum_{z=1}^{d_3} Q_{ij}^{abcxyz} \cdot K_{kl}^{abcxyz}
-\]
+\begin{equation}
+	\text{Attention}_{ijkl}^{abc} = \sum_{x=1}^{d_1} \sum_{y=1}^{d_2} \sum_{z=1}^{d_3} 
+	Q_{ij}^{abcxyz} \cdot K_{kl}^{abcxyz}
+\end{equation}
+
 
 که نتیجه نهایی یک ماتریس توجه با ابعاد زیر است:
 
@@ -339,23 +369,26 @@ D_1 = h_1 \cdot d_1, \quad D_2 = h_2 \cdot d_2, \quad D_3 = h_3 \cdot d_3
 
 برای پایدارسازی محاسبات، نرمال‌سازی زیر اعمال می‌شود:
 
-\[
-\text{scale} = \frac{1}{\sqrt{d_1 d_2 d_3}}
-\]
+\begin{equation}
+	\text{scale} = \frac{1}{\sqrt{d_1 d_2 d_3}}
+\end{equation}
+
 
 و از نسخه علامت‌دار تابع softmax برای اعمال توجه استفاده می‌گردد:
 
-\[
-\text{Attention}_{\text{soft}} = \text{sign}(A) \cdot \text{softmax}(|A|)
-\]
+\begin{equation}
+	\text{Attention}_{\text{soft}} = \text{sign}(A) \cdot \text{softmax}(|A|)
+\end{equation}
+
 
 \subsubsection*{5. اعمال توجه و بازسازی ویژگی}
 
 پس از محاسبه ماتریس توجه، تانسور خروجی هر پنجره با استفاده از ترکیب توجه و تانسور V محاسبه می‌شود:
 
-\[
-\mathcal{Y}_{ij}^{abcxyz} = \sum_{k,l} \text{Attention}_{ijkl}^{abc} \cdot V_{kl}^{abcxyz}
-\]
+\begin{equation}
+	\mathcal{Y}_{ij}^{abcxyz} = \sum_{k,l} \text{Attention}_{ijkl}^{abc} \cdot V_{kl}^{abcxyz}
+\end{equation}
+
 
 و پس از انجام توجه برای هر پنجره دوباره باز آرایی میشوند و به حالت اولیه باز میگردند و ابعاد آن به صورت زیر میشود.
 
@@ -380,9 +413,9 @@ D_1 = h_1 \cdot d_1, \quad D_2 = h_2 \cdot d_2, \quad D_3 = h_3 \cdot d_3
 
 فرمول رایج محاسبه توجه به‌صورت زیر تعریف می‌شود:
 
-\[
-\text{Attention}(Q, K, V) = \text{Softmax}\left( \frac{QK^\top}{\sqrt{d_k}} \right) V
-\]
+\begin{equation}
+	\text{Attention}(Q, K, V) = \text{Softmax}\left( \frac{QK^\top}{\sqrt{d_k}} \right) V
+\end{equation}
 
 در این ساختار، خروجی $QK^\top$ می‌تواند شامل مقادیر مثبت، منفی یا صفر باشد؛ اما پس از اعمال تابع \lr{Softmax}، تمامی مقادیر به‌صورت نرمال‌سازی‌شده و مثبت خواهند بود. در نتیجه،اطلاعات قطبیت (علامت) که در نتیجه‌ی ضرب داخلی بین بردارهای $Q$ و $K$ وجود داشت، از بین می‌رود. این ویژگی باعث محدود شدن ظرفیت مدل در شناسایی «رابطه منفی یا متضاد» میان توکن‌ها می‌شود.
 
@@ -390,9 +423,10 @@ D_1 = h_1 \cdot d_1, \quad D_2 = h_2 \cdot d_2, \quad D_3 = h_3 \cdot d_3
 
 فرمول این روش به‌صورت زیر تعریف می‌شود:
 
-\[
-\text{Attention}_{\text{sign}} = \text{sign}(A) \cdot \text{Softmax}(|A|)
-\]
+\begin{equation}
+	\text{Attention}_{\text{sign}} = \text{sign}(A) \cdot \text{Softmax}(|A|)
+\end{equation}
+
 
 که در آن:
 \begin{itemize}
@@ -557,9 +591,11 @@ A = [2,\ 0]
 
 که در آن $(R_1', R_2', C')$ ابعاد جدید ویژگی‌ها هستند و با توجه به محدودیت طراحی، باید رابطه زیر میان ابعاد قدیم و جدید برقرار باشد:
 
-\[
-2 \cdot R_1' \cdot R_2' \cdot C' = 4 \cdot R_1 \cdot R_2 \cdot C
-\]
+
+
+\begin{equation}
+	2 \cdot R_1' \cdot R_2' \cdot C' = 4 \cdot R_1 \cdot R_2 \cdot C
+\end{equation}
 
 این رابطه تضمین می‌کند که ادغام از نظر اطلاعاتی قابل‌پشتیبانی و از نظر مدل‌سازی متوازن باقی می‌ماند.
 
@@ -582,9 +618,11 @@ A = [2,\ 0]
 در واقع همانند مبدل پنجره ای متحرک از مکان های پچ ها میانگین گیری گرفته میشود 
 این عملیات باعث فشرده‌سازی اطلاعات مکانی و حفظ ساختار تانسوری در فضای ویژگی می‌شود.
 
-\[
-\bar{\mathcal{X}} = \frac{1}{H \cdot W} \sum_{i=1}^{H} \sum_{j=1}^{W} \mathcal{X}_{[:, i, j, :, :, :]} \in \mathbb{R}^{B \times D_1 \times D_2 \times D_3}
-\]
+\begin{equation}
+	\bar{\mathcal{X}} = \frac{1}{H \cdot W} \sum_{i=1}^{H} \sum_{j=1}^{W} \mathcal{X}_{[:, i, j, :, :, :]} 
+	\in \mathbb{R}^{B \times D_1 \times D_2 \times D_3}
+\end{equation}
+
 
 این عملیات نوعی تجمیع جهانی در ابعاد فضایی محسوب می‌شود که مشابه با میانگین‌گیری سراسری \footnote{\lr{global average pooling}}  در شبکه‌های پیچشی عمل می‌کند، با این تفاوت که ساختار تانسوری ویژگی‌ها را حفظ می‌نماید.
 
@@ -592,11 +630,11 @@ A = [2,\ 0]
 
 برای نگاشت خروجی $\bar{\mathcal{X}}$ به برچسب نهایی، از یک لایه رگرسیون تانسوری (TRL) استفاده شده است. این لایه با بهره‌گیری از ضرب داخلی تعمیم‌یافته میان تانسور ورودی و تانسور وزن، نگاشتی خطی از فضای تانسوری به فضای خروجی اعمال می‌کند:
 
-\[
-\mathbf{Y} = \langle \bar{\mathcal{X}}, \mathcal{W} \rangle_3 + \mathbf{b}
-\]
+\begin{equation}
+	\mathbf{Y} = \langle \bar{\mathcal{X}}, \mathcal{W} \rangle_3 + \mathbf{b}
+\end{equation}
 
-که در آن:
+که در آن
 \begin{itemize}
 	\item $\bar{\mathcal{X}} \in \mathbb{R}^{B \times D_1 \times D_2 \times D_3}$ بازنمایی فشرده‌ی ورودی،
 	\item $\mathcal{W} \in \mathbb{R}^{D_1 \times D_2 \times D_3 \times C}$ تانسور وزن‌های رگرسیون،

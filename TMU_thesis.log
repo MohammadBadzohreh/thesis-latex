@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  3 AUG 2025 19:00
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  3 AUG 2025 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1709,7 +1709,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [50]
-Overfull \hbox (6.23409pt too wide) in paragraph at lines 755--757
+Overfull \hbox (6.23409pt too wide) in paragraph at lines 758--760
 [][]$\OML/cmm/m/it/12 Q; K; V$ \TU/XBNiloofar.ttf(0)/b/n/12 به‌ترتیب ماتریس‌های
 ی هستند که از کنار هم قرار دادن $\OML/cmm/m/it/12 q[]; k[]; v[]$ \TU/XBNiloofar
 .ttf(0)/b/n/12 (برای تمام پیکسل‌های[]
@@ -1734,13 +1734,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [52]
-File: transformer_images/cycle_shift.png Graphic file (type bmp)
-<transformer_images/cycle_shift.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1750,9 +1743,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [53]
+File: transformer_images/cycle_shift.png Graphic file (type bmp)
+<transformer_images/cycle_shift.png>
+
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
-(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 840.
+(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 844.
 
 
 
@@ -1783,8 +1779,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [56]
-File: transformer_images/persian images/b14.png Graphic file (type bmp)
-<transformer_images/persian images/b14.png>
+File: transformer_images/persian images/b12.png Graphic file (type bmp)
+<transformer_images/persian images/b12.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 
 
@@ -1838,10 +1838,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [61]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 58.
+(hyperref)                than one, level fixed on input line 59.
 
 
-Overfull \hbox (6.74054pt too wide) in paragraph at lines 63--64
+Overfull \hbox (6.74054pt too wide) in paragraph at lines 64--65
 [][]\TU/XBNiloofar.ttf(0)/b/n/12 در بسیاری از مدل‌های یادگیری عمیق—به‌ویژه شبکه
 ‌های عصبی کانولوشنی ([]\TU/lmroman10-regular(0)/m/n/12 convolution[]\TU/XBNiloo
 far.ttf(0)/b/n/12 )—[]
@@ -1881,7 +1881,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [64]
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/it' will be
-(Font)              scaled to size 13.20007pt on input line 166.
+(Font)              scaled to size 13.20007pt on input line 190.
 
 
 
@@ -2008,7 +2008,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[78])
+[78]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2017,14 +2017,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[79]
+[79])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 فصل 4.
 )
 
-[80
+[81
 
 
 
@@ -2057,7 +2066,7 @@ ine 46.
 
 
 
-[81
+[82
 
 
 
@@ -2191,7 +2200,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[82]
+[83]
 Missing character: There is no چ (U+0686) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 Missing character: There is no گ (U+06AF) in font [lmroman10-regular]/OT:script
@@ -2307,23 +2316,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[83]
-Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [84]
 Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
+Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
 
 
 
@@ -2333,7 +2330,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[85])
+[85]
+Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2342,14 +2342,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[86]
+[86])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87]
 \openout2 = `appendix1.aux'.
 
  (./appendix1.tex
 پیوست آ.
 )
 
-[87
+[88
 
 
 ]
@@ -2361,7 +2370,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
 
 
 
-[88
+[89
 
 
 ]
@@ -2369,7 +2378,7 @@ File: armtmu.eps Graphic file (type eps)
 <armtmu.eps>
 
 
-[89]) 
+[90]) 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
@@ -2387,21 +2396,16 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 78AD9BB0934ADF7CEC95AB8577526408;20492.
-
-Package rerunfilecheck Warning: File `TMU_thesis.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `TMU_thesis.brf':
-(rerunfilecheck)             Before: 9D05D731742A6EB878E69F7DD1DE1180;10699
-(rerunfilecheck)             After:  B660ACF2251FC35047BABC3306E93BE9;10699.
+Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 871CA3E47C1B37AC55F2A134D96B375E;10707.
  ) 
 Here is how much of TeX's memory you used:
- 18028 strings out of 473832
- 373630 string characters out of 5733158
- 802173 words of memory out of 5000000
- 40644 multiletter control sequences out of 15000+600000
+ 18041 strings out of 473832
+ 374064 string characters out of 5733158
+ 802196 words of memory out of 5000000
+ 40656 multiletter control sequences out of 15000+600000
  570297 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,1244b,940s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,1244b,943s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (100 pages).
+Output written on TMU_thesis.pdf (101 pages).

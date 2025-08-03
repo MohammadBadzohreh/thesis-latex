@@ -725,14 +725,17 @@ b_{\text{embed}} \in \mathbb{R}^{C}.
 برای هر بلوک، ابتدا بردارهای پرسش، کلید، مقدار ساخته می‌شوند. 
 اگر \(\displaystyle z_i \in \mathbb{R}^C\) بردار ورودی مربوط به موقعیت \(i\) باشد، آنگاه:
 
-\[
-q_i = z_i W_Q, 
-\quad
-k_i = z_i W_K,
-\quad
-v_i = z_i W_V,
-\]
-که 
+
+\begin{equation}
+	q_i = z_i W_Q, 
+	\quad
+	k_i = z_i W_K,
+	\quad
+	v_i = z_i W_V,
+\end{equation}
+
+	که 
+
 \[
 W_Q, W_K, W_V \;\;\in \;\;\mathbb{R}^{C \times d}.
 \]
@@ -743,11 +746,11 @@ W_Q, W_K, W_V \;\;\in \;\;\mathbb{R}^{C \times d}.
 
 در یک سر توجه، توجه به‌صورت زیر تعریف می‌شود:
 
-\[
-\mathrm{Attention}(Q, K, V)
-=
-\mathrm{Softmax}\Bigl(\frac{QK^\top}{\sqrt{d}}\Bigr)\,V,
-\]
+\begin{equation}
+	\mathrm{Attention}(Q, K, V)
+	=
+	\mathrm{Softmax}\Bigl(\frac{QK^\top}{\sqrt{d}}\Bigr)\,V,
+\end{equation}
 
 که در آن:
 
@@ -767,12 +770,13 @@ W_Q, W_K, W_V \;\;\in \;\;\mathbb{R}^{C \times d}.
 \(\displaystyle C = h \times d.\) 
 خروجی هر سر پس از محاسبه توجه به‌صورت زیر با هم ادغام می‌شوند:
 
-\[
-\mathrm{MultiHead}(Q,K,V) 
-= 
-\bigl[\text{head}_1,\ \text{head}_2,\ \dots,\ \text{head}_h\bigr]\,
-W_O,
-\]
+\begin{equation}
+	\mathrm{MultiHead}(Q,K,V) 
+	= 
+	\bigl[\text{head}_1,\ \text{head}_2,\ \dots,\ \text{head}_h\bigr]\,
+	W_O,
+\end{equation}
+
 که 
 \[
 \text{head}_j = \mathrm{Attention}\bigl(Q_j,\ K_j,\ V_j\bigr),
@@ -928,7 +932,7 @@ Z_{2i, 2j}, \quad Z_{2i, 2j+1}, \quad Z_{2i+1, 2j}, \quad Z_{2i+1, 2j+1}.
 	\centering
 	\begin{minipage}[b]{1\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{transformer_images/persian images/b14.png}
+		\includegraphics[width=\textwidth]{transformer_images/persian images/b12.png}
 		\caption{ادغام پچ ها}
 		\label{fig:patch merging in Swin Transformer}
 	\end{minipage}
