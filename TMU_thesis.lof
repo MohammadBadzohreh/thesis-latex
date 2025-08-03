@@ -4,7 +4,7 @@
 \contentsline {figure}{\numberline {1.3}{\ignorespaces خوشه بندی}}{9}{figure.1.3}%
 \contentsline {figure}{\numberline {1.4}{\ignorespaces یادگیری تقویتی}}{10}{figure.1.4}%
 \contentsline {figure}{\numberline {1.5}{\ignorespaces شبکه های عصبی بازگشتی}}{14}{figure.1.5}%
-\contentsline {figure}{\numberline {1.6}{\ignorespaces LSTM}}{18}{figure.1.6}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces مدل حافظه بلند مدت کوتاه مدت}}{18}{figure.1.6}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces معماری ترانسفورمرها}}{26}{figure.2.1}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces جاسازی کلمه ای}}{27}{figure.2.2}%
@@ -20,8 +20,8 @@
 \contentsline {figure}{\numberline {2.12}{\ignorespaces جا به جایی چرخه ای}}{54}{figure.2.12}%
 \contentsline {figure}{\numberline {2.13}{\ignorespaces ادغام پچ ها}}{58}{figure.2.13}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces \lr {Mlp}}}{60}{figure.3.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces \lr {tensor contraction layer}}}{63}{figure.3.2}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces \lr {tensor regression network}}}{65}{figure.3.3}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces شبکه عصبی پرسپترون چند لایه}}{60}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces لایه فشرده ساز تانسوری}}{63}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces لایه رگرسیون تانسوری}}{65}{figure.3.3}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
