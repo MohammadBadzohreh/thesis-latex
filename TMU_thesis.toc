@@ -66,7 +66,7 @@
 \contentsline {subsection}{\numberline {2.8.2}شکل پچ‌ها:}{42}{subsection.2.8.2}%
 \contentsline {subsection}{\numberline {2.8.3}تعداد پچ‌ها:}{42}{subsection.2.8.3}%
 \contentsline {subsection}{\numberline {2.8.4}بردارکردن هر پچ}{43}{subsection.2.8.4}%
-\contentsline {section}{\numberline {2.9}اعمال لایهٔ خطی}{43}{section.2.9}%
+\contentsline {section}{\numberline {2.9}اعمال لایهٔ خطی}{44}{section.2.9}%
 \contentsline {subsection}{\numberline {2.9.1}توکن کلاس بندی}{45}{subsection.2.9.1}%
 \contentsline {subsection}{\numberline {2.9.2}رمزگذار در مبدل های بینایی}{46}{subsection.2.9.2}%
 \contentsline {section}{\numberline {2.10}مبدل پنجره‌ای متحرک}{47}{section.2.10}%
@@ -78,9 +78,9 @@
 \contentsline {subsubsection}{توجه چند سری پنجره ای}{53}{section*.27}%
 \contentsline {subsubsection}{توجه چند سری پنجره ای جا به جا شده}{53}{section*.28}%
 \contentsline {subsection}{\numberline {2.10.5}پرسپتروون چند لایه}{55}{subsection.2.10.5}%
-\contentsline {subsection}{\numberline {2.10.6}ترکیب پچ ها}{55}{subsection.2.10.6}%
+\contentsline {subsection}{\numberline {2.10.6}ترکیب پچ ها}{56}{subsection.2.10.6}%
 \contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{56}{section*.29}%
-\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{56}{section*.30}%
+\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{57}{section*.30}%
 \contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{57}{section*.31}%
 \contentsline {subsubsection}{4. کاهش ابعاد مکانی}{57}{section*.32}%
 \contentsline {chapter}{\numberline {3}پیشینه پژوهش}{59}{chapter.3}%
@@ -96,6 +96,7 @@
 \contentsline {paragraph}{ب) توجه علامت‌دار:}{76}{section*.51}%
 \contentsline {subsection}{\numberline {3.0.8}توجه مبتنی بر پنجره‌های جابه‌جا‌شده به صورت تانسوری}{77}{subsection.3.0.8}%
 \contentsline {subsection}{\numberline {3.0.9}ادغام پچ‌ها به‌صورت تانسوری}{78}{subsection.3.0.9}%
-\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{81}{chapter.4}%
-\contentsline {chapter}{کتاب‌نامه}{82}{chapter*.56}%
-\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{87}{appendix.Alph1}%
+\contentsline {subsection}{\numberline {3.0.10}مرحله‌ی طبقه‌بندی نهایی با استفاده از رگرسیون تانسوری}{80}{subsection.3.0.10}%
+\contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{82}{chapter.4}%
+\contentsline {chapter}{کتاب‌نامه}{83}{chapter*.58}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{88}{appendix.Alph1}%

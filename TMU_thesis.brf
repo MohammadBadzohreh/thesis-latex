@@ -98,12 +98,12 @@
 \backcite {bahdanau2014neural,sutskever2014sequence}{{38}{2.5}{section.2.5}}
 \backcite {vaswani2017attention}{{38}{2.5}{figure.2.7}}
 \backcite {vaswani2017attention}{{39}{2.6}{section.2.6}}
-\backcite {bahdanau2014neural,sutskever2014sequence}{{39}{2.6}{section.2.6}}
+\backcite {bahdanau2014neural,sutskever2014sequence}{{40}{2.6}{section.2.6}}
 \backcite {vaswani2017attention}{{41}{2.7}{section.2.7}}
 \backcite {dosovitskiy2020image}{{41}{2.8}{section.2.8}}
 \backcite {dosovitskiy2020image}{{41}{2.8}{section.2.8}}
 \backcite {vaswani2017attention}{{41}{2.8.1}{subsection.2.8.1}}
-\backcite {lecun1998gradient,krizhevsky2012imagenet,he2016deep}{{41}{2.8.1}{subsection.2.8.1}}
+\backcite {lecun1998gradient,krizhevsky2012imagenet,he2016deep}{{42}{2.8.1}{subsection.2.8.1}}
 \backcite {dosovitskiy2020image}{{42}{2.8.1}{subsection.2.8.1}}
 \backcite {dosovitskiy2020image}{{43}{2.8.3}{equation.2.12}}
 \backcite {vaswani2017attention}{{44}{2.9}{figure.2.9}}
@@ -124,10 +124,10 @@
 \backcite {liu2021swintransformer}{{48}{2.10}{figure.2.11}}
 \backcite {he2016deep}{{48}{2.10}{figure.2.11}}
 \backcite {dosovitskiy2020image}{{49}{2.10.1}{subsection.2.10.1}}
-\backcite {liu2021swintransformer}{{49}{2.10.1}{equation.2.14}}
+\backcite {liu2021swintransformer}{{50}{2.10.1}{equation.2.14}}
 \backcite {liu2021swintransformer}{{50}{2.10.1}{equation.2.14}}
 \backcite {liu2021swintransformer}{{52}{2.10.4}{subsection.2.10.4}}
-\backcite {liu2021swintransformer}{{52}{2.10.4}{subsection.2.10.4}}
+\backcite {liu2021swintransformer}{{53}{2.10.4}{subsection.2.10.4}}
 \backcite {liu2021swintransformer}{{53}{2.10.4}{section*.27}}
 \backcite {liu2021swintransformer}{{53}{2.10.4}{section*.28}}
 \backcite {liu2021swintransformer}{{54}{2.10.4}{figure.2.12}}
@@ -139,4 +139,4 @@
 \backcite {liu2021swintransformer}{{56}{2.10.6}{subsection.2.10.6}}
 \backcite {he2016deep}{{57}{2.10.6}{figure.2.13}}
 \backcite {liu2021swintransformer}{{57}{2.10.6}{figure.2.13}}
-\backcite {liu2021swintransformer}{{57}{2.10.6}{figure.2.13}}
+\backcite {liu2021swintransformer}{{58}{2.10.6}{figure.2.13}}
