@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  3 AUG 2025 18:42
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  3 AUG 2025 19:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1186,8 +1186,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-File: transformer_images/classification_small.jpg Graphic file (type bmp)
-<transformer_images/classification_small.jpg>
+File: transformer_images/persian images/b15.png Graphic file (type bmp)
+<transformer_images/persian images/b15.png>
 
 Overfull \hbox (2.4454pt too wide) in paragraph at lines 89--90
 []\TU/XBNiloofar.ttf(0)/b/n/12 در مقابل، رگرسیون [][][][][][][][][][][][] به مس
@@ -1423,8 +1423,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25]
-File: Transformer-model-architecture.png Graphic file (type bmp)
-<Transformer-model-architecture.png>
+File: transformer_images/persian images/b04.png Graphic file (type bmp)
+<transformer_images/persian images/b04.png>
 
 
 
@@ -1513,8 +1513,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [32]
-File: transformer_images/multi_head_attention.png Graphic file (type bmp)
-<transformer_images/multi_head_attention.png>
+File: transformer_images/persian images/b01.png Graphic file (type bmp)
+<transformer_images/persian images/b01.png>
 
 
 
@@ -1564,8 +1564,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37]
-File: transformer_images/decoder.png Graphic file (type bmp)
-<transformer_images/decoder.png>
+File: transformer_images/persian images/b06.png Graphic file (type bmp)
+<transformer_images/persian images/b06.png>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1598,6 +1598,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [40]
+File: transformer_images/image_patch_embedding.png Graphic file (type bmp)
+<transformer_images/image_patch_embedding.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1607,9 +1614,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [41]
-File: transformer_images/image_patch_embedding.png Graphic file (type bmp)
-<transformer_images/image_patch_embedding.png>
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1619,6 +1623,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [42]
+File: transformer_images/persian images/b07.png Graphic file (type bmp)
+<transformer_images/persian images/b07.png>
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1628,10 +1635,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [43]
-File: transformer_images/vision_transformer_embedding.png Graphic file (type bm
-p)
-<transformer_images/vision_transformer_embedding.png>
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1655,10 +1658,6 @@ ype bmp)
 <transformer_images/vision_transformer_after_embedding.png>
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1669,6 +1668,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [46]
 File: transformer_images/swin_transformer.png Graphic file (type bmp)
 <transformer_images/swin_transformer.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 
 
@@ -1731,6 +1734,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [52]
+File: transformer_images/cycle_shift.png Graphic file (type bmp)
+<transformer_images/cycle_shift.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1740,9 +1750,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [53]
-File: transformer_images/cycle_shift.png Graphic file (type bmp)
-<transformer_images/cycle_shift.png>
-
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 840.
@@ -1776,12 +1783,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [56]
-File: transformer_images/Patch_merging_new.png Graphic file (type bmp)
-<transformer_images/Patch_merging_new.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+File: transformer_images/persian images/b14.png Graphic file (type bmp)
+<transformer_images/persian images/b14.png>
 
 
 
@@ -1805,8 +1808,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./chapter3.tex
 فصل 3.
-File: transformer_images/mlp.png Graphic file (type bmp)
-<transformer_images/mlp.png>
+File: transformer_images/persian images/b13.png Graphic file (type bmp)
+<transformer_images/persian images/b13.png>
 
 
 [59
@@ -1844,8 +1847,11 @@ Overfull \hbox (6.74054pt too wide) in paragraph at lines 63--64
 far.ttf(0)/b/n/12 )—[]
  []
 
-File: transformer_images/tcl.png Graphic file (type bmp)
-<transformer_images/tcl.png>
+File: transformer_images/persian images/b14.png Graphic file (type bmp)
+<transformer_images/persian images/b14.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 
 
@@ -2381,16 +2387,21 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 78AD9BB0934ADF7CEC95AB8577526408;20492.
-Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: F350B7DF2E289B506A5BBF307B9D6C4D;10699.
+
+Package rerunfilecheck Warning: File `TMU_thesis.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `TMU_thesis.brf':
+(rerunfilecheck)             Before: 9D05D731742A6EB878E69F7DD1DE1180;10699
+(rerunfilecheck)             After:  B660ACF2251FC35047BABC3306E93BE9;10699.
  ) 
 Here is how much of TeX's memory you used:
- 18040 strings out of 473832
- 373854 string characters out of 5733158
- 802195 words of memory out of 5000000
- 40656 multiletter control sequences out of 15000+600000
+ 18028 strings out of 473832
+ 373630 string characters out of 5733158
+ 802173 words of memory out of 5000000
+ 40644 multiletter control sequences out of 15000+600000
  570297 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,1244b,942s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,1244b,940s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on TMU_thesis.pdf (100 pages).

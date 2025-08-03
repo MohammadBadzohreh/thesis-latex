@@ -66,11 +66,11 @@
 \contentsline {subsection}{\numberline {2.8.2}شکل پچ‌ها:}{42}{subsection.2.8.2}%
 \contentsline {subsection}{\numberline {2.8.3}تعداد پچ‌ها:}{42}{subsection.2.8.3}%
 \contentsline {subsection}{\numberline {2.8.4}بردارکردن هر پچ}{43}{subsection.2.8.4}%
-\contentsline {section}{\numberline {2.9}اعمال لایهٔ خطی}{44}{section.2.9}%
+\contentsline {section}{\numberline {2.9}اعمال لایهٔ خطی}{43}{section.2.9}%
 \contentsline {subsection}{\numberline {2.9.1}توکن کلاس بندی}{45}{subsection.2.9.1}%
 \contentsline {subsection}{\numberline {2.9.2}رمزگذار در مبدل های بینایی}{46}{subsection.2.9.2}%
 \contentsline {section}{\numberline {2.10}مبدل پنجره‌ای متحرک}{47}{section.2.10}%
-\contentsline {subsection}{\numberline {2.10.1}قطعه‌بندی پچ در مبدل پنجره متحرک}{49}{subsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.10.1}قطعه‌بندی پچ در مبدل پنجره متحرک}{48}{subsection.2.10.1}%
 \contentsline {subsection}{\numberline {2.10.2}توجه چند سر پنجره ای}{50}{subsection.2.10.2}%
 \contentsline {subsubsection}{تعریف پنجره‌های محلی}{50}{section*.27}%
 \contentsline {subsection}{\numberline {2.10.3}توجه}{51}{subsection.2.10.3}%
@@ -78,10 +78,10 @@
 \contentsline {subsubsection}{توجه چند سری پنجره ای}{53}{section*.28}%
 \contentsline {subsubsection}{توجه چند سری پنجره ای جا به جا شده}{53}{section*.29}%
 \contentsline {subsection}{\numberline {2.10.5}پرسپتروون چند لایه}{55}{subsection.2.10.5}%
-\contentsline {subsection}{\numberline {2.10.6}ترکیب پچ ها}{56}{subsection.2.10.6}%
+\contentsline {subsection}{\numberline {2.10.6}ترکیب پچ ها}{55}{subsection.2.10.6}%
 \contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{56}{section*.30}%
-\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{57}{section*.31}%
-\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{57}{section*.32}%
+\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{56}{section*.31}%
+\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{56}{section*.32}%
 \contentsline {subsubsection}{4. کاهش ابعاد مکانی}{57}{section*.33}%
 \contentsline {chapter}{\numberline {3}روش های پیشنهادی}{59}{chapter.3}%
 \contentsline {subsection}{\numberline {3.0.1}لایه فشرده‌سازی تانسوری}{62}{subsection.3.0.1}%
