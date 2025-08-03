@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  3 AUG 2025 17:39
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  3 AUG 2025 18:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1835,15 +1835,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [61]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 74.
+(hyperref)                than one, level fixed on input line 58.
 
-Missing character: There is no ّ (U+0651) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (6.74054pt too wide) in paragraph at lines 63--64
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 در بسیاری از مدل‌های یادگیری عمیق—به‌ویژه شبکه
+‌های عصبی کانولوشنی ([]\TU/lmroman10-regular(0)/m/n/12 convolution[]\TU/XBNiloo
+far.ttf(0)/b/n/12 )—[]
+ []
+
 File: transformer_images/tcl.png Graphic file (type bmp)
 <transformer_images/tcl.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 
 
@@ -1872,8 +1874,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [64]
-File: transformer_images/trl.png Graphic file (type bmp)
-<transformer_images/trl.png>
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/it' will be
+(Font)              scaled to size 13.20007pt on input line 166.
 
 
 
@@ -2000,7 +2002,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[78]
+[78])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2010,31 +2012,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [79]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[80])
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[81]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 فصل 4.
 )
 
-[82
+[80
 
 
 
@@ -2067,7 +2051,7 @@ ine 46.
 
 
 
-[83
+[81
 
 
 
@@ -2078,6 +2062,251 @@ ine 46.
 
 
 ]
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ش (U+0634) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ، (U+060C) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ف (U+0641) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ذ (U+0630) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ز (U+0632) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[82]
+Missing character: There is no چ (U+0686) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no گ (U+06AF) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no گ (U+06AF) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no آ (U+0622) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ز (U+0632) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ش (U+0634) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no گ (U+06AF) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ش (U+0634) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ط (U+0637) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83]
+Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2087,15 +2316,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [84]
+Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[85]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2104,7 +2327,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[86])
+[85])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2113,14 +2336,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[87]
+[86]
 \openout2 = `appendix1.aux'.
 
  (./appendix1.tex
 پیوست آ.
 )
 
-[88
+[87
 
 
 ]
@@ -2132,7 +2355,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
 
 
 
-[89
+[88
 
 
 ]
@@ -2140,7 +2363,7 @@ File: armtmu.eps Graphic file (type eps)
 <armtmu.eps>
 
 
-[90]) 
+[89]) 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
@@ -2157,17 +2380,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 79107513AF3270A8EB523F66065FB94C;20405.
+(rerunfilecheck)             Checksum: 6A754A2CE373FA85C9CF7034AB8BFB05;20492.
 Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 5C1DE1CAFBB3CFECB0CB3C0FA2F1BCDF;9194.
+(rerunfilecheck)             Checksum: 80A343B7CED92A363126560BBF62E4F4;10696.
  ) 
 Here is how much of TeX's memory you used:
- 18037 strings out of 473832
- 373612 string characters out of 5733158
- 801993 words of memory out of 5000000
- 40653 multiletter control sequences out of 15000+600000
- 568433 words of font info for 119 fonts, out of 8000000 for 9000
+ 18040 strings out of 473832
+ 373854 string characters out of 5733158
+ 802195 words of memory out of 5000000
+ 40656 multiletter control sequences out of 15000+600000
+ 570297 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,1244b,947s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,1244b,942s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (101 pages).
+Output written on TMU_thesis.pdf (100 pages).

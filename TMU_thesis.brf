@@ -140,3 +140,24 @@
 \backcite {he2016deep}{{57}{2.10.6}{figure.2.13}}
 \backcite {liu2021swintransformer}{{57}{2.10.6}{figure.2.13}}
 \backcite {liu2021swintransformer}{{58}{2.10.6}{figure.2.13}}
+\backcite {novikov2015tensorizing}{{59}{3}{section*.33}}
+\backcite {novikov2015tensorizing}{{59}{3}{section*.33}}
+\backcite {kossaifi2017tensorcontraction, kossaifi2020tensorregression}{{60}{3}{figure.3.1}}
+\backcite {lebedev2015cp, kossaifi2020tensorregression}{{61}{3}{section*.34}}
+\backcite {kossaifi2020tensorregression}{{61}{3}{section*.34}}
+\backcite {kossaifi2017tensorcontraction}{{61}{3}{section*.35}}
+\backcite {yang2017ttrnn}{{62}{3}{section*.35}}
+\backcite {kossaifi2020tensorregression}{{62}{3}{section*.35}}
+\backcite {kossaifi2020tensorregression}{{62}{3.0.1}{subsection.3.0.1}}
+\backcite {kossaifi2017tensorcontraction,kossaifi2020tensorregression}{{62}{3.0.1}{subsection.3.0.1}}
+\backcite {kossaifi2017tensorcontraction}{{63}{3.0.1}{section*.36}}
+\backcite {kossaifi2017tensorcontraction,kossaifi2020tensorregression}{{63}{3.0.1}{section*.37}}
+\backcite {kossaifi2020tensorregression}{{64}{3.0.2}{subsection.3.0.2}}
+\backcite {kossaifi2020tensorregression}{{64}{3.0.2}{section*.38}}
+\backcite {kossaifi2020tensorregression}{{64}{3.0.2}{section*.38}}
+\backcite {kossaifi2020tensorregression}{{64}{3.0.2}{section*.38}}
+\backcite {kossaifi2020tensorregression}{{65}{3.0.2}{section*.39}}
+\backcite {novikov2015tensorizing, kossaifi2017tensorcontraction, kossaifi2020tensorregression}{{65}{3.0.3}{section*.40}}
+\backcite {hamreras2025tensorization}{{65}{3.0.3}{section*.40}}
+\backcite {hamreras2025tensorization}{{65}{3.0.3}{section*.41}}
+\backcite {jie2022fact}{{66}{3.0.3}{section*.42}}

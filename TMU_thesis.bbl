@@ -90,6 +90,14 @@ Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 \newblock {\em Deep Learning}.
 \newblock MIT Press, Cambridge, MA, 2016.
 
+\bibitem{hamreras2025tensorization}
+Safa Hamreras, Sukhbinder Singh, and Rom{\'a}n Orús.
+\newblock Tensorization as a powerful tool for compression and interpretability
+  in neural networks: A position paper.
+\newblock {\em arXiv preprint arXiv:2505.20132}, 2025.
+\newblock بررسی کاربرد تانسورها در کاهش
+  پارامتر، تفسیرپذیری و بهینه‌سازی مدل.
+
 \bibitem{he2016deep}
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
 \newblock Deep residual learning for image recognition.
@@ -131,6 +139,15 @@ Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
   R}.
 \newblock Springer, New York, 2013.
 
+\bibitem{jie2022fact}
+Shibo Jie and Zhi‑Hong Deng.
+\newblock Fact: Factor‑tuning for lightweight adaptation on vision
+  transformer.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, 2023.
+\newblock چگونگی آموزش \(0.01\%\) پارامترهای ViT با
+  نگهداری عملکرد در شرایط داده‌ی کم.
+
 \bibitem{koehn2010statistical}
 Philipp Koehn.
 \newblock {\em Statistical Machine Translation}.
@@ -141,11 +158,32 @@ Philipp Koehn, Franz~Josef Och, and Daniel Marcu.
 \newblock Statistical phrase-based translation.
 \newblock In {\em Proc. of NAACL/HLT}, pages 48--54, 2003.
 
+\bibitem{kossaifi2017tensorcontraction}
+Jean Kossaifi, Aran Khanna, Zachary C. Lipton, Tommaso Furlanello, and Anima
+  Anandkumar.
+\newblock Tensor contraction layers for parsimonious deep nets.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition (CVPR) Workshops}, 2017.
+
+\bibitem{kossaifi2020tensorregression}
+Jean Kossaifi, Zachary C. Lipton, Arinbjørn Kolbeinsson, Aran Khanna,
+  Tommaso Furlanello, and Anima Anandkumar.
+\newblock Tensor regression networks.
+\newblock {\em Journal of Machine Learning Research}, 21(123):1--21, 2020.
+
 \bibitem{krizhevsky2012imagenet}
 Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
 \newblock Imagenet classification with deep convolutional neural networks.
 \newblock In {\em Advances in neural information processing systems}, pages
   1097--1105, 2012.
+
+\bibitem{lebedev2015cp}
+Vadim Lebedev, Yaroslav Ganin, Maksim Rakhuba, Ivan V. Oseledets, and
+  Victor S. Lempitsky.
+\newblock Speeding‐up convolutional neural networks using fine‐tuned
+  cp‐decomposition.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2015.
 
 \bibitem{lecun1998gradient}
 Yann LeCun, L{\'e}on Bottou, Yoshua Bengio, and Patrick Haffner.
@@ -230,6 +268,12 @@ Nils~J. Nilsson.
   Achievements}.
 \newblock Cambridge University Press, Cambridge, 2010.
 
+\bibitem{novikov2015tensorizing}
+Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, and Dmitry P. Vetrov.
+\newblock Tensorizing neural networks.
+\newblock In {\em Advances in Neural Information Processing Systems},
+  volume~28, pages 442--450, 2015.
+
 \bibitem{pennington2014glove}
 Jeffrey Pennington, Richard Socher, and Christopher~D Manning.
 \newblock Glove: Global vectors for word representation.
@@ -271,5 +315,11 @@ Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
   Aidan~N Gomez, Lukasz Kaiser, and Illia Polosukhin.
 \newblock Attention is all you need.
 \newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\bibitem{yang2017ttrnn}
+Yinchong Yang, Denis Krompass, and Volker Tresp.
+\newblock Tensor‑train recurrent neural networks for video classification.
+\newblock In {\em Proceedings of the 34th International Conference on Machine
+  Learning (ICML)}, pages 3891--3900, 2017.
 
 \end{thebibliography}

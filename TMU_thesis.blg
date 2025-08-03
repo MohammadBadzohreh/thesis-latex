@@ -11,44 +11,57 @@ A level-1 auxiliary file: references.aux
 The style file: plain.bst
 A level-1 auxiliary file: appendix1.aux
 Database file #1: reference.bib
-You've used 48 entries,
+Repeated entry---line 925 of file reference.bib
+ : @inproceedings{novikov2015tensorizing
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 945 of file reference.bib
+ : @inproceedings{kossaifi2017tensorcontraction
+ :                                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 963 of file reference.bib
+ : @article{kossaifi2020tensorregression
+ :                                      ,
+I'm skipping whatever remains of this entry
+You've used 55 entries,
             2118 wiz_defined-function locations,
-            763 strings with 11538 characters,
-and the built_in function-call counts, 16579 in all, are:
-= -- 1614
-> -- 766
-< -- 13
-+ -- 311
-- -- 254
-* -- 1041
-:= -- 2671
-add.period$ -- 144
-call.type$ -- 48
-change.case$ -- 255
+            801 strings with 13366 characters,
+and the built_in function-call counts, 19344 in all, are:
+= -- 1870
+> -- 927
+< -- 16
++ -- 374
+- -- 310
+* -- 1230
+:= -- 3117
+add.period$ -- 167
+call.type$ -- 55
+change.case$ -- 304
 chr.to.int$ -- 0
-cite$ -- 48
-duplicate$ -- 702
-empty$ -- 1341
-format.name$ -- 254
-if$ -- 3559
+cite$ -- 55
+duplicate$ -- 813
+empty$ -- 1551
+format.name$ -- 310
+if$ -- 4144
 int.to.chr$ -- 0
-int.to.str$ -- 48
-missing$ -- 64
-newline$ -- 243
-num.names$ -- 96
-pop$ -- 353
+int.to.str$ -- 55
+missing$ -- 71
+newline$ -- 280
+num.names$ -- 110
+pop$ -- 415
 preamble$ -- 1
-purify$ -- 221
+purify$ -- 263
 quote$ -- 0
-skip$ -- 511
+skip$ -- 591
 stack$ -- 0
-substring$ -- 936
-swap$ -- 186
-text.length$ -- 13
+substring$ -- 1059
+swap$ -- 219
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 156
+type$ -- 184
 warning$ -- 0
-while$ -- 153
-width$ -- 50
-write$ -- 527
+while$ -- 175
+width$ -- 57
+write$ -- 605
+(There were 3 error messages)
