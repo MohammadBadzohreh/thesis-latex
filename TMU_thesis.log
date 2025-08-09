@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  9 AUG 2025 16:30
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  9 AUG 2025 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1844,13 +1844,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 59.
 
-
-Overfull \hbox (6.74054pt too wide) in paragraph at lines 64--65
-[][]\TU/XBNiloofar.ttf(0)/b/n/12 در بسیاری از مدل‌های یادگیری عمیق—به‌ویژه شبکه
-‌های عصبی کانولوشنی ([]\TU/lmroman10-regular(0)/m/n/12 convolution[]\TU/XBNiloo
-far.ttf(0)/b/n/12 )—[]
- []
-
 File: transformer_images/persian images/b14.png Graphic file (type bmp)
 <transformer_images/persian images/b14.png>
 
@@ -1885,7 +1878,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [64]
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/it' will be
-(Font)              scaled to size 13.20007pt on input line 190.
+(Font)              scaled to size 13.20007pt on input line 192.
 
 
 
@@ -1987,6 +1980,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [75]
 
+LaTeX Warning: Reference `footdir@366' on page 76 undefined on input line 545.
+
+
+LaTeX Warning: Reference `footdir@367' on page 76 undefined on input line 547.
+
+
+LaTeX Warning: Reference `footdir@368' on page 76 undefined on input line 547.
+
+
+LaTeX Warning: Reference `footdir@369' on page 76 undefined on input line 561.
+
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2013,6 +2019,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [78]
+
+LaTeX Warning: Reference `footdir@370' on page 79 undefined on input line 629.
+
+
+LaTeX Warning: Reference `footdir@371' on page 79 undefined on input line 629.
+
+
+LaTeX Warning: Reference `footdir@372' on page 79 undefined on input line 643.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2396,6 +2412,9 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
@@ -2404,12 +2423,12 @@ Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
 (rerunfilecheck)             Checksum: 871CA3E47C1B37AC55F2A134D96B375E;10707.
  ) 
 Here is how much of TeX's memory you used:
- 18042 strings out of 473832
- 374593 string characters out of 5733158
- 802196 words of memory out of 5000000
- 40656 multiletter control sequences out of 15000+600000
+ 18051 strings out of 473832
+ 374728 string characters out of 5733158
+ 802210 words of memory out of 5000000
+ 40665 multiletter control sequences out of 15000+600000
  570297 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,1244b,943s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,1244b,942s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on TMU_thesis.pdf (101 pages).
