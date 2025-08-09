@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  9 AUG 2025 16:39
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  9 AUG 2025 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1980,19 +1980,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [75]
 
-LaTeX Warning: Reference `footdir@366' on page 76 undefined on input line 545.
-
-
-LaTeX Warning: Reference `footdir@367' on page 76 undefined on input line 547.
-
-
-LaTeX Warning: Reference `footdir@368' on page 76 undefined on input line 547.
-
-
-LaTeX Warning: Reference `footdir@369' on page 76 undefined on input line 561.
-
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2001,6 +1988,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [76]
+
+LaTeX Warning: Reference `footdir@381' on page 77 undefined on input line 574.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2020,13 +2011,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [78]
 
-LaTeX Warning: Reference `footdir@370' on page 79 undefined on input line 629.
+LaTeX Warning: Reference `footdir@382' on page 79 undefined on input line 629.
 
 
-LaTeX Warning: Reference `footdir@371' on page 79 undefined on input line 629.
+LaTeX Warning: Reference `footdir@383' on page 79 undefined on input line 629.
 
 
-LaTeX Warning: Reference `footdir@372' on page 79 undefined on input line 643.
+LaTeX Warning: Reference `footdir@384' on page 79 undefined on input line 631.
 
 
 
@@ -2420,15 +2411,15 @@ LaTeX Warning: There were multiply-defined labels.
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 78AD9BB0934ADF7CEC95AB8577526408;20492.
 Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 871CA3E47C1B37AC55F2A134D96B375E;10707.
+(rerunfilecheck)             Checksum: 81F6DA31FB78196D127CB675C08FDF4B;10707.
  ) 
 Here is how much of TeX's memory you used:
- 18051 strings out of 473832
- 374728 string characters out of 5733158
- 802210 words of memory out of 5000000
- 40665 multiletter control sequences out of 15000+600000
+ 18066 strings out of 473832
+ 374938 string characters out of 5733158
+ 802315 words of memory out of 5000000
+ 40680 multiletter control sequences out of 15000+600000
  570297 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,1244b,942s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,1244b,945s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on TMU_thesis.pdf (101 pages).

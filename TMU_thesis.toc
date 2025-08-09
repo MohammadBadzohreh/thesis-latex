@@ -88,18 +88,18 @@
 \contentsline {subsection}{\numberline {3.0.2}لایهٔ رگرسیون تانسوری (\lr {TRL})}{64}{subsection.3.0.2}%
 \contentsline {subsection}{\numberline {3.0.3}چرا در مبدل‌های بینایی از تانسور استفاده می‌کنیم؟}{65}{subsection.3.0.3}%
 \contentsline {subsubsection}{۱. \textbf {کاهش تعداد پارامترها و حافظه مصرفی}}{65}{section*.41}%
-\contentsline {subsubsection}{۲. \textbf {افزایش تفسیرپذیری با حفظ ساختار چندخطی داده}}{65}{section*.42}%
+\contentsline {subsubsection}{۲. \textbf {افزایش تفسیرپذیری با حفظ ساختار چندخطی داده}}{66}{section*.42}%
 \contentsline {subsubsection}{۳. \textbf {کاهش نیاز به داده‌های آموزشی بزرگ}}{66}{section*.43}%
 \contentsline {subsection}{\numberline {3.0.4}روش تانسوری مبدل پنجره متحرک:}{66}{subsection.3.0.4}%
 \contentsline {subsection}{\numberline {3.0.5}پیاده‌سازی مرحله‌ی تعبیه پچ با استفاده از فشرده‌سازی تانسوری}{66}{subsection.3.0.5}%
 \contentsline {subsection}{\numberline {3.0.6}ماژول توجه سلف چندسری مبتنی بر پنجره به‌صورت تانسوری}{69}{subsection.3.0.6}%
-\contentsline {subsection}{\numberline {3.0.7}توجه علامت‌دار}{72}{subsection.3.0.7}%
+\contentsline {subsection}{\numberline {3.0.7}توجه علامت‌دار}{73}{subsection.3.0.7}%
 \contentsline {paragraph}{محاسبه امتیاز توجه}{74}{section*.50}%
 \contentsline {paragraph}{الف) توجه معمولی:}{74}{section*.51}%
-\contentsline {paragraph}{ب) توجه علامت‌دار:}{74}{section*.52}%
+\contentsline {paragraph}{ب) توجه علامت‌دار:}{75}{section*.52}%
 \contentsline {subsection}{\numberline {3.0.8}توجه مبتنی بر پنجره‌های جابه‌جا‌شده به صورت تانسوری}{75}{subsection.3.0.8}%
 \contentsline {subsection}{\numberline {3.0.9}ادغام پچ‌ها به‌صورت تانسوری}{76}{subsection.3.0.9}%
-\contentsline {subsection}{\numberline {3.0.10}مرحله‌ی طبقه‌بندی نهایی با استفاده از رگرسیون تانسوری}{78}{subsection.3.0.10}%
+\contentsline {subsection}{\numberline {3.0.10}مرحله‌ی طبقه‌بندی نهایی با استفاده از رگرسیون تانسوری}{79}{subsection.3.0.10}%
 \contentsline {chapter}{\numberline {4}آزمایشات و نتایج}{81}{chapter.4}%
 \contentsline {chapter}{کتاب‌نامه}{82}{chapter*.59}%
 \contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{88}{appendix.Alph1}%
