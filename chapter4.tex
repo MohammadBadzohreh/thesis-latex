@@ -133,4 +133,72 @@
 
 
 
+\section{نتایج بر روی دیتاست \lr{Tiny ImageNet}}
+
+برای بررسی عملکرد مدل در یک سناریوی چالش‌برانگیزتر، آزمایش‌هایی بر روی دیتاست \lr{Tiny ImageNet} انجام شد. در این بخش، علاوه بر مدل اصلی \lr{Tiny Swin Transformer}، مدل پیشنهادی تانسوری نیز با دو بهینه‌ساز متفاوت (\lr{Adam} و \lr{AdamW}) ارزیابی شده است.
+
+\subsection{خلاصه نتایج کمی}
+
+\begin{table}[ht]
+	\centering
+	\caption{مقایسه‌ی عملکرد مدل‌ها بر روی \lr{Tiny ImageNet}.}
+	\label{tab:tinyimagenet_summary}
+	\begin{tabular}{ccccccc}
+		\hline
+		\multicolumn{2}{c}{آزمون} & \multicolumn{2}{c}{آموزش} & \#پارامتر & مدل & بهینه‌ساز \\
+		\cline{1-4}
+		Top-5 & Top-1 & Top-5 & Top-1 &  &  &  \\
+		\hline
+		\lr{85.42\%} & \lr{64.14\%} & \lr{59.03\%} & \lr{42.26\%} & \lr{27,528,690} & \lr{Tiny Swin} & -- \\
+		\lr{54.17\%} & \lr{30.85\%} & \lr{98.50\%} & \lr{83.89\%} & \lr{1,368,626} & \lr{Tensorized Swin} & \lr{Adam} \\
+		\lr{62.07\%} & \lr{35.90\%} & \lr{80.90\%} & \lr{55.30\%} & \lr{1,368,626} & \lr{Tensorized Swin} & \lr{AdamW} \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\subsection{نمایش روند آموزش}
+
+شکل \ref{fig:tiny_original_top1} روند تغییر دقت \lr{Top-1} را برای مدل اصلی \lr{Tiny Swin} نشان می‌دهد.  
+همچنین، شکل‌های \ref{fig:tiny_tensor_adam} و \ref{fig:tiny_tensor_adamw} مربوط به مدل تانسوری با بهینه‌سازهای \lr{Adam} و \lr{AdamW} هستند.
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=0.85\textwidth]{transformer_images/results/tiny_image_net_original.png}
+	\caption{روند دقت \lr{Top-1} مدل اصلی \lr{Tiny Swin} بر روی \lr{Tiny ImageNet}.}
+	\label{fig:tiny_original_top1}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=0.85\textwidth]{transformer_images/results/tiny_image_net_tensorized_2.png}
+	\caption{روند دقت \lr{Top-1} مدل تانسوری با بهینه‌ساز \lr{Adam} بر روی \lr{Tiny ImageNet}.}
+	\label{fig:tiny_tensor_adam}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=0.85\textwidth]{transformer_images/results/tiny_image_net_tensorized.png}
+	\caption{روند دقت \lr{Top-1} مدل تانسوری با بهینه‌ساز \lr{AdamW} بر روی \lr{Tiny ImageNet}.}
+	\label{fig:tiny_tensor_adamw}
+\end{figure}
+
+\subsection{تحلیل و بحث}
+
+بر اساس جدول \ref{tab:tinyimagenet_summary} و نمودارهای ارائه شده، نکات زیر قابل توجه است:
+\begin{itemize}
+	\item \textbf{بیش‌برازش در مدل اصلی:} مدل \lr{Tiny Swin} با وجود تعداد بالای پارامترها (\lr{27,528,690}) توانسته دقت آزمون \lr{Top-1} معقولی (\lr{64.14\%}) بدست آورد، اما اختلاف زیاد بین دقت آموزش (\lr{42.26\%}) و آزمون نشان‌دهنده ناتوانی در یادگیری کامل ویژگی‌ها و احتمال وجود محدودیت در داده یا تنظیمات بهینه‌سازی است.
+	\item \textbf{بیش‌برازش شدید در مدل تانسوری با Adam:} مدل تانسوری با بهینه‌ساز \lr{Adam} دقت آموزش بسیار بالایی (\lr{83.89\%} Top-1) دارد، اما دقت آزمون آن به شدت افت کرده (\lr{30.85\%} Top-1)، که نشانه‌ی آشکار \lr{overfitting} است.
+	\item \textbf{بهبود تعادل با AdamW:} تغییر بهینه‌ساز به \lr{AdamW} باعث شده شکاف آموزش–آزمون کاهش یابد و عملکرد آزمون (\lr{35.90\%} Top-1) نسبت به حالت \lr{Adam} بهبود پیدا کند، هرچند همچنان فاصله‌ی زیادی تا مدل اصلی وجود دارد.
+	\item \textbf{تأثیر پیچیدگی داده:} نتایج نشان می‌دهد که کاهش شدید پارامترها در دیتاست‌های پیچیده‌تر مانند \lr{Tiny ImageNet} ممکن است منجر به کاهش توان مدل در تعمیم‌پذیری شود، مگر این که تکنیک‌های منظم‌سازی و بهینه‌سازی به درستی انتخاب شوند.
+\end{itemize}
+
+\paragraph{جمع‌بندی.} برخلاف نتایج موفقیت‌آمیز بر روی \lr{CIFAR-10} و \lr{MNIST}، در دیتاست \lr{Tiny ImageNet} کاهش پارامترها و استفاده از فشرده‌سازی تانسوری، به دلیل پیچیدگی بالای داده و محدودیت ظرفیت مدل، منجر به افت عملکرد آزمون شده است. با این حال، استفاده از بهینه‌ساز مناسب مانند \lr{AdamW} توانسته تا حدی این شکاف را کاهش دهد.
+
+
+
+
+
+
+
+
 
