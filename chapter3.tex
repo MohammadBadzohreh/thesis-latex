@@ -237,6 +237,27 @@ V^{(k)} \in \mathbb{R}^{R_k \times I_k}, \quad \forall k = 0,\dots,N.
 
 
 
+
+
+
+
+\begin{figure}[h]
+	\centering
+	\begin{minipage}[b]{0.99\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{transformer_images/persian images/b23_2.png}
+		\caption{تعبیه  پچ ها}
+		\label{fig:patch embedding}
+	\end{minipage}
+	\hfill
+\end{figure}
+
+
+
+
+
+
+
 برای نگاشت هر پچ به فضای نهفته، به جای استفاده از mlp  از یک لایه‌ی فشرده ساز تانسوری  استفاده می‌شود. در واقع سه تا بعد اخر با استفاده از لایه فشرده ساز تنسوری تعبیه میشود.
 
 \[
@@ -564,6 +585,8 @@ A = [2,\ 0]
 
 هدف این مرحله، کاهش ابعاد مکانی به $\left( \frac{H}{2}, \frac{W}{2} \right)$ و در عین حال، افزایش غنای بازنمایی ویژگی‌ها است.
 
+
+
 \subsubsection*{ادغام پچ‌های مجاور}
 
 برای کاهش ابعاد مکانی، ابتدا هر چهار پچ مجاور در پنجره‌ای $2 \times 2$ انتخاب می‌شوند. این چهار پچ به‌صورت زیر دسته‌بندی می‌شوند:
@@ -574,6 +597,22 @@ A = [2,\ 0]
 	\item پچ پایین-چپ،
 	\item پچ پایین-راست.
 \end{itemize}
+
+
+
+
+\begin{figure}[h]
+	\centering
+	\begin{minipage}[b]{0.7\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{transformer_images/persian images/b24_2.png}
+		\caption{ادغام پچ ها}
+		\label{fig:pach merging}
+	\end{minipage}
+	\hfill
+\end{figure}
+
+
 
 در مرحله بعد، این چهار پچ با یکدیگر ترکیب می‌شوند، به این صورت که هرکدام به‌صورت مستقل نگه داشته شده و در امتداد بعد کانالی $(C)$ به یکدیگر متصل می‌شوند. در نتیجه، در هر موقعیت مکانی جدید، تانسوری با ابعاد $(R_1, R_2, 4C)$ خواهیم داشت. در سطح کلان، خروجی میان‌مرحله‌ای به‌صورت زیر خواهد بود:
 

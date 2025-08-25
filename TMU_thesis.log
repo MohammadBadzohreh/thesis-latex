@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  10 AUG 2025 11:49
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.13)  25 AUG 2025 09:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1110,7 +1110,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [7
 
 ]
-Overfull \hbox (5.11057pt too wide) in paragraph at lines 26--26
+Overfull \hbox (5.11057pt too wide) in paragraph at lines 28--28
  [][][] []\TU/XBNiloofar.ttf(0)/b/n/12 روند تغییرات دقت []\TU/lmroman10-regular
 (0)/m/n/12 Top-1[] \TU/XBNiloofar.ttf(0)/b/n/12 مدل اصلی []\TU/lmroman10-regula
 r(0)/m/n/12 Swin-Tiny[] \TU/XBNiloofar.ttf(0)/b/n/12 بر روی مجموعه‌داده []\TU/l
@@ -1118,7 +1118,7 @@ mroman10-regular(0)/m/n/12 CIFAR-[][]
  []
 
 
-Overfull \hbox (8.98346pt too wide) in paragraph at lines 27--27
+Overfull \hbox (8.98346pt too wide) in paragraph at lines 29--29
  [][][] []\TU/XBNiloofar.ttf(0)/b/n/12 روند تغییرات دقت []\TU/lmroman10-regular
 (0)/m/n/12 Top-1[] \TU/XBNiloofar.ttf(0)/b/n/12 مدل پیشنهادی []\TU/lmroman10-re
 gular(0)/m/n/12 Tensorized Swin[] \TU/XBNiloofar.ttf(0)/b/n/12 بر روی مجموعه‌دا
@@ -1695,8 +1695,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [46]
-File: transformer_images/swin_transformer.png Graphic file (type bmp)
-<transformer_images/swin_transformer.png>
+File: transformer_images/persian images/b11_3.png Graphic file (type bmp)
+<transformer_images/persian images/b11_3.png>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1932,6 +1932,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [67]
+File: transformer_images/persian images/b23_2.png Graphic file (type bmp)
+<transformer_images/persian images/b23_2.png>
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2022,6 +2025,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [77]
+File: transformer_images/persian images/b24_2.png Graphic file (type bmp)
+<transformer_images/persian images/b24_2.png>
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2039,7 +2045,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[79])
+[79]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2048,14 +2054,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[80]
+[80])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[81]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 فصل 4.
 
 
-[81
+[82
 
 
 
@@ -2076,21 +2091,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.95074pt}.
 
-[82]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.95074pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.95074pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.95074pt}.
-
 [83]
-File: transformer_images/results/mnist_original.png Graphic file (type bmp)
-<transformer_images/results/mnist_original.png>
-File: transformer_images/results/mnist_tensorized.png Graphic file (type bmp)
-<transformer_images/results/mnist_tensorized.png>
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2100,6 +2101,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.95074pt}.
 
 [84]
+File: transformer_images/results/mnist_original.png Graphic file (type bmp)
+<transformer_images/results/mnist_original.png>
+File: transformer_images/results/mnist_tensorized.png Graphic file (type bmp)
+<transformer_images/results/mnist_tensorized.png>
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2118,6 +2124,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.95074pt}.
 
 [86]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.95074pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.95074pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.95074pt}.
+
+[87]
 File: transformer_images/results/tiny_image_net_original.png Graphic file (type
  bmp)
 <transformer_images/results/tiny_image_net_original.png>
@@ -2136,7 +2151,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.95074pt}.
 
-[87]
+[88]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2145,7 +2160,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.95074pt}.
 
-[88]
+[89]
 Overfull \hbox (18.8996pt too wide) in paragraph at lines 195--196
 [] []\TU/XBNiloofar.ttf(0)/m/it/12 جمع‌بندی.[] برخلاف نتایج موفقیت‌آمیز بر روی 
 []\TU/lmroman10-regular(0)/m/n/12 CIFAR-10[] \TU/XBNiloofar.ttf(0)/m/it/12 و []
@@ -2162,7 +2177,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.95074pt}.
 
-[89]
+[90]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex)
@@ -2190,7 +2205,7 @@ ine 46.
 
 
 
-[90
+[91
 
 
 
@@ -2324,7 +2339,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[91]
+[92]
 Missing character: There is no چ (U+0686) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 Missing character: There is no گ (U+06AF) in font [lmroman10-regular]/OT:script
@@ -2440,23 +2455,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[92]
-Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [93]
 Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
+Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
 
 
 
@@ -2466,7 +2469,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[94])
+[94]
+Missing character: There is no   (U+202F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2475,14 +2481,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[95]
+[95])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[96]
 \openout2 = `appendix1.aux'.
 
  (./appendix1.tex
 پیوست آ.
 )
 
-[96
+[97
 
 
 ]
@@ -2494,7 +2509,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
 
 
 
-[97
+[98
 
 
 ]
@@ -2502,7 +2517,7 @@ File: armtmu.eps Graphic file (type eps)
 <armtmu.eps>
 
 
-[98]) 
+[99]) 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./TMU_thesis.aux (./Introduction.aux) (./chapter1.aux) (./chapter2.aux)
 (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./references.aux)
@@ -2520,21 +2535,16 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
 (rerunfilecheck)             Checksum: BCDA947EDD380073CE49052B9882788F;23034.
-
-Package rerunfilecheck Warning: File `TMU_thesis.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `TMU_thesis.brf':
-(rerunfilecheck)             Before: 9D1BA4D4B7EFD5B3133E3734CB929556;10707
-(rerunfilecheck)             After:  81F6DA31FB78196D127CB675C08FDF4B;10707.
+Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 81F6DA31FB78196D127CB675C08FDF4B;10707.
  ) 
 Here is how much of TeX's memory you used:
- 18144 strings out of 473832
- 378657 string characters out of 5733158
- 805995 words of memory out of 5000000
- 40750 multiletter control sequences out of 15000+600000
+ 18162 strings out of 473832
+ 379495 string characters out of 5733158
+ 806070 words of memory out of 5000000
+ 40766 multiletter control sequences out of 15000+600000
  570297 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,1244b,952s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,1244b,951s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TMU_thesis.pdf (110 pages).
+Output written on TMU_thesis.pdf (111 pages).

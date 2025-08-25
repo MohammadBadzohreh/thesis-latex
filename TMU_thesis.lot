@@ -3,7 +3,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces مقایسه عملکرد مدل اصلی و مدل پیشنهادی بر روی مجموعه‌داده \lr {CIFAR-10} بر حسب دقت‌های \lr {Top-1} و \lr {Top-5}.}}{82}{table.4.1}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces مقایسه‌ی عملکرد مدل اصلی و مدل تانسوری بر روی \lr {MNIST} (فقط Top-1 و Top-5).}}{84}{table.4.2}%
-\contentsline {table}{\numberline {4.3}{\ignorespaces مقایسه‌ی عملکرد مدل‌ها بر روی \lr {Tiny ImageNet}.}}{87}{table.4.3}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces مقایسه عملکرد مدل اصلی و مدل پیشنهادی بر روی مجموعه‌داده \lr {CIFAR-10} بر حسب دقت‌های \lr {Top-1} و \lr {Top-5}.}}{83}{table.4.1}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces مقایسه‌ی عملکرد مدل اصلی و مدل تانسوری بر روی \lr {MNIST} (فقط Top-1 و Top-5).}}{85}{table.4.2}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces مقایسه‌ی عملکرد مدل‌ها بر روی \lr {Tiny ImageNet}.}}{88}{table.4.3}%
 \addvspace {10\p@ }
