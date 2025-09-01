@@ -23,45 +23,53 @@ Repeated entry---line 963 of file reference.bib
  : @article{kossaifi2020tensorregression
  :                                      ,
 I'm skipping whatever remains of this entry
-You've used 55 entries,
+Repeated entry---line 1019 of file reference.bib
+ : @inproceedings{krizhevsky2012imagenet
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1067 of file reference.bib
+ : @inproceedings{he2016deep
+ :                          ,
+I'm skipping whatever remains of this entry
+You've used 57 entries,
             2118 wiz_defined-function locations,
-            801 strings with 13366 characters,
-and the built_in function-call counts, 19344 in all, are:
-= -- 1870
-> -- 927
-< -- 16
-+ -- 374
-- -- 310
-* -- 1230
-:= -- 3117
-add.period$ -- 167
-call.type$ -- 55
-change.case$ -- 304
+            810 strings with 13808 characters,
+and the built_in function-call counts, 20217 in all, are:
+= -- 1946
+> -- 988
+< -- 17
++ -- 398
+- -- 332
+* -- 1292
+:= -- 3261
+add.period$ -- 174
+call.type$ -- 57
+change.case$ -- 321
 chr.to.int$ -- 0
-cite$ -- 55
-duplicate$ -- 813
-empty$ -- 1551
-format.name$ -- 310
-if$ -- 4144
+cite$ -- 57
+duplicate$ -- 846
+empty$ -- 1614
+format.name$ -- 332
+if$ -- 4326
 int.to.chr$ -- 0
-int.to.str$ -- 55
-missing$ -- 71
-newline$ -- 280
-num.names$ -- 110
-pop$ -- 415
+int.to.str$ -- 57
+missing$ -- 73
+newline$ -- 291
+num.names$ -- 114
+pop$ -- 438
 preamble$ -- 1
-purify$ -- 263
+purify$ -- 278
 quote$ -- 0
-skip$ -- 591
+skip$ -- 613
 stack$ -- 0
-substring$ -- 1059
-swap$ -- 219
-text.length$ -- 16
+substring$ -- 1085
+swap$ -- 228
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 184
+type$ -- 192
 warning$ -- 0
-while$ -- 175
-width$ -- 57
-write$ -- 605
-(There were 3 error messages)
+while$ -- 182
+width$ -- 59
+write$ -- 628
+(There were 5 error messages)

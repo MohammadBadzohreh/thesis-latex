@@ -19,88 +19,90 @@
 \contentsline {subsection}{\numberline {1.1.7}نزدیک‌ترین همسایه }{11}{subsection.1.1.7}%
 \contentsline {subsection}{\numberline {1.1.8}ماشین بردار پشتیبان}{12}{subsection.1.1.8}%
 \contentsline {subsection}{\numberline {1.1.9}بیز ساده}{13}{subsection.1.1.9}%
-\contentsline {subsection}{\numberline {1.1.10}شبکه‌های عصبی بازگشتی و شبکه‌های حافظه بلندمدت کوتاه‌مدت}{14}{subsection.1.1.10}%
-\contentsline {subsection}{\numberline {1.1.11}شبکه‌های عصبی بازگشتی}{14}{subsection.1.1.11}%
-\contentsline {subsection}{\numberline {1.1.12}ساختار و عملکرد شبکه‌های عصبی بازگشتی}{15}{subsection.1.1.12}%
-\contentsline {subsection}{\numberline {1.1.13}شبکه‌های حافظه بلندمدت-کوتاه‌مدت}{16}{subsection.1.1.13}%
-\contentsline {subsection}{\numberline {1.1.14}ناپدید شدن گرادیان در شبکه های بازگشتی}{16}{subsection.1.1.14}%
-\contentsline {subsection}{\numberline {1.1.15}ظهور شبکه‌های حافظه بلندمدت-کوتاه‌مدت}{17}{subsection.1.1.15}%
-\contentsline {subsection}{\numberline {1.1.16}راه‌حل شبکه‌های حافظه بلندمدت-کوتاه‌مدت برای پایداری جریان گرادیان‌ها}{18}{subsection.1.1.16}%
-\contentsline {section}{\numberline {1.2}ساختار شبکه های حافظه بلند-مدت کوتاه-مدت}{18}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}وضعیت سلولی}{18}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}دروازه‌ها}{19}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}به‌روزرسانی وضعیت سلولی}{20}{subsection.1.2.3}%
-\contentsline {subsubsection}{ علت پایداری گرادیان در شبکه های حافظه بلند-مدت کوتاه مدت}{20}{section*.9}%
-\contentsline {subsection}{\numberline {1.2.4}محدودیت‌های شبکه‌های بازگشتی}{21}{subsection.1.2.4}%
-\contentsline {chapter}{\numberline {2}پیشینه پژوهش}{23}{chapter.2}%
-\contentsline {section}{\numberline {2.1}مشکلات ترجمه ماشینی و مبدل ها}{23}{section.2.1}%
-\contentsline {section}{\numberline {2.2}ظهور ترانسفورمرها}{24}{section.2.2}%
-\contentsline {section}{\numberline {2.3}معماری مبدل ها}{25}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}جاسازی}{25}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}جاسازی موقعیتی}{26}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}توجه}{29}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}توجه چند سر}{31}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}اتصال باقی مانده}{33}{subsection.2.3.5}%
-\contentsline {section}{\numberline {2.4}نرمال سازی لایه ها}{34}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}اتصال باقی مانده}{36}{subsection.2.4.1}%
-\contentsline {paragraph}{نرمال سازی لایه}{37}{section*.17}%
-\contentsline {section}{\numberline {2.5}رمزگشا}{37}{section.2.5}%
-\contentsline {section}{\numberline {2.6}توجه چند سری ماسک شده}{38}{section.2.6}%
-\contentsline {section}{\numberline {2.7}مثال عددی توجه ماسک شده}{39}{section.2.7}%
-\contentsline {section}{\numberline {2.8}مبدل های بینایی}{40}{section.2.8}%
-\contentsline {subsection}{\numberline {2.8.1}جاسازی پچ ها در مبدل های بینایی}{40}{subsection.2.8.1}%
-\contentsline {subsection}{\numberline {2.8.2}شکل پچ‌ها:}{41}{subsection.2.8.2}%
-\contentsline {subsection}{\numberline {2.8.3}تعداد پچ‌ها:}{41}{subsection.2.8.3}%
-\contentsline {subsection}{\numberline {2.8.4}بردارکردن هر پچ}{42}{subsection.2.8.4}%
-\contentsline {section}{\numberline {2.9}اعمال لایهٔ خطی}{43}{section.2.9}%
-\contentsline {subsection}{\numberline {2.9.1}توکن کلاس بندی}{44}{subsection.2.9.1}%
-\contentsline {subsection}{\numberline {2.9.2}رمزگذار در مبدل های بینایی}{45}{subsection.2.9.2}%
-\contentsline {section}{\numberline {2.10}مبدل پنجره‌ای متحرک}{46}{section.2.10}%
-\contentsline {subsection}{\numberline {2.10.1}قطعه‌بندی پچ در مبدل پنجره متحرک}{48}{subsection.2.10.1}%
-\contentsline {subsection}{\numberline {2.10.2}توجه چند سر پنجره ای}{49}{subsection.2.10.2}%
-\contentsline {subsubsection}{تعریف پنجره‌های محلی}{49}{section*.18}%
-\contentsline {subsection}{\numberline {2.10.3}توجه}{50}{subsection.2.10.3}%
-\contentsline {subsection}{\numberline {2.10.4}پنجره متحرک جا به جا شده}{51}{subsection.2.10.4}%
-\contentsline {subsubsection}{توجه چند سری پنجره ای}{52}{section*.19}%
-\contentsline {subsubsection}{توجه چند سری پنجره ای جا به جا شده}{52}{section*.20}%
-\contentsline {subsection}{\numberline {2.10.5}پرسپتروون چند لایه}{54}{subsection.2.10.5}%
-\contentsline {subsection}{\numberline {2.10.6}ترکیب پچ ها}{55}{subsection.2.10.6}%
-\contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{55}{section*.21}%
-\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{56}{section*.22}%
-\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{56}{section*.23}%
-\contentsline {subsubsection}{4. کاهش ابعاد مکانی}{56}{section*.24}%
-\contentsline {chapter}{\numberline {3}روش های پیشنهادی}{58}{chapter.3}%
-\contentsline {subsection}{\numberline {3.0.1}لایه فشرده‌سازی تانسوری}{61}{subsection.3.0.1}%
-\contentsline {subsection}{\numberline {3.0.2}لایهٔ رگرسیون تانسوری (\lr {TRL})}{63}{subsection.3.0.2}%
-\contentsline {subsection}{\numberline {3.0.3}چرا در مبدل‌های بینایی از تانسور استفاده می‌کنیم؟}{64}{subsection.3.0.3}%
-\contentsline {subsubsection}{۱. \textbf {کاهش تعداد پارامترها و حافظه مصرفی}}{64}{section*.32}%
-\contentsline {subsubsection}{۲. \textbf {افزایش تفسیرپذیری با حفظ ساختار چندخطی داده}}{65}{section*.33}%
-\contentsline {subsubsection}{۳. \textbf {کاهش نیاز به داده‌های آموزشی بزرگ}}{65}{section*.34}%
-\contentsline {subsection}{\numberline {3.0.4}روش تانسوری مبدل پنجره متحرک:}{65}{subsection.3.0.4}%
-\contentsline {subsection}{\numberline {3.0.5}پیاده‌سازی مرحله‌ی تعبیه پچ با استفاده از فشرده‌سازی تانسوری}{65}{subsection.3.0.5}%
-\contentsline {subsection}{\numberline {3.0.6}ماژول توجه سلف چندسری مبتنی بر پنجره به‌صورت تانسوری}{68}{subsection.3.0.6}%
-\contentsline {subsection}{\numberline {3.0.7}توجه علامت‌دار}{72}{subsection.3.0.7}%
-\contentsline {paragraph}{محاسبه امتیاز توجه}{73}{section*.41}%
-\contentsline {paragraph}{الف) توجه معمولی:}{74}{section*.42}%
-\contentsline {paragraph}{ب) توجه علامت‌دار:}{74}{section*.43}%
-\contentsline {subsection}{\numberline {3.0.8}توجه مبتنی بر پنجره‌های جابه‌جا‌شده به صورت تانسوری}{75}{subsection.3.0.8}%
-\contentsline {subsection}{\numberline {3.0.9}ادغام پچ‌ها به‌صورت تانسوری}{76}{subsection.3.0.9}%
-\contentsline {subsection}{\numberline {3.0.10}مرحله‌ی طبقه‌بندی نهایی با استفاده از رگرسیون تانسوری}{78}{subsection.3.0.10}%
-\contentsline {chapter}{\numberline {4}نتایج و تحلیل‌ها}{81}{chapter.4}%
-\contentsline {section}{\numberline {4.1}ارزیابی بر روی مجموعه‌داده \lr {CIFAR-10}}{81}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}خلاصه نتایج کمی}{81}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}تحلیل نتایج}{82}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}نمایش روند آموزش}{83}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}جمع‌بندی}{83}{subsection.4.1.4}%
-\contentsline {section}{\numberline {4.2}نتایج بر روی دیتاست \lr {MNIST}}{84}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}خلاصه‌ی نتایج کمی}{84}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}نمایش روند آموزش}{84}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}تحلیل و بحث}{85}{subsection.4.2.3}%
-\contentsline {paragraph}{جمع‌بندی.}{86}{section*.50}%
-\contentsline {section}{\numberline {4.3}نتایج بر روی دیتاست \lr {Tiny ImageNet}}{87}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}خلاصه نتایج کمی}{87}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}نمایش روند آموزش}{87}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}تحلیل و بحث}{87}{subsection.4.3.3}%
-\contentsline {paragraph}{جمع‌بندی.}{88}{section*.51}%
-\contentsline {chapter}{کتاب‌نامه}{91}{chapter*.52}%
-\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{97}{appendix.Alph1}%
+\contentsline {subsection}{\numberline {1.1.10}شبکه‌های عصبی پیش‌خور}{14}{subsection.1.1.10}%
+\contentsline {subsection}{\numberline {1.1.11}شبکه‌های عصبی پیچشی}{15}{subsection.1.1.11}%
+\contentsline {subsection}{\numberline {1.1.12}شبکه‌های عصبی بازگشتی و شبکه‌های حافظه بلندمدت کوتاه‌مدت}{17}{subsection.1.1.12}%
+\contentsline {subsection}{\numberline {1.1.13}شبکه‌های عصبی بازگشتی}{17}{subsection.1.1.13}%
+\contentsline {subsection}{\numberline {1.1.14}ساختار و عملکرد شبکه‌های عصبی بازگشتی}{17}{subsection.1.1.14}%
+\contentsline {subsection}{\numberline {1.1.15}شبکه‌های حافظه بلندمدت-کوتاه‌مدت}{19}{subsection.1.1.15}%
+\contentsline {subsection}{\numberline {1.1.16}ناپدید شدن گرادیان در شبکه های بازگشتی}{20}{subsection.1.1.16}%
+\contentsline {subsection}{\numberline {1.1.17}ظهور شبکه‌های حافظه بلندمدت-کوتاه‌مدت}{21}{subsection.1.1.17}%
+\contentsline {subsection}{\numberline {1.1.18}راه‌حل شبکه‌های حافظه بلندمدت-کوتاه‌مدت برای پایداری جریان گرادیان‌ها}{21}{subsection.1.1.18}%
+\contentsline {section}{\numberline {1.2}ساختار شبکه های حافظه بلند-مدت کوتاه-مدت}{21}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}وضعیت سلولی}{22}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}دروازه‌ها}{22}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}به‌روزرسانی وضعیت سلولی}{23}{subsection.1.2.3}%
+\contentsline {subsubsection}{ علت پایداری گرادیان در شبکه های حافظه بلند-مدت کوتاه مدت}{24}{section*.9}%
+\contentsline {subsection}{\numberline {1.2.4}محدودیت‌های شبکه‌های بازگشتی}{24}{subsection.1.2.4}%
+\contentsline {chapter}{\numberline {2}پیشینه پژوهش}{27}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مشکلات ترجمه ماشینی و مبدل ها}{27}{section.2.1}%
+\contentsline {section}{\numberline {2.2}ظهور ترانسفورمرها}{28}{section.2.2}%
+\contentsline {section}{\numberline {2.3}معماری مبدل ها}{29}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}جاسازی}{29}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}جاسازی موقعیتی}{30}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}توجه}{33}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}توجه چند سر}{35}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}اتصال باقی مانده}{37}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2.4}نرمال سازی لایه ها}{38}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}اتصال باقی مانده}{40}{subsection.2.4.1}%
+\contentsline {paragraph}{نرمال سازی لایه}{41}{section*.17}%
+\contentsline {section}{\numberline {2.5}رمزگشا}{41}{section.2.5}%
+\contentsline {section}{\numberline {2.6}توجه چند سری ماسک شده}{42}{section.2.6}%
+\contentsline {section}{\numberline {2.7}مثال عددی توجه ماسک شده}{43}{section.2.7}%
+\contentsline {section}{\numberline {2.8}مبدل های بینایی}{44}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}جاسازی پچ ها در مبدل های بینایی}{44}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}شکل پچ‌ها:}{45}{subsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.8.3}تعداد پچ‌ها:}{45}{subsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.8.4}بردارکردن هر پچ}{46}{subsection.2.8.4}%
+\contentsline {section}{\numberline {2.9}اعمال لایهٔ خطی}{47}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}توکن کلاس بندی}{48}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}رمزگذار در مبدل های بینایی}{49}{subsection.2.9.2}%
+\contentsline {section}{\numberline {2.10}مبدل پنجره‌ای متحرک}{50}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}قطعه‌بندی پچ در مبدل پنجره متحرک}{52}{subsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.10.2}توجه چند سر پنجره ای}{53}{subsection.2.10.2}%
+\contentsline {subsubsection}{تعریف پنجره‌های محلی}{53}{section*.18}%
+\contentsline {subsection}{\numberline {2.10.3}توجه}{54}{subsection.2.10.3}%
+\contentsline {subsection}{\numberline {2.10.4}پنجره متحرک جا به جا شده}{55}{subsection.2.10.4}%
+\contentsline {subsubsection}{توجه چند سری پنجره ای}{56}{section*.19}%
+\contentsline {subsubsection}{توجه چند سری پنجره ای جا به جا شده}{56}{section*.20}%
+\contentsline {subsection}{\numberline {2.10.5}پرسپتروون چند لایه}{58}{subsection.2.10.5}%
+\contentsline {subsection}{\numberline {2.10.6}ترکیب پچ ها}{59}{subsection.2.10.6}%
+\contentsline {subsubsection}{1. انتخاب بلوک‌های \((2 \times 2)\)}{59}{section*.21}%
+\contentsline {subsubsection}{2. ادغام ویژگی‌های چهار پیکسل}{60}{section*.22}%
+\contentsline {subsubsection}{3. لایهٔ خطی برای تغییر بعد}{60}{section*.23}%
+\contentsline {subsubsection}{4. کاهش ابعاد مکانی}{60}{section*.24}%
+\contentsline {chapter}{\numberline {3}روش های پیشنهادی}{62}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}لایه فشرده‌سازی تانسوری}{65}{subsection.3.0.1}%
+\contentsline {subsection}{\numberline {3.0.2}لایهٔ رگرسیون تانسوری (\lr {TRL})}{67}{subsection.3.0.2}%
+\contentsline {subsection}{\numberline {3.0.3}چرا در مبدل‌های بینایی از تانسور استفاده می‌کنیم؟}{68}{subsection.3.0.3}%
+\contentsline {subsubsection}{۱. \textbf {کاهش تعداد پارامترها و حافظه مصرفی}}{68}{section*.32}%
+\contentsline {subsubsection}{۲. \textbf {افزایش تفسیرپذیری با حفظ ساختار چندخطی داده}}{69}{section*.33}%
+\contentsline {subsubsection}{۳. \textbf {کاهش نیاز به داده‌های آموزشی بزرگ}}{69}{section*.34}%
+\contentsline {subsection}{\numberline {3.0.4}روش تانسوری مبدل پنجره متحرک:}{69}{subsection.3.0.4}%
+\contentsline {subsection}{\numberline {3.0.5}پیاده‌سازی مرحله‌ی تعبیه پچ با استفاده از فشرده‌سازی تانسوری}{69}{subsection.3.0.5}%
+\contentsline {subsection}{\numberline {3.0.6}ماژول توجه سلف چندسری مبتنی بر پنجره به‌صورت تانسوری}{72}{subsection.3.0.6}%
+\contentsline {subsection}{\numberline {3.0.7}توجه علامت‌دار}{76}{subsection.3.0.7}%
+\contentsline {paragraph}{محاسبه امتیاز توجه}{77}{section*.41}%
+\contentsline {paragraph}{الف) توجه معمولی:}{78}{section*.42}%
+\contentsline {paragraph}{ب) توجه علامت‌دار:}{78}{section*.43}%
+\contentsline {subsection}{\numberline {3.0.8}توجه مبتنی بر پنجره‌های جابه‌جا‌شده به صورت تانسوری}{79}{subsection.3.0.8}%
+\contentsline {subsection}{\numberline {3.0.9}ادغام پچ‌ها به‌صورت تانسوری}{80}{subsection.3.0.9}%
+\contentsline {subsection}{\numberline {3.0.10}مرحله‌ی طبقه‌بندی نهایی با استفاده از رگرسیون تانسوری}{82}{subsection.3.0.10}%
+\contentsline {chapter}{\numberline {4}نتایج و تحلیل‌ها}{85}{chapter.4}%
+\contentsline {section}{\numberline {4.1}ارزیابی بر روی مجموعه‌داده \lr {CIFAR-10}}{85}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}خلاصه نتایج کمی}{85}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}تحلیل نتایج}{86}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}نمایش روند آموزش}{87}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}جمع‌بندی}{87}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}نتایج بر روی دیتاست \lr {MNIST}}{88}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}خلاصه‌ی نتایج کمی}{88}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}نمایش روند آموزش}{88}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}تحلیل و بحث}{89}{subsection.4.2.3}%
+\contentsline {paragraph}{جمع‌بندی.}{90}{section*.50}%
+\contentsline {section}{\numberline {4.3}نتایج بر روی دیتاست \lr {Tiny ImageNet}}{91}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}خلاصه نتایج کمی}{91}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}نمایش روند آموزش}{91}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}تحلیل و بحث}{91}{subsection.4.3.3}%
+\contentsline {paragraph}{جمع‌بندی.}{92}{section*.51}%
+\contentsline {chapter}{کتاب‌نامه}{95}{chapter*.52}%
+\contentsline {chapter}{\numberline {آ}جزئیات مدل‌ها و جدول پارامترها}{101}{appendix.Alph1}%
