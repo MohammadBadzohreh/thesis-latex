@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.19)  1 SEP 2025 13:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.19)  1 SEP 2025 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1044,33 +1044,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ] (./TMU_thesis.lof
 Overfull \hbox (5.28258pt too wide) detected at line 11
-\TU/XBNiloofar.ttf(0)/b/n/12 ۱۰.‏۲.‏۱ 
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۰.‏۱.‏۱ 
+ []
+
+
+Overfull \hbox (5.28258pt too wide) detected at line 12
+\TU/XBNiloofar.ttf(0)/b/n/12 ۱۱.‏۲.‏۱ 
  []
 
 [7
 
 ]
-Overfull \hbox (5.28258pt too wide) detected at line 22
+Overfull \hbox (5.28258pt too wide) detected at line 23
 \TU/XBNiloofar.ttf(0)/b/n/12 ۱۰.‏۹.‏۲ 
  []
 
 
-Overfull \hbox (12.37245pt too wide) detected at line 23
+Overfull \hbox (12.37245pt too wide) detected at line 24
 \TU/XBNiloofar.ttf(0)/b/n/12 ۱۱.‏۱۰.‏۲ 
  []
 
 
-Overfull \hbox (12.37245pt too wide) detected at line 24
+Overfull \hbox (12.37245pt too wide) detected at line 25
 \TU/XBNiloofar.ttf(0)/b/n/12 ۱۲.‏۱۰.‏۲ 
  []
 
 
-Overfull \hbox (12.37245pt too wide) detected at line 25
+Overfull \hbox (12.37245pt too wide) detected at line 26
 \TU/XBNiloofar.ttf(0)/b/n/12 ۱۳.‏۱۰.‏۲ 
  []
 
 
-Overfull \hbox (5.11057pt too wide) in paragraph at lines 32--32
+Overfull \hbox (5.11057pt too wide) in paragraph at lines 33--33
  [][][] []\TU/XBNiloofar.ttf(0)/b/n/12 روند تغییرات دقت []\TU/lmroman10-regular
 (0)/m/n/12 Top-1[] \TU/XBNiloofar.ttf(0)/b/n/12 مدل اصلی []\TU/lmroman10-regula
 r(0)/m/n/12 Swin-Tiny[] \TU/XBNiloofar.ttf(0)/b/n/12 بر روی مجموعه‌داده []\TU/l
@@ -1078,7 +1083,7 @@ mroman10-regular(0)/m/n/12 CIFAR-[][]
  []
 
 
-Overfull \hbox (8.98346pt too wide) in paragraph at lines 33--33
+Overfull \hbox (8.98346pt too wide) in paragraph at lines 34--34
  [][][] []\TU/XBNiloofar.ttf(0)/b/n/12 روند تغییرات دقت []\TU/lmroman10-regular
 (0)/m/n/12 Top-1[] \TU/XBNiloofar.ttf(0)/b/n/12 مدل پیشنهادی []\TU/lmroman10-re
 gular(0)/m/n/12 Tensorized Swin[] \TU/XBNiloofar.ttf(0)/b/n/12 بر روی مجموعه‌دا
@@ -1468,15 +1473,6 @@ File: transformer_images/persian images/persian_images/b16.png Graphic file (ty
 pe bmp)
 <transformer_images/persian images/persian_images/b16.png>
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[29]
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
@@ -1487,12 +1483,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[30]
-Overfull \hbox (1.83154pt too wide) in paragraph at lines 79--81
+[29]
+Overfull \hbox (1.83154pt too wide) in paragraph at lines 82--84
 []\TU/XBNiloofar.ttf(0)/b/n/12 اضافی بدهیم به‌طوری‌که مدل توالی کلمات را یاد بگ
 یرد. روش‌های مختلفی برای اضافه‌کردن جاسازی[]
  []
 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1516,7 +1521,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [32]
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 6.60004pt on input line 139.
+(Font)              scaled to size 6.60004pt on input line 142.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1530,6 +1535,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: transformer_images/persian images/persian_images/b19.png Graphic file (ty
 pe bmp)
 <transformer_images/persian images/persian_images/b19.png>
+File: transformer_images/persian images/persian_images/b18.png Graphic file (ty
+pe bmp)
+<transformer_images/persian images/persian_images/b18.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1540,10 +1551,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
-File: transformer_images/persian images/persian_images/b18.png Graphic file (ty
-pe bmp)
-<transformer_images/persian images/persian_images/b18.png>
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1583,6 +1590,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [38]
+Overfull \vbox (0.42487pt too high) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1625,6 +1635,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [42]
+Missing character: There is no د ("62F) in font cmmi12!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1634,6 +1645,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [43]
+Overfull \hbox (0.9647pt too wide) in paragraph at lines 461--462
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 در روش‌های متداول برای پردازش تصویر، از شبکه ه
+ای پیچشی [][][][][][][][] ‌های متوالی استفاده می‌کردند؛[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1705,6 +1721,9 @@ File: transformer_images/persian images/b11_3.png Graphic file (type bmp)
 <transformer_images/persian images/b11_3.png>
 
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1740,7 +1759,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [53]
-Overfull \hbox (6.23409pt too wide) in paragraph at lines 750--752
+Overfull \hbox (6.23409pt too wide) in paragraph at lines 703--705
 [][]$\OML/cmm/m/it/12 Q; K; V$ \TU/XBNiloofar.ttf(0)/b/n/12 به‌ترتیب ماتریس‌های
 ی هستند که از کنار هم قرار دادن $\OML/cmm/m/it/12 q[]; k[]; v[]$ \TU/XBNiloofar
 .ttf(0)/b/n/12 (برای تمام پیکسل‌های[]
@@ -1755,6 +1774,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [54]
+Overfull \hbox (3.40503pt too wide) in paragraph at lines 734--735
+[]\TU/XBNiloofar.ttf(0)/b/n/12 در مبدل‌های پنجره متحرک، ایدهٔ «پنجره‌های جابه‌ج
+اشده» [][][][][][][][] به‌منظور یادگیری ارتباط میان پیکسل‌های[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1764,6 +1788,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [55]
+File: transformer_images/cycle_shift.png Graphic file (type bmp)
+<transformer_images/cycle_shift.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1773,12 +1803,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [56]
-File: transformer_images/cycle_shift.png Graphic file (type bmp)
-<transformer_images/cycle_shift.png>
-
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
-(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 836.
+(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 777.
 
 
 
@@ -1810,9 +1837,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [59]
 File: transformer_images/persian images/b12.png Graphic file (type bmp)
 <transformer_images/persian images/b12.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2521,22 +2545,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TMU_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: E53B07E3D382C8F913DEE1E3F9392538;21433.
+(rerunfilecheck)             Checksum: 3322FEA83B965BD3F3A0D574BDCF8137;21409.
 
 Package rerunfilecheck Warning: File `TMU_thesis.brf' has changed.
 (rerunfilecheck)                Rerun to get bibliographical references right.
 
 Package rerunfilecheck Info: Checksums for `TMU_thesis.brf':
-(rerunfilecheck)             Before: 97FF5CF5F245B7561F7CEAC6782C2628;11336
-(rerunfilecheck)             After:  D10BD74C12CCAEDAC901DB0FB34AE409;11329.
+(rerunfilecheck)             Before: D86C39A2046FC7C07B49695693C29B99;11261
+(rerunfilecheck)             After:  5B1B110296A6372096BEB328CB4E54DB;11261.
  ) 
 Here is how much of TeX's memory you used:
- 17479 strings out of 476683
- 351414 string characters out of 5807575
+ 17476 strings out of 476683
+ 351374 string characters out of 5807575
  1856012 words of memory out of 5000000
- 37228 multiletter control sequences out of 15000+600000
+ 37225 multiletter control sequences out of 15000+600000
  523755 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,12n,94p,1353b,914s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,12n,94p,1353b,912s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on TMU_thesis.pdf (115 pages).
