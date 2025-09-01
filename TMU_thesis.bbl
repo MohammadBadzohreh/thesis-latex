@@ -158,6 +158,11 @@ Philipp Koehn, Franz~Josef Och, and Daniel Marcu.
 \newblock Statistical phrase-based translation.
 \newblock In {\em Proc. of NAACL/HLT}, pages 48--54, 2003.
 
+\bibitem{kolda2009tensor}
+Tamara~G Kolda and Brett~W Bader.
+\newblock Tensor decompositions and applications.
+\newblock {\em SIAM review}, 51(3):455--500, 2009.
+
 \bibitem{kossaifi2017tensorcontraction}
 Jean Kossaifi, Aran Khanna, Zachary C. Lipton, Tommaso Furlanello, and Anima
   Anandkumar.
@@ -170,6 +175,12 @@ Jean Kossaifi, Zachary C. Lipton, Arinbjørn Kolbeinsson, Aran Khanna,
   Tommaso Furlanello, and Anima Anandkumar.
 \newblock Tensor regression networks.
 \newblock {\em Journal of Machine Learning Research}, 21(123):1--21, 2020.
+
+\bibitem{kossaifi2017tensor}
+Jean Kossaifi, Yannis Panagakis, Anima Anandkumar, and Maja Pantic.
+\newblock Tensor contraction layers for parsimonious deep nets.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1940--1949, 2017.
 
 \bibitem{krizhevsky2012imagenet}
 Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
@@ -318,6 +329,11 @@ Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir
 \newblock Going deeper with convolutions.
 \newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
   Pattern Recognition (CVPR)}, pages 1--9, 2015.
+
+\bibitem{tucker1966some}
+Ledyard~R Tucker.
+\newblock Some mathematical notes on three-mode factor analysis.
+\newblock {\em Psychometrika}, 31(3):279--311, 1966.
 
 \bibitem{vapnik1998statistical}
 Vladimir Vapnik.
