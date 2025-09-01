@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.19)  1 SEP 2025 14:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.19)  1 SEP 2025 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2550,8 +2550,8 @@ Package rerunfilecheck Warning: File `TMU_thesis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `TMU_thesis.out':
-(rerunfilecheck)             Before: 0B85BC60AAAE766143028B12DBBFA388;21557
-(rerunfilecheck)             After:  AF57EC35A96BF3971FB82E41BDB722BF;21793.
+(rerunfilecheck)             Before: AF57EC35A96BF3971FB82E41BDB722BF;21793
+(rerunfilecheck)             After:  75324E87DBC001810BA2DD9180F94A33;22213.
 Package rerunfilecheck Info: File `TMU_thesis.brf' has not changed.
 (rerunfilecheck)             Checksum: 343D21829F2EA0D503194E3F47B0A9C8;11463.
  ) 
